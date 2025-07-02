@@ -8,8 +8,7 @@ import sys
 import re
 import time
 
-from google import genai
-from google.genai import types
+import google.generativeai as genai
 
 from .config import (
     API_KEY_ENV,
@@ -125,11 +124,11 @@ def generate_analysis(
         response = client.models.generate_content(
             model=MODEL_NAME,
             contents=[
-                types.Content(
-                    role="user", parts=[types.Part.from_text(text=user_prompt)]
+                genai.types.Content(
+                    role="user", parts=[genai.types.Part.from_text(text=user_prompt)]
                 )
             ],
-            config=types.GenerateContentConfig(
+            config=genai.types.GenerateContentConfig(
                 response_mime_type="text/plain",
                 system_instruction=[analysis_system_prompt],
             ),
@@ -257,8 +256,8 @@ def update_campaign_overview(
         response = client.models.generate_content(
             model=MODEL_NAME,
             contents=[
-                types.Content(
-                    role="user", parts=[types.Part.from_text(text=user_prompt)]
+                genai.types.Content(
+                    role="user", parts=[genai.types.Part.from_text(text=user_prompt)]
                 )
             ],
         )
@@ -424,15 +423,15 @@ def generate_summary(
         response = client.models.generate_content(
             model=MODEL_NAME,
             contents=[
-                types.Content(
-                    role="user", parts=[types.Part.from_text(text=summary_prompt)]
+                genai.types.Content(
+                    role="user", parts=[genai.types.Part.from_text(text=summary_prompt)]
                 )
             ],
-            config=types.GenerateContentConfig(
+            config=genai.types.GenerateContentConfig(
                 response_mime_type="text/plain",
                 system_instruction=[summary_system_prompt],
             ),
-            # request_options=types.RequestOptions(timeout=300)
+            # request_options=genai.types.RequestOptions(timeout=300)
         )
         summary_text = response.text
 

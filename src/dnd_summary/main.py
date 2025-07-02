@@ -1,4 +1,3 @@
-
 """
 Main execution logic for the D&D session summary generator.
 """
@@ -21,47 +20,10 @@ from .llm_handler import (
 )
 from .utils import get_session_number
 
-def main():
-    """Main function to run the session summary generation process."""
-    # --- Argument Parsing ---
-    parser = argparse.ArgumentParser(
-        description="Generate D&D session analysis, campaign overview update, and summary."
-    )
-    parser.add_argument(
-        "session_identifier",
-        nargs="?",
-        help="Optional: The session number or identifier (e.g., '32', 'Session 32').",
-    )
-    args = parser.parse_args()
-
-    # --- Fallback Input Prompt ---
-    if not args.session_identifier:
-        try:
-            user_input = input(
-                "Please enter the session identifier (e.g., '32', 'Session 32'): "
-            ).strip()
-            if not user_input:
-                print("❗️ No session identifier provided. Exiting.", file=sys.stderr)
-                sys.exit(1)
-            args.session_identifier = user_input
-        except (EOFError, KeyboardInterrupt):
-            print("\n❗️ Input cancelled by user. Exiting.", file=sys.stderr)
-            sys.exit(1)
-
-    # --- Initial Directory Checks ---
-    if not os.path.isdir(PROMPTS_DIR):
-        print(f"❌ Critical Error: Prompts directory not found.", file=sys.stderr)
-        print(f"   Expected location: {PROMPTS_DIR}", file=sys.stderr)
-        sys.exit(1)
-    if not os.path.isdir(TRANSCRIPTS_DIR):
-        print(f"❌ Critical Error: Transcripts directory not found.", file=sys.stderr)
-        print(f"   Expected location: {TRANSCRIPTS_DIR}", file=sys.stderr)
-        sys.exit(1)
-
-    print("--- Session Analysis & Summary Generator ---")
-
+def process_session(session_identifier):
+    """Processes a single session to generate its summary."""
     # --- Process Session Identifier ---
-    session_number = get_session_number(args.session_identifier)
+    session_number = get_session_number(session_identifier)
 
     # --- Construct Session Identifiers ---
     session_number_str = str(session_number)
@@ -71,7 +33,7 @@ def main():
     # --- Find Transcript File ---
     transcript_file = find_transcript_file(session_number)
     if transcript_file is None:
-        sys.exit(1)
+        return
 
     # --- Define Session-Specific Output Paths ---
     output_folder = os.path.join(SESSIONS_DIR, session_folder_title)
@@ -123,8 +85,7 @@ def main():
             )
 
     # --- Display Configuration ---
-    print(f"\n🔧 Configuration:")
-    print(f"   - Session Number: {session_number}")
+    print(f"\n🔧 Configuration for Session {session_number}:")
     print(f"   - Transcript File: ''{os.path.basename(transcript_file)}'´")
     print(
         f"   - Input CO File Used: ''{os.path.basename(previous_co_input_path)}'´ (from {os.path.dirname(previous_co_input_path)})"
@@ -143,7 +104,7 @@ def main():
             f"❌ Error creating output directory ''{output_folder}'´: {e}",
             file=sys.stderr,
         )
-        sys.exit(1)
+        return
 
     # --- Run Generation Steps ---
     print("\n--- Starting Generation Process ---")
@@ -181,7 +142,7 @@ def main():
         print("\n⚠️ Campaign Overview update failed. Skipping summary generation.")
 
     # --- Final Status ---
-    print("\n--- Generation Process Finished ---")
+    print(f"\n--- Generation Process Finished for Session {session_number} ---")
     if analysis_ok and co_update_ok and summary_ok:
         print(f"✅ Process completed for Session {session_number}.")
         print(f"   Outputs are in: ''{output_folder}'´")
@@ -195,3 +156,45 @@ def main():
         print(
             f"   Check logs above for details. Any generated files are in: ''{output_folder}'´"
         )
+
+def main():
+    """Main function to run the session summary generation process."""
+    # --- Argument Parsing ---
+    parser = argparse.ArgumentParser(
+        description="Generate D&D session analysis, campaign overview update, and summary."
+    )
+    parser.add_argument(
+        "session_identifier",
+        nargs="*",
+        help="Optional: The session number or identifier (e.g., '32', 'Session 32').",
+    )
+    args = parser.parse_args()
+
+    # --- Fallback Input Prompt ---
+    if not args.session_identifier:
+        try:
+            user_input = input(
+                "Please enter the session identifier(s) (e.g., '32 33', 'Session 32 Session 33'): "
+            ).strip()
+            if not user_input:
+                print("❗️ No session identifier provided. Exiting.", file=sys.stderr)
+                sys.exit(1)
+            args.session_identifier = user_input.split()
+        except (EOFError, KeyboardInterrupt):
+            print("\n❗️ Input cancelled by user. Exiting.", file=sys.stderr)
+            sys.exit(1)
+
+    # --- Initial Directory Checks ---
+    if not os.path.isdir(PROMPTS_DIR):
+        print(f"❌ Critical Error: Prompts directory not found.", file=sys.stderr)
+        print(f"   Expected location: {PROMPTS_DIR}", file=sys.stderr)
+        sys.exit(1)
+    if not os.path.isdir(TRANSCRIPTS_DIR):
+        print(f"❌ Critical Error: Transcripts directory not found.", file=sys.stderr)
+        print(f"   Expected location: {TRANSCRIPTS_DIR}", file=sys.stderr)
+        sys.exit(1)
+
+    print("--- Session Analysis & Summary Generator ---")
+
+    for session_identifier in args.session_identifier:
+        process_session(session_identifier)
