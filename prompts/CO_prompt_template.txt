@@ -1,0 +1,88 @@
+**Goal:** Update the provided previous campaign overview based on the detailed information contained in the session analysis. The output must be a revised, complete campaign overview document maintaining the established format, style, and spirit.
+
+**Context:**
+The campaign overview document serves as a comprehensive reference guide for the long-running Dungeons & Dragons campaign set in Avarias. It summarizes player characters (stats, key items, notable events), key and minor non-player characters, major campaign milestones, important locations, and the status of ongoing or resolved campaign mysteries/goals. It is a living document, intended to be updated after each game session to reflect the current state of the campaign using the detailed session analysis. Maintaining consistency, accuracy, and the established factual, concise style is crucial.
+
+**Instructions & Core Task:**
+Carefully process the information contained within the `<session_analysis>` tags below. Use this information to update the content found within the `<previous_campaign_overview>` tags below. Integrate relevant findings, update existing entries, add new information/entities, and reclassify entities as needed based on the session's events, following the detailed heuristics provided.
+
+**Inputs:**
+
+1.  **Previous Campaign Overview:** This is the state of the campaign *before* the session being analyzed. Study this content carefully.
+    <previous_campaign_overview>
+    {previous_campaign_overview}
+    </previous_campaign_overview>
+
+2.  **Session Analysis:** This is the detailed breakdown of the *most recent* game session. Extract all relevant updates from this document.
+    <session_analysis>
+    {session_analysis}
+    </session_analysis>
+
+
+
+**Detailed Instructions & Heuristics:**
+
+1.  **Maintain Structure & Format:**
+    * Ensure the output uses the exact section headings listed in Input 1: `Player Characters known as the O’dears`, `Key NPCs`, `Minor NPCs`, `Important Events So Far`, `Locations of Interest`, `Ongoing Mysteries & Goals`.
+    * Use bullet points (`*`) for entries within each section.
+    * Follow the established format for entries (e.g., `Name Race/Class: ...`, `Current Level: ...`, `Key Items: ...`, `Notable Traits & Events:`).
+    * Keep descriptions concise and factual, matching the style of the overview document provided initially (summarizing facts and outcomes, avoiding excessive narrative).
+
+2.  **General Update Principles:**
+    * **Integration:** Add new information logically within the existing structure, referencing specific sections of the `<session_analysis>` as instructed below.
+    * **Modification:** Update existing entries based on new information (e.g., PC level, NPC status, location descriptions, item states, mystery progress). Use the detailed analysis in sections like 2, 3, 6, 9, 10, 11, 13 of the `<session_analysis>`.
+    * **Reclassification:** If a `Minor NPC` becomes significant based on the session (see heuristic below), move their entry to `Key NPCs`.
+    * **Consistency:** Ensure information is consistent across different sections. If an NPC dies (analysis Section 3/4), update their entry and reflect this in any relevant Event or Mystery entries.
+
+3.  **Section-Specific Guidelines:**
+
+    * **Player Characters (PCs):** (Draw heavily from `<session_analysis>` Section 2: Player Character Actions, Section 9: Character Development, Section 10: Relationships, Section 6: Objects, Section 7: Rules/Mechanics Impact)
+        * Update `Race/Class` only if a change occurred.
+        * **Add/Update `Current Level:` line.**
+        * **Add/Update `Key Items:` subsection:**
+            * List significant items currently possessed (magical, plot-relevant, signature gear). Refer to PC inventories/actions in the analysis.
+            * Note any changes in item status if detailed in the analysis (e.g., "Searing Saber (Absorbed Larethian's essence)", "Potion of Healing (Used)"). Focus on items with lasting impact or changing states.
+        * Under `Notable Traits & Events:`
+            * Add bullet points summarizing significant actions, decisions, character development moments (analysis Section 9), major combat roles or *notable* uses of abilities/spells (analysis Section 13 & 7, e.g., "Polymorphed into T-Rex during Queen's trial"), or newly revealed backstory elements from the session. Use concise descriptions of *outcomes* and *significance*.
+
+    * **Key NPCs:** (Draw from `<session_analysis>` Section 3: NPC Deep Dive, Section 4: Timeline, Section 10: Relationships)
+        * Update entries for existing Key NPCs based on their actions, status changes (location, allegiance, alive/dead/missing), objectives revealed, and significant interactions detailed in the analysis.
+        * **Promotion Heuristic:** Review NPCs currently listed in `Minor NPCs`. If a minor NPC had substantial interaction, adventured/fought with the party, revealed critical information, or demonstrably "left a mark" during the session (apply judgment based on analysis Sections 3 & 10), move their entire entry from `Minor NPCs` to `Key NPCs`. Update their entry with the new session information.
+
+    * **Minor NPCs:** (Draw from `<session_analysis>` Section 3: NPC Deep Dive)
+        * Add **new** NPCs encountered during the session who do *not* meet the threshold for `Key NPCs`. Include their name (or descriptive label), a brief description, and their role/interaction in the session (e.g., "*Guard Captain Miller:* Human guard in New Arbor who gave the party directions.").
+        * Update entries for existing Minor NPCs if they reappeared or their status changed, but they still don't qualify as Key.
+        * If a previously Minor NPC is promoted to Key, ensure their entry is *removed* from this section.
+
+    * **Important Events So Far:** (Draw from `<session_analysis>` Section 4: Chronological Timeline, Section 8: Narrative Blueprint, Section 14: Revelations)
+        * **Do NOT simply append a summary of the entire session.**
+        * Review the session's major events, climax, and revelations (analysis Sections 4, 8, 14).
+        * **Milestone Heuristic:** Determine if the session contained a *campaign-defining milestone*. Examples: Completion of a major story arc/quest line, defeat of a major antagonist, discovery of a world-altering secret, fundamental change in the party's main objective or situation, liberation/destruction of a major location.
+        * If such a milestone occurred, add a *new bullet point* summarizing *that specific milestone* concisely. (e.g., "*Defeat of the Spider Queen Larethian:* After navigating Moonhaven's tunnels and enduring her trials, the party vanquished the mythic Spider Queen Larethian in her lair, recovering the Marble Eye artifact."). If no such major milestone occurred, do not add a new event for this session. This section tracks major plot beats, not every session's activity.
+
+    * **Locations of Interest:** (Draw from `<session_analysis>` Section 6: Locations and Objects, Section 4: Timeline)
+        * Add entries for newly discovered significant locations, using descriptions from the analysis.
+        * Update descriptions of existing locations based on events in the session. Incorporate changes to their state or understanding (e.g., "*Spider Queen's Central Cavern:* Vast cavern, site of the battle with Larethian. Web floor heavily damaged; Elven Service Tunnel discovered at the bottom of the central pit."). Note significant changes like 'cleared', 'destroyed', 'under new control', etc., if applicable.
+
+    * **Ongoing Mysteries & Goals:** (Draw from `<session_analysis>` Section 8: Narrative Blueprint - Unresolved Questions, Section 11: Cause and Effect, Section 14: Revelations)
+        * Add new bullet points for significant questions, goals, or plot threads that arose during the session (referencing analysis Section 8's unresolved questions).
+        * Update existing mysteries with any progress made or new information learned.
+        * **Resolution Handling:** If a mystery was definitively solved or a goal fully achieved during the session analyzed:
+            * Attempt to infer the session number (e.g., from document titles/metadata if available, or explicit mentions like "DM: Okay, end of session 42..." in the analysis text).
+            * If a session number (e.g., 42) can be reasonably inferred, add the tag `(Resolved in Session 42)` to the end of the bullet point.
+            * If the session number cannot be reasonably inferred, add the generic tag `(Resolved)` to the end of the bullet point.
+            * Do *not* remove the entry; keep it for historical context.
+
+4.  **Guardrails & Edge Cases:**
+    * **Conflict Resolution:** Prioritize information from the `<session_analysis>` over the `<previous_campaign_overview>`. If the analysis itself contains internal contradictions (identified in Section 4: Retcon Analysis), use the *retconned/final* understanding presented in the analysis.
+    * **Ambiguity:** Reflect uncertainty noted in the analysis (e.g., "NPC's motives remain unclear," "Location's true purpose is unknown"). Avoid speculation.
+    * **Handling Missing Inputs:** If `<previous_campaign_overview>` is missing, generate a new overview based *only* on the `<session_analysis>`. If `<session_analysis>` is missing/unreadable, output an error.
+
+**Output Format:**
+Your response must contain *only* the complete, updated campaign overview, enclosed within `<campaign_overview>` tags. Do not include any other text, preamble, or explanation outside of these tags.
+
+<campaign_overview>
+
+Your work here
+
+</campaign_overview>

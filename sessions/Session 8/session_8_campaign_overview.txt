@@ -1,0 +1,323 @@
+# Campaign Overview: Previously in Avarias
+
+Below is an overview of the events, characters, locations, and ongoing mysteries from our campaign in Avarias. This document will be updated after each session based on the session analysis.
+
+---
+
+## Player Characters known as the O’dears
+
+*   **Kaladen Shash** *Race/Class:* High Elf Wizard
+    *   Current Level: 4
+    *   Key Items:
+        *   Starting equipment
+        *   Legionnaire Gear: Upgraded Medium Armor (darker blue/brown leather with brushed nickel half-plate, split robe bottom, maintaining Legionnaire blue accents), Quarterstaff (versatile, focus, modified - see below), Minor Heal (1/fight), Comms. Access rune for Legionnaire medical facility (on armor).
+        *   Modified Mycelium Spear-Staff: Original quarterstaff magically enhanced by Hamhawk using Lancex's club. Has a black, mycelium-like appearance. Transforms between staff and spear length. Contains charges (e.g., Sleep). (Full abilities TBD).
+        *   Ring of the Grammarian: Legendary magic ring (attuned). Allows altering one letter in a spell's name 1/day for a new effect (DM discretion).
+        *   Scroll of Fireball (Obtained from Philindra)
+        *   Scroll of Shield (Obtained from Philindra)
+        *   Letter of Introduction from Father Kallor
+    *   Notable Traits & Events:
+        *   Motivated by recent vivid dreams of the Feywild and a past life/another person to seek change/experience.
+        *   Attended Stonewall Legionnaire tryouts in New New Arbor. Passed initial tests; revealed potent spellcasting. Revealed 'Isoptic Curse'.
+        *   Attracted attention of Captain Levi and Lord Marshall Thurr. Accepted offer to join Legionnaires.
+        *   Landed killing blow on Cursed Fire Elemental. Glimpsed figure watching him. Moved into Barracks.
+        *   Experienced magical jolt/vision shaking Zariel's hand. Received custom gear.
+        *   Participated in first mission: investigating disappearances (Case 22391). Led investigation, fought Myconids in Fungal Tunnels.
+        *   Fought mutated Myconid Sovereign Lancex. Used Identify on mysterious woman's mask (powerful, chaotic Fey magic). Participated in decision to hide woman.
+        *   Briefed by Thurr: Learned about Lancex test, given choice about woman. Relayed info.
+        *   Won Ring of the Grammarian from HQ lottery machine (rolled 69).
+        *   Weapon Upgraded: Transferred Lancex's club magic into his quarterstaff via Hamhawk.
+        *   Checked on Hidden Woman: Experienced vision connecting him to her. Argued for research.
+        *   Led Shopping Trip: Negotiated bonus items (Scroll of Fireball).
+        *   Researched Feywild: Learned about Jeya, planar sealing/release from Grand Historian Garris.
+        *   Experienced Disturbing Dream: Nightmare of spider-creature, "He's coming for her," woman in field.
+        *   Delivered Final Arcane Splitter Component.
+        *   Advocated for Fey Woman's Care: Persuaded Thurr (Nat 20) for party access during Legionnaire care. Received access rune.
+        *   Assisted Transfer of Fey Woman to medical facility; noted mask connection.
+        *   Festival "Watchdog" Assignment: Surveillance duty. Relayed werewolf threat.
+        *   Combat at Festival: Engaged cultists with Magic Missile, Firebolt, spear-staff (Nat 20 kill). Investigated slain cultist ("The hand of God is here").
+        *   New Mission & Downtime: Assigned to hunt "The Hand of God" cult. Suggested investigating "Spit and Swallow" bar (History 18). Suggested "Mech Squad" name.
+        *   Investigated Spit and Swallow: Followed lead to the tavern. Used comms to gather party. Learned pit fight rules from Ollie the bartender. Placed bets. Discreetly cast Bless on party before fights. Observed Cedric's interventions.
+        *   Pit Fight vs Thrag "The Boulder": Volunteered for the third fight. Cast Mirror Image and Shield defensively. Attempted to use Scroll of Fireball (failed Spellcasting check). Was disarmed twice but retrieved spear. Used Mycelium Spear-Staff's Sleep charge successfully (after one failure). Cast Shocking Grasp (including a Nat 20) and Magic Missile (L2). Landed a Nat 20 spear crit. Finished the sleeping Thrag with a decisive spear thrust, making eye contact with Cedric.
+        *   Challenged by Cedric & Leveled Up: Accepted Cedric's challenge. Was restored to full vitality and leveled up to 4 by Cedric's power surge.
+        *   **Combat vs Cedric:** Cast Mirror Image and Bless pre-fight. Used spear, Magic Missile, Firebolt, Chromatic Orb (Thunder), and Misty Step tactically. Was targeted heavily by Cedric, knocked unconscious twice. Subjected to Cedric's "Next Round" ability (max HP halved upon revival). Revived by Zariel's healing. Failed Insight check on Cedric.
+        *   **Interrogation & Dream:** Led post-fight questioning of Cedric, focusing on his power, affiliations, and cult details. Asked Cedric for future aid (rebuffed). Experienced a disturbing dream (field, skulls, bones, dark pit with cloth walls, voice saying "Let me out").
+        *   **Hand of God Investigation (Dawn District):** Initiated visit to Hamhawk for armor upgrade (paid 40g). Reported findings about Cedric and chapel lead to Ratshit; request for armor voucher denied. Demonstrated spear skills to Ratshit. In Dawn District, spotted talisman vendor (Perception 18), inquired about curled-finger talismans. Failed Investigation (Nat 1) at "House of the Devil." Perceived cult iconography (Perception 22) approaching Court of Viteo. Attended Father Kallor's sermon (Perception 19); perceived eavesdroppers (Perception 23) and Insighted (18) Kallor's reaction to cult talisman. Obtained letter of introduction from Kallor (donated 1g). Interacted with groundskeeper Xander, answering "justice" to his query. Made Intelligence (Nat 20) check on mausoleum lock, noticing dual-turn capability and magical flash. Planned to grab Xander. Cast Bless during standoff with groundskeepers. Played "good cop" during Xander's interrogation, successfully persuading him to talk (Persuasion 19+d4).
+
+*   **Leopold Magnus** *Race/Class:* Warforged Artificer (Battle Smith)
+    *   Current Level: 4
+    *   Key Items:
+        *   Starting equipment
+        *   Self-repairing armor plating (innate)
+        *   "Bone Crusher" Emblem (Iron gauntlet crushing skull, on back plate)
+        *   Legionnaire Gear: Deployable Shield (magnet), Deployable Hand Crossbow (magnet), Schematics from Hamhawk, Minor Heal (1/fight), Comms. Access rune for Legionnaire medical facility (on armor).
+        *   Potion of Animal Friendship (Rhino Powder)
+        *   Small film reel with an animal image (from Dwarven Woman).
+        *   Steel Defender (Summoned via abilities)
+        *   All or Nothing Coin: Rare magic coin. Allows replacing one d20 roll/day with a coin flip (Heads=20, Tails=1). Stored in helmet (causes rattling).
+        *   Project Splitter Blueprint: Schematic from Hamhawk detailing materials for a dome-opening device (now "Arcane Splitter").
+        *   Scroll of Magic Missile (Obtained from Philindra)
+        *   Spellbook (Now contains *Charm Person*)
+        *   Three Modified Viteo Talismans (curled fingers)
+        *   Tan Robe (disguise)
+    *   Notable Traits & Events:
+        *   Found deactivated ~1 year ago, memories unclear. Befriended by Zariel. Hints of past (palace, brother Victor), but claims no clear memory. Botanical knowledge.
+        *   Persuaded by Zariel to attend Legionnaire tryouts. Impressed with magic/resilience. Revealed 'Isoptic Curse'. Accepted offer.
+        *   Bonded with party. Moved into Barracks. Experienced disturbing dream (weapon). Stated belief brother was Omen Knight.
+        *   Received unique gear from Hamhawk. Bizarre interaction with Selena Sal; received potion.
+        *   Fought Myconids in Fungal Tunnels (Session 2). Required arm detachment. Investigated tunnels (Nat 20). Defeated sprout solo.
+        *   Identified Deathcaps (Nat 20), triggering memory flash (potion making, "Try this one. It has Deathcap in it.").
+        *   Fought Lancex. Knocked unconscious; activated Stress Point (1 used), triggering Level Up (to 3) & long rest benefits. Summoned Steel Defender.
+        *   Participated in decision to hide woman. Addressed Omen Knight. Failed luck check on hiding spot.
+        *   Briefed by Ratshit & Pranked Him: Successfully deceived Ratshit about knowledge of woman using Magical Tinkering prank.
+        *   Won All or Nothing Coin from HQ lottery machine (rolled 82).
+        *   Tasked by Hamhawk (Project Splitter): Received blueprint, insists on being apprentice (running gag).
+        *   Checked on Hidden Woman: Investigated mask. Argued against removal.
+        *   Assisted Shopping: Identified overcharging merchant. Ground diamond dust.
+        *   Assisted Hamhawk: Helped construct Arcane Splitter. Learned its purpose (Moonhaven mission). Tasked with getting final component. Declined stress point equivalent for learning.
+        *   Researched City History: Found little in Core Library. Researched library security (Investigation 20 via coin).
+        *   Delivered Final Arcane Splitter Component. Endured apprentice denial.
+        *   Agreed to Fey Woman's Transfer. Received access rune.
+        *   Festival "Watchdog" Assignment: Spotted werewolf (Perception 24).
+        *   Combat at Festival: Navigated rooftops (fell once). Persuaded Thurr not to enter Dome. Witnessed Blackguard Knight (felt "click" of recognition). Intercepted bolt for Kaladin (Absorb Elements). Attempted crowd control (failed).
+        *   Post-Combat: Failed Medicine check on civilian. Believed Ratshit's lie about survival (Insight 7).
+        *   New Mission & Party Name: Assigned to hunt "The Hand of God." Accidentally suggested "The Oh Dears," then "Munchkin Marauders," "Fumbling Fighters."
+        *   Investigated Spit and Swallow: Investigated tavern interior (Investigation 18), spotting Cedric and his hand symbol. Attempted to subtly point him out (failed, drew attention). Agreed to fight first. Failed attempt to handicap self for betting odds.
+        *   Pit Fight vs Alara the Serpent: Adopted "Grandpa Bot" persona (Performance 6). Fought aggressively with Magic Stone, Hand Crossbow (crit), Fire Bolt (ignited Grease). Used Shield reaction, summoned/retracted Steel Defender. Cast Grease tactically. Took significant damage, used Legionnaire Minor Heal. Won the fight. Won party 85g betting. Experienced memory flash ("blood pits," "Father," "Victor," "captain").
+        *   Observed Fights & Provided Support: Created a spider-like animated ashtray mascot using Magical Tinkering to cheer for Zariel ("Jim"). Offered moral support. Tried reviving unconscious Zariel with ale.
+        *   Challenged by Cedric & Leveled Up: Accepted Cedric's challenge. Was restored to full vitality and leveled up to 4 by Cedric's power surge.
+        *   **Combat vs Cedric:** Suffered Fear effect early. Summoned Steel Defender. Used Magic Stone, Burning Hands, Hand Crossbow, and focused concentration on Witch Bolt (L2), dealing consistent damage and the final blow. Steel Defender contributed damage (including a Nat 20 crit). Positioned tactically.
+        *   **Interrogation & Downtime:** Interacted awkwardly with Cedric post-fight, questioning motives and affiliations directly, causing Cedric to become defensive. Failed Insight check. Observed Cedric's transformed golden forearms. Expressed robotic existential reflection. Spent 4 hours and 50g at Core Library transcribing *Charm Person* spell with scribe Victor Holloway. Woken by Zariel collecting lubricant sample; analyzed it as gear lubricant similar to his own.
+        *   **Hand of God Investigation (Dawn District):** Continued "apprentice" gag with Hamhawk. Investigated Legionnaire job board (noted "Dome Exploration" assignment). Persisted in offering Ratshit paperwork help. Boasted to party about Hamhawk (Persuasion 18 vs Zariel's Insight 6). Showed Hand of God token to talisman vendor; bought 3 talismans for 1g, modified them with Magical Tinkering. Donned robe as disguise (claimed to be burn victim). Spotted Cedric at Father Kallor's sermon (Perception 19). Failed Deception (5) with Kallor. Played "bad cop" during Xander's interrogation (threatened with pipe, used "fart sound" Magical Tinkering). Found short sword and talisman on Xander. Clocked "wrath" as likely correct password. Used Magical Tinkering for "steamy sex" sound distraction (Stealth 6 with disadv.). Cast Charm Person (2nd level) on Xander (success, Nat 2 save) and Haggard (failed). Interacted with charmed Xander, switching to "wrath" alignment, showed talisman; persuaded Xander his friends could be trusted (Persuasion 16). Obtained Xander's key. Led Xander out of the Court of Viteo.
+
+*   **Zariel Torgan** *Race/Class:* Wood Elf Druid (Circle of the Moon) / Warforged (Implicit)
+    *   Current Level: 4
+    *   Key Items:
+        *   Starting equipment
+        *   Red-Tipped Orchid (found in tunnels near Emerald Grove section, kept safe)
+        *   Legionnaire Gear: Upgraded Medium Armor (studded leather intricately woven with living thorns, flowing into a flowery vine/petal design, maintaining Druid-friendly nature and red flower emblem), Wooden Scimitar, Wooden Staff (arcane runes), Minor Heal (1/fight), Comms. Access rune for Legionnaire medical facility (on armor).
+        *   Myconid Sovereign Head (Specimen)
+        *   Ring of the Giant Slayer: Uncommon magic ring. Grants +1 AC/Attack vs Large+, +2 vs Giants.
+        *   Standard Shield (Purchased)
+        *   Scroll of Shield (Obtained from Philindra)
+        *   Tan Robe (disguise)
+    *   Notable Traits & Events:
+        *   Works as maintenance worker; memory loss ('accident'). Found/befriended Leopold.
+        *   Motivated by intuition/coworker to try out. Persuaded Leopold. Strong nature connection. Excelled in tests. Revealed 'Isoptic Curse'. Accepted Legionnaire offer.
+        *   Fought Cursed Fire Elemental (Wild Shape). Moved into Barracks.
+        *   Perceived (Nat 20) Levi discussing another dome, missing persons, Omen Knights, etc. Initiated handshake triggering Kaladin's vision.
+        *   Experienced dream/memory fragment (stasis, "He's waking up."). Received unique wooden gear.
+        *   Participated in first mission (Case 22391). Suspicious of Selena Sal. Witnessed abduction. Tracked Myconids (Wild Shape, Nat 20 Perception).
+        *   Fought Myconids (Session 2). Took heavy damage, downed. Recovered, collected head. Found drag marks (Perception 24). Pranked Leopold.
+        *   Identified Albatross blood drawing. Located mycelium patch (Investigation 23). Alerted Lancex.
+        *   Fought Lancex: Used Thorn Whip, Wild Shape (Dire Wolf crit), took heavy damage, stunned/poisoned, reverted. Knocked unconscious; activated Stress Point (1 used), triggering Level Up (to 3) & long rest benefits. Metallic sheen observed on skin. Landed killing blow (Flame Blade). Received Lancex's mental words: "He's coming for her."
+        *   Perceived glow (Nat 20), found woman on altar. Relayed words. Participated in hiding woman. Found exit tunnel. Covered woman. Avoided patrols.
+        *   Briefed by Captain Levi: Stuck to plan, omitted woman. Discerned (Nat 20 Insight) Levi knew but chose not to press. Observed Levi's tech bracelet. Advocated coming clean.
+        *   Detected Surveillance: Revealed scrying orbs with Faerie Fire.
+        *   Won Ring of the Giant Slayer from HQ lottery machine (rolled 41).
+        *   Denied Shield by Hamhawk (not commissioned work). Ribbed Leopold.
+        *   Checked on Hidden Woman: Cast Faerie Fire, Lesser Restoration (no effect). Peeled mask edge (smelled nature, saw skin blanching). Concluded mask vital. Deferred removal.
+        *   Assisted Shopping: Suggested expense account (denied). Provided Guidance. Received Scroll of Shield. Tested necklace. Purchased shield.
+        *   Market Familiarization: Learned Market District layout.
+        *   Agreed to Fey Woman's Transfer: Concurred. Received access rune. Felt faint "something" near woman. Found medical facility "somewhat familiar."
+        *   Festival "Watchdog" Assignment: Spotted werewolf (Perception 19).
+        *   Warning & Combat at Festival: Alerted command, summoned Bestial Spirit (pigeon). Transformed (Dire Wolf, metallic sheen noted). Identified hidden cultist (Perception 22), pounced (Nat 20 attack). Identified self-destructing cultist (Perception 21), heroically absorbed blast (failed save intentionally), saving civilians.
+        *   Post-Combat: Comically tried to eat cultist (Nat 1). Indicated desire to pursue werewolf.
+        *   New Mission & Party Name: Assigned to hunt "The Hand of God." Praised by Ratshit. Liked "The Oh Dears." Suggested "The Wranglers."
+        *   Navigated to Spit and Swallow: Successfully found the tavern (Survival 18, 22). Was threatened by Alara. Inquired about rules. Suggested the pit fighting plan.
+        *   Pit Fight vs Rurik the Iron Fist: Signed up as backup "Tuberculosis Jim". Placed large bet on Leopold (62g, won). Placed bet on self (won). Fought Rurik. Wild Shaped (Dire Wolf). Attacked repeatedly with Bite. Subjected to numerous Stunning Strikes (failed multiple saves). Took massive damage. Reverted from Wild Shape twice. Cast Healing Word sneakily (Deception 14+Guidance). Used Legionnaire Minor Heal. Attempted Ice Knife (failed due to stun). Used Stress Point twice (total 2 this session, 3 total used) to remain conscious at 1 HP. Made critical Death Saving throw (Nat 20), regaining 1 HP. Cast Flame Blade. Landed killing blow with Thorn Whip after initial miss.
+        *   Post-Fight Collapse & Recovery: Attempted short rest but collapsed unconscious from exertion/stress point use. Was revived by Leopold (and ale).
+        *   Challenged by Cedric & Leveled Up: Accepted Cedric's challenge. Was restored to full vitality and leveled up to 4 by Cedric's power surge.
+        *   **Combat vs Cedric:** Wild Shaped into Polar Bear, took heavy damage (incl. radiant). Wild Shaped into Giant Constrictor Snake, successfully grappled/restrained Cedric briefly before being stunned (failed Con save), ending grapple. Failed subsequent Constrict attacks. Took significant damage in snake form. Reverted, cast Healing Spirit and Healing Word twice to revive Kaladin.
+        *   **Interrogation & Downtime:** Failed Insight check (Nat 1) on Cedric. Kicked Leopold's Steel Defender in frustration. Suggested infiltration plan (disguises). During rest, discovered mysterious yellow lubricant on knuckle (Perception 24), collected sample. Experienced dream fragment (medical table, light, monitor, "This one's awake, put him out," voice: "inform [blank] Council member. Project is underway."). Awkwardly collected lubricant sample from sleeping Leopold.
+        *   **Hand of God Investigation (Dawn District):** Suggested checking with Ratshit. Paid Hamhawk 40g for medium armor upgrade. Perceived blueprint in Hamhawk's lab (Perception 15). Cast Guidance. Asked talisman vendor about bulk purchases. Found robe vendor Serafina (Perception Nat 20+G), bought three robes (6 silver), perceived Serafina's tan line (Perception 19), awkwardly left extra money. Navigated to "House of the Devil" (Survival 15+G). Acted as rearguard approaching Court of Viteo (Perception 19). Attended Father Kallor's sermon (Perception Nat 20+G), spotted Serafina, asked about side doors. Asked Kallor about catacombs. Donated 10g to Kallor for Serafina. Insighted (19+G) Kaladin's "justice" answer was likely wrong. Failed Persuasion (9) re-engaging Xander. Sneaked behind groundskeepers (Stealth 13). De-escalated situation with Haggard (Deception 16). Led party quickly to Core with Xander (Survival Dirty 20+G). Fetched salt water for Xander during interrogation.
+
+*   **Cletus Cobbington** *Race/Class:* [Race/Class TBD - Update after Session 1]
+    *   Current Level: 1
+    *   Key Items:
+        *   Starting equipment
+    *   Notable Traits & Events:
+        *   Not present in Sessions 1-8.
+
+*   **Cyrus Schwert** *Race/Class:* [Race/Class TBD - Update after Session 1]
+    *   Current Level: 1
+    *   Key Items:
+        *   Starting equipment
+    *   Notable Traits & Events:
+        *   Not present in Sessions 1-8.
+
+---
+
+## Key NPCs
+
+*   **Captain Levi:** Stonewall Legionnaire officer. Wears distinctive 'bucket' hat and vest, wields advanced hand crossbows. Oversees Legionnaire tryouts. Identified the PCs' 'Isoptic Curse' potential, recruited them. Directed the party to Hamhock. Casual but authoritative. Observed by Zariel discussing another dome, missing persons, etc. Personally assigned Case 22391. Summoned the party back to HQ via Ratshit after their tunnel investigation. Conducted Zariel's post-mission briefing: Used silence and indirect questioning. Discerned via Zariel's high Insight that Levi knew about the hidden woman but chose not to press when Zariel omitted her, seemingly satisfied and deciding a course based on this. Observed using a high-tech runic bracelet. *(Not encountered Session 5-8)*.
+*   **Lord Marshall Thurr:** High-ranking Stonewall Legionnaire leader. 'Bear of a man', beard, scar, cob pipe. Observed tryouts. Confirmed Legionnaire interest in Isoptic Curse. Endorsed Levi's offer. Fought alongside party against Cursed Fire Elemental. Initiated the cursed soldier program. Conducted Kaladin's post-mission briefing regarding the fey woman and Lancex. Briefed the party and Omen Knights on the Moonhaven expedition and the associated festival, outlining the party's "Watchdog" role. Granted Kaladin's request (Persuasion Nat 20) for party involvement in the fey woman's care. Oversaw the festival and ordered the Arcane Splitter's activation. During the subsequent werewolf and cultist attack, he was persuaded by Leopold to remain and manage the Splitter, sending his "Blackguard" Knight through instead. Abruptly departed the battle after receiving a comm from a calm female voice requesting his presence elsewhere. *(Status: Missing/Unknown Location)*
+*   **Hamhawk:** Ogre-like female humanoid smithy for the Legionnaires. Gruff, efficient, protective of her advanced forge (Storm District). Underbite, sharp canines, glasses, blonde pigtail. Crafted party's custom gear. Provided Leopold schematics for "Project Splitter" (now "Arcane Splitter"). Tasked Leopold with gathering materials. Upgraded Kaladin's weapon. Revealed Splitter's purpose (Moonhaven). Received final component, confirmed completion. Continued rebuffing Leopold's apprenticeship attempts. Informed party Ratshit was looking for them. Upgraded Kaladin's and Zariel's armor to medium for cost of materials. Informed Kaladin that potions/rings of protection are Market District finds or for deserving Legionnaires. Zariel perceived a blueprint on her lab table. Leopold's attempt to persuade her to contact him for jobs was met with noncommittal silence. *(Not encountered Session 6-7)*.
+*   **Donnie Farsight (aka Ratshit):** Malnourished-looking half-orc handler for the party. Cynical, fast-talking. Explained barracks procedures, gear, pay/lottery. Delivered gear and first mission folder. Relayed Levi's summons. Facilitated return to HQ and briefings. Deceived by Leopold's prank. Explained reward options. Conveyed Thurr's instruction about Lancex's club. Provided "Watchdog" assignment, requested party name. After festival attack, debriefed party, praised Zariel. Lied to Leopold about civilian casualty (Zariel detected lie). Assigned mission: find "The Hand of God" cult leader (alive), suggesting starting in Dawn District/Spit and Swallow. Stated "nobody called [Thurr] off," contradicting party's intel. Received party's report on Cedric/chapel lead. Seen using arcane rune wrist guard projecting to a pad for input. Stated Dawn District is not his primary responsibility (Storm District is). Denied Kaladin's request for an armor voucher. Rudely dismissed Leopold's offer to help with paperwork ("You are my fucking subordinate. Get the fuck out of here."). *(Not encountered Session 6-7)*.
+*   **Selena Sal:** Eccentric, seemingly ancient potion shop owner (Storm District). Huge goggles, messy bun, patchwork muumuu. Potentially senile or feigning it. Has a talking hermit crab, Marcel. Her shop contains the hidden entrance to the Fungal Tunnels. Her involvement/awareness remains unknown. *(Not encountered Session 2-8)*.
+*   **Lancex the Fungal Guardian:** Former Stonewall Legionnaire assimilated and mutated into a powerful Myconid Sovereign variant. His club's magic was transferred to Kaladin's weapon. *(Status: Deceased/Destroyed)*
+*   **Mysterious Woman on Altar:** Young, fair-skinned woman with dirty brown hair. Wears a well-crafted glass mask filled with living plants. Mask emits powerful, chaotic Fey magic vital for her survival. Turned over to Legionnaire command, housed in secure medical sub-level under Thurr's supervision. Party has access runes. Condition remains unconscious. Kaladin feels connection to mask. Zariel found facility familiar, felt faint connection to her. Thurr noted unique magic. Kaladin's dreams suggest a connection to an entity trying to get "out." *(Status: Unconscious, under Legionnaire care in a secure medical facility, party has access)*
+*   **Blackguard Knight (Formerly "Omen Knight (Unnamed)"):** Extremely imposing figure in sleek, all-black armor with jagged pauldrons and an enormous greatsword. Reported party's discovery of fey woman to Thurr. Confirmed by Thurr as elite "Blackguard." Deployed by Thurr through the reopened dome during festival attack to fight werewolf. Leopold felt "click" of recognition but couldn't place it (potential link to brother Victor or scribe Victor Holloway). *(Status: Active, currently outside the Arcane Dome fighting the werewolf)*
+*   **Unnamed Posh Nobleman:** Arrogant participant in Legionnaire tryouts; Kaladin's opponent. Revealed he was cursed, transformed into a Fire Elemental. *(Status: Deceased/Destroyed as Fire Elemental)*
+*   **Philindra Sprawlweaver:** Owner of the "Mystical Scripts Scroll" shop in the Market District. Professional, friendly woman. *(Not encountered Session 5-8)*.
+*   **Cedric ("The Champ"):** Large, muscular man (pugilist build), champion of the Spit and Swallow fighting pit. Initially wore simple hand wraps; post-transformation, fists and forearms appear wrapped in inlaid gold, part of his skin/tattoos. Wears a waist chain/rosary with an iron symbol of a right hand (palm outward, curled fingers - Hand of God symbol). Initially stoic, becomes respectful/apologetic after defeat, missing teeth.
+    *   **Abilities & Curse:** Challenged the party after their pit victories. Possesses significant power linked to the Isoptric Curse. Can unleash energy to heal/empower others (leveled party to 4). In combat, uses multi-attack (fists, kick), Calculated Loss (bonus action move/debuff), legendary actions for extra attacks, inflicts delayed radiant damage, and applies conditions (Stun via Tunnel Vision, Action Denial via Out of Breath) on hits via CON saves. Under pressure, underwent a transformation: radiant energy pulsed, veins glowed, eyes shone, forearms gained golden inlay, power increased but control seemed diminished (similar to Fire Elemental transformation). Claimed to channel power from the goddess Viteo, but the transformation felt unprecedented/uncontrolled to him.
+    *   **Hand of God Connection:** Confirmed affiliation with the "Hand of God" cult, acting as a "scouter" finding talent for them. Provided the party with the cult's base location (a chapel basement in the Dawn District) and gave them his Hand symbol token as a potential means of access/introduction. Became defensive when pressed by Leopold about direct involvement. **Spotted by Leopold attending Father Kallor's sermon at the Court of Viteo. Xander (cultist) later confirmed Cedric recruits for the cult.**
+    *   *(Status: Defeated by party, provided information & token, remains at Spit and Swallow, known to frequent Court of Viteo)*
+*   **High Cleric Father Kallor:** *(New Key NPC)* Old, frail-appearing public figure (poofs of gray hair, smacking lips, obscured eyes, large gray-brown robes, carries a large chained tome); privately, his posture is straighter. High Cleric of the Court of Viteo in the Dawn District, running for a council seat. Publicly delivered a sermon about blessings, his council run, recent attacks by religious folk desecrating Viteo's symbol, and concern for missing poor folk. Claimed to be working with Legionnaires. When approached by the party, he granted them access to the chapel's courtyard/mausoleum area to investigate the cult. Provided leads to other, less secure Viteo chapels and reluctantly wrote a letter of introduction for Kaladin. Showed frustration when examining the party's Hand of God talisman. His true knowledge of the cult operating beneath his chapel is unknown. *(Status: Active at the Court of Viteo)*
+*   **Xander (Cultist Groundskeeper):** *(New Key NPC)* "Devilishly handsome" male with Tiefling-esque features. Publicly a groundskeeper at the Court of Viteo, tending rose bushes. Secretly a member and gatekeeper for "The Hand of God" cult. When the party approached the mausoleum, he tested them with a "justice or wrath?" question (Kaladin answered "justice"). Later charmed by Leopold (failed Wisdom save, Nat 2). Under charm, he confirmed "wrath" was the correct answer, expressed trust in Leopold (but not his friends), and gave Leopold his key to the mausoleum. Was then convinced by Leopold to leave the grounds and was subsequently abducted by the party and taken to a Legionnaire holding cell. During interrogation (after charm wore off), he revealed the Hand of God cult operates in extensive tunnels beneath the main Viteo chapel, has hundreds of members (many poor folk "fed" by the leader), and is led by "The Reverend." Confirmed Cedric is a recruiter. Warned the party they are marked and will die, then suffered a mental breakdown, muttering about purification and desecration. Found with a short sword and a hidden bent-finger Hand of God talisman. *(Status: Captured by party, interrogated, held in Legionnaire HQ, mentally unstable)*
+
+---
+
+## Minor NPCs
+
+*   **Billy:** Zariel's former coworker in the underpassage tunnels.
+*   **Titan:** Large Legionnaire soldier who fought Leopold in the combat trial.
+*   **Unnamed Scrawny Spellcaster:** Zariel's opponent in the combat trial.
+*   **Corps Medics:** Healed the party after tryouts.
+*   **Cor:** Arrogant Legionnaire guard at Hamhawk's forge.
+*   **Billy (Legionnaire Bully):** Hazed Leopold in the barracks.
+*   **Marcel the Hermit Crab:** Talking hermit crab companion to Selena Sal.
+*   **Bald Man with Beard:** Civilian outside underground bar who directed party to Selena's shop.
+*   **Bouncer at Underground Bar:** Guard who mentioned creature sightings.
+*   **Dwarven Woman with Fangs:** Flirtatious woman in bar line.
+*   **Myconid Sprouts:** Small, quadrupedal fungal creatures. *(Status: Multiple defeated)*
+*   **Myconid Sovereign (Generic):** Large, bipedal warrior Myconid. *(Status: Defeated)*
+*   **Bladed Monster:** Unidentified monster dispatched by the Omen Knight. *(Status: Deceased)*
+*   **Nerman:** Frail, elderly scroll shop owner.
+*   **Unnamed Merchant at "Curious and Wonders":** Stall owner selling gems.
+*   **Grand Historian Garris:** Head librarian at the Core Library.
+*   **Omen Knights (Generic Unit):** Elite, magically-gifted Legionnaire squad, described as "SEAL Team 6.5." Sent on an expedition to Moonhaven through the Arcane Splitter opening. Immediately ambushed by a werewolf creature; at least one Omen Knight confirmed killed. *(Status: Mission underway, under attack outside the dome)*
+*   **"The Hand of God" Cultists:** An extremist cult operating within New New Arbor. **Confirmed operations in extensive tunnels beneath the main Court of Viteo chapel in the Dawn District, with hundreds of members led by "The Reverend." Recruitment occurs via the Spit and Swallow tavern (Cedric) and targets desperate/poor individuals. They use a modified Viteo talisman (curled fingers) and a "justice/wrath" password system ("wrath" being their alignment).**
+    *   **Male Cultist 1 (Deceased):** Wore tattered robes. Killed by Kaladin during festival attack. Had "The hand of God is here" carved into his skin.
+    *   **Male Cultist 2 (Fled):** Wore tattered robes. Cast a radiant bolt ("Fuck the government!") at the party and Thurr during festival. Fled into the crowd.
+    *   **Female Cultist (Deceased):** Wore a basic brown tattered robe with hempen rope, black paint on eyes. Muttered "History will show that you were wrong" to Zariel before self-destructing in a radiant blast, which Zariel mitigated.
+    *   **Xander:** (See Key NPCs) - Groundskeeper and gatekeeper. *(Status: Captured)*
+    *(Status: Numerous members active, primary target of party mission. Base located beneath Court of Viteo. "The Reverend" identified as leader. Cedric is a key recruiter.)*
+*   **Mysterious Werewolf Creature:** An enormous, dire wolf/werewolf-like creature with yellow eyes and immense claws. Appeared outside the Arcane Dome and ambushed the Omen Knights during their exit. Savagely attacked Legionnaires. Confirmed immune to non-magical BPS damage. *(Status: Active, fighting Omen Knights/Blackguard outside the dome)*
+*   **Ollie:** Short, round, likely Dwarven bartender at the Spit and Swallow. Large beard, rosy cheeks, bald head, speaks in a rough whisper. Provided party information on pit fighting rules and served drinks. Seemed neutral/observant.
+*   **Bouncer 1 (Unnamed):** Generic-looking bouncer/fighter at the Spit and Swallow. Physically stopped Kaladin from approaching Cedric directly, enforcing tavern hierarchy ("step off, pig"). Directed party to Ollie.
+*   **Alara the Serpent:** Female fighter and bouncer at the Spit and Swallow. Initially threatened Zariel with a knife. Fought Leopold in the pit using a dagger. Received magical aid from Cedric. *(Status: Defeated by Leopold)*
+*   **Bookie (Unnamed Gnome):** Energetic, frantic gnome at the Spit and Swallow. Used an arcane microphone to announce fighters, manage bets, and pay out winnings. Took party's fighter aliases ("Grandpa Bot," "Tuberculosis Jim").
+*   **Thrag ("The Boulder"):** Very large (Goliath ancestry), bald pit fighter at the Spit and Swallow. Also acted as bouncer. Fought Kaladin using powerful unarmed strikes and spiked knuckles. *(Status: Defeated by Kaladin)*
+*   **Rurik the Iron Fist:** Tough pit fighter at the Spit and Swallow. Fought Zariel brutally, using fists and a hidden blade. Repeatedly used Stunning Strike. Received magical aid from Cedric. *(Status: Defeated by Zariel)*
+*   **Victor Holloway:** Timid, shaky library scribe in the Core Library. Shaved head, gaunt. Assisted Leopold in finding and transcribing the *Charm Person* spell, explaining library rules. *(His name matches the one Leopold associates with his brother)*.
+*   **Merrick Goodbarrel (Talisman Vendor):** *(New Minor NPC)* Short, rotund, balding man with thinning auburn hair. Sells Viteo talismans (outward-facing palm, spread fingers) from a wheeled cart in the Dawn District for 1 silver, often near the main Court of Viteo. Initially theatrical sales pitch. Confirmed the party's Hand of God token was a modified version of his work but claimed ignorance of who altered them. Mentioned Jathan Renan as a "betrayer god." Sold the party three talismans. *(Status: Active)*
+*   **Serafina (Robe Vendor):** *(New Minor NPC)* Average-looking woman with brown hair tied up, big brown eyes, chubby cheeks, pleasant smile. Sells basic tan throw-over robes for 2 silver in the Dawn District. Has a child, Amber. Her husband passed away. Spoke highly of Father Kallor and the Court of Viteo for their support. Sold the party three robes. Zariel noted a tan line on her ring finger and left her extra money. Later seen attending Father Kallor's sermon. *(Status: Active)*
+*   **Amber (Serafina's child):** *(New Minor NPC)* Young child of Serafina, seen with her at her robe stall and at Father Kallor's sermon. *(Status: Active)*
+*   **Varik (Renan Worshipper):** *(New Minor NPC)* Tall (almost 7ft), lithe, gaunt-faced, bald man with nubbed ears and small upturned nose. Moves with unnatural smoothness. Wears dark robes. A guide/priest at the "House of the Devil" (a place of worship for Renan, Lord of Destruction, in the Dawn District). Offered the party a tour, explaining their faith emphasizes Renan and offers a safe harbor from mainstream gods and council judgment. Claimed an allergy to natural sunlight (Leopold deemed him just pale). *(Status: Active at House of the Devil)*
+*   **Haggard (Orcish Groundskeeper):** *(New Minor NPC)* Large, thickset orcish figure with an underbite and tusks. Works as a groundskeeper at the Court of Viteo alongside Xander. Resisted Leopold's Charm Person spell. Attempted to attack Leopold with a shovel after Leopold's sound distraction and charm attempt, but was stopped by the charmed Xander and Zariel's de-escalation. Likely a member of the Hand of God cult. *(Status: Active at Court of Viteo)*
+
+---
+
+## Important Events So Far
+
+*   **Induction into the Stonewall Legionnaires:** Kaladin, Leopold, and Zariel attended Legionnaire tryouts, revealed potent 'Isoptic Curse' abilities, attracted high-level interest, collectively defeated a cursed Fire Elemental, and accepted offers to join the Legionnaires.
+*   **Festival Attack and Rise of "The Hand of God":** During a public festival celebrating an Omen Knight expedition to Moonhaven (enabled by the newly activated Arcane Splitter), a monstrous werewolf attacked Legionnaires outside the dome while extremist cultists, identified as "The Hand of God," simultaneously launched a coordinated assault from within the festival. The party played a crucial role in defending citizens and neutralizing several cultists. This event revealed a dangerous new internal threat and led to the party's new primary mission to hunt down the cult.
+
+---
+
+## Locations of Interest
+
+*   **Avarias:** The campaign world/region.
+*   **New New Arbor:** Large, domed city with advanced arcane tech. Districts include Market, Dawn, Sweets, Amberfields (farmland), Emerald Grove (forested), Storm (industrial/Dwarven), and The Core (Legionnaire HQ/Barracks). Travel requires permission/status.
+    *   **Emerald Grove:** Forested district. Contains a secret tunnel exit connecting to the Fungal Tunnels.
+    *   **Storm District:** Overcast, rainy district. Location of Hamhawk's Forge, Selena Sal's Potion Shop.
+    *   **Market District:** District for commerce. Contains various shops and stalls including "Mystical Scripts Scroll." Site of the Omen Knight send-off festival, the first public activation of the Arcane Splitter, and a coordinated attack by "The Hand of God" cultists and an external werewolf creature. Contains the "Spit and Swallow" bar, a known hub for the Hand of God cult.
+    *   **Core District:** Central hub containing Legionnaire HQ/Barracks/Training Grounds.
+        *   **Stonewall Legionnaire HQ:** Functional, institutional building. Contains barracks, monitored hallways, briefing rooms, Lord Marshall Thurr's office, and the Lottery Machine. Site of briefings, reward distribution, and downtime assignments. Contains secure medical sub-levels.
+            *   `Ratshit's Office:` *(New)* Basic office with paintings, graphs (employment rates, costs), and an open job assignments board. Ratshit uses an arcane rune wrist guard that projects to a pad for input.
+            *   `Legionnaire Holding Cell:` *(New)* Standard interrogation room setup with a small table, chairs, and manacles bolted to the ground for restraining prisoners. Site of Xander's interrogation.
+        *   **Core Library:** Large library within the Core District. Contains vast collection of tomes/scrolls/books and modern tech interfaces. Staffed by scribes like Victor Holloway. Allows transcription of spells from magically secured (ethereal chains) library tomes (requires time, gold cost). Site of Kaladin's Feywild research, Leopold's historical research and acquisition of *Charm Person* spell.
+    *   **Dawn District:** *(Updated Entry)* Bright, almost golden ambiance from natural and lantern light. Populated by people in modest pious attire and some wealthy visitors. Sounds of general city activity. Known as the religious district, housing numerous chapels and temples. Confirmed as the central operational area for "The Hand of God" cult, specifically beneath the Court of Viteo. Party conducted investigation here, visiting talisman/robe vendors, the "House of the Devil," and the Court of Viteo.
+*   **Underpassage Tunnel System (Beneath Core District):** Dark maintenance tunnels.
+*   **Stonewall Legionnaire Training Grounds / Combat Arena (Core District):** Site of Legionnaire tryouts.
+*   **Stonewall Legionnaire Barracks (Core District):** Living quarters and operational hub. Site of unsettling dreams (Kaladin's "Let me out" vision, Zariel's "Project" fragment) and the discovery of mysterious yellow lubricant on Zariel.
+*   **Hamhawk's Forge (Storm District):** *(Updated Entry)* Advanced smithy. Foyer displays basic weapons/armor. Main lab (Hamhawk's workspace) contains an enchanting circle etched on a table and a pinned blueprint (perceived by Zariel). Site of Kaladin's weapon upgrade, party's armor upgrades, and where the "Arcane Splitter" was completed.
+*   **Selena Sal's Potion Shop (Storm District, SE):** Cluttered shop with hidden entrance to Fungal Tunnels.
+*   **Underground Bar (Storm District):** Subterranean rave-like bar.
+*   **Fungal Tunnels (Beneath Selena's Shop, Storm District):** Network of tunnels. Inhabited by Myconids. Contains a hidden chamber linked to Fey magic and formerly, the mysterious woman.
+*   **Lancex's Chamber / Altar Room (Within Fungal Tunnels):** Large cavern, former lair of Lancex and sanctuary/prison for the mysterious woman.
+*   **Hidden Tunnel (Near Emerald Grove / Dawn District Border):** Secluded tunnel passage. Formerly used by the party to hide the unconscious fey woman.
+*   **Legionnaire Medical Sub-Level 2 (Legionnaire HQ - The Core):** Sterile, advanced medical facility with white aesthetics, clerics, and high-tech equipment. Feels like an ICU for soldiers. Zariel found it "somewhat familiar." Contains a specially prepared room with druidic influences where the fey woman is currently housed under Legionnaire care.
+*   **Market District Festival Area (Edge of Dome):** A specific cordoned-off area within the Market District near the edge of the Arcane Dome. Site of the Omen Knight send-off, the first activation of the Arcane Splitter, and the subsequent werewolf and cultist attacks.
+*   **Outside the Arcane Dome (Briefly Glimpsed):** The environment external to New New Arbor's protective dome. First glimpse revealed it to be dreary, dark, raining, hailing, and extremely windy – a hostile and dangerous landscape.
+*   **"Spit and Swallow" Bar (Market District - Near Loading Zone/Industrial Area):** An old, wooden, dirty, grimy, crowded, and loud tavern known for underground dealings and pit fights. Features a bar area run by Ollie, seating, a bard, bouncers enforcing hierarchy, and a central sand fighting pit. A known hub for the "Hand of God" cult; the pit champion, Cedric, acts as a "scouter" for them here. Site of the party's investigation and subsequent pit fights.
+    *   **Fighting Pit (Spit and Swallow):** A large, sand-filled pit dug into the floor of the Spit and Swallow tavern. Used for bare-knuckle and armed combat with associated betting, managed by a gnome bookie. Site of the party's fights against Alara, Rurik, and Thrag, and their subsequent challenging fight against Cedric.
+*   **Talisman Vendor's Cart (Dawn District):** *(New Location)* A wheeled cart operated by Merrick Goodbarrel, typically found in the Dawn District. Sells Viteo talismans (depicting an outward-facing palm with spread fingers).
+*   **Robe Vendor's Stall (Dawn District):** *(New Location)* A market stall in the Dawn District where Serafina sells basic tan robes.
+*   **"House of the Devil" (Dawn District):** *(New Location)* A place of worship for followers of Renan, the Lord of Destruction. Accessed through a hole in a broken-down building wall, marked by a scratched wood plaque. Descends into a dark common room with stone pillars, private altars, and murals depicting Renan. Offers a "safe harbor" for alternative faiths.
+*   **Court of Viteo (Main Viteo Chapel, Dawn District):** *(New Location)* A massive Viteo chapel in the Dawn District with vaulted ceilings and faint holy music. Features a marble archway entrance ("Court of Viteo Holy House"), a main sanctuary with pews and an altar, and High Cleric Father Kallor's private office.
+    *   `Courtyard & Mausoleum Entrance:` A well-maintained courtyard behind the chapel with flowers, gravestones of important figures, leading to a sunken stone mausoleum entrance. The mausoleum itself (when opened by Xander with his key turned right) was revealed to be an illusory monitoring room. The true entrance to the Hand of God cult's hidden base is believed to be accessed via this mausoleum entrance/key, likely by turning the key left ("wrath").
+    *   `Underground Cult Base (Beneath Court of Viteo - Unseen by Party):` *(New Location, Known Intel)* An extensive network of tunnels located deep underground, directly beneath the main Court of Viteo chapel. According to the captured cultist Xander, this base houses "hundreds" of Hand of God cultists and is where "The Reverend" resides and "feeds" them.
+
+---
+
+## Ongoing Mysteries & Goals
+
+*   What is the full nature, origin, and range of effects of the Isoptic Curse? (Note: Stress Point activation observed - Zariel used 3 total; Leopold 1 used; Kaladin 1 used. Cedric demonstrated significant power increase, transformation (radiant energy, physical changes), enhanced abilities, but also apparent loss of control, linking it to Viteo worship. Cost/drawbacks still largely unknown, though Cedric's "Next Round" ability imposes halved max HP.)
+*   What are the details surrounding Zariel's memory loss and 'accident'? What is the significance of his dream of stasis/medical care? (Note: Metallic sheen. Legionnaire medical facility felt "somewhat familiar". Repeated near-death experiences. New dream fragment reinforces medical/experimental origin: table, light, monitor, "This one's awake, put him out," "inform [blank] Council member. Project is underway.")
+*   What happened during Leopold's past (deactivation, memory issues)? What is the story behind his "Bone Grinder" emblem? Was his brother truly an Omen Knight named Victor? What did his dream signify? (Note: Memory flash confirmed past potion-making link. Memory flash linked pit fighting to "blood pits," "Father," and brother "Victor" getting promoted to "captain." Felt recognition with Blackguard Knight. Library research yielded little. Encountered library scribe named Victor Holloway. **Spotted "Dome Exploration" assignment on Legionnaire job board.**) *(New Info)*
+*   What were Kaladin's specific dreams motivating him? What is the nature of his connection to the Feywild/past lives hinted at in dreams/vision? (Note: Potent Fey magic discovered. Researched Feywild history. Experienced vision connecting him to woman. Still feels strong connection to fey woman's mask. Had disturbing dream of spider-creature. New dream featured field turning to bones/skulls, dark pit with cloth walls, and a voice demanding "Let me out.")
+*   What are the potential consequences or drawbacks of using Stress Points? (Note: Power demonstrated, 3 used by Zariel, 1 by Leopold. Cost remains unknown. Zariel collapsed after using two in Session 6.)
+*   Who was the figure Kaladin saw watching him before the tryouts?
+*   What is the significance of Zariel's red-tipped orchid?
+*   How common is the Isoptic Curse? How is it perceived? (Note: Thurr actively recruiting/testing. First case recorded. Cedric is another example, potentially recruited by cult.)
+*   What is the full power structure of the Stonewall Legionnaires and New New Arbor? What is the significance of the Omen Knights and Alabaster Lords? (Note: Omen Knights confirmed elite. Thurr commands "Blackguard" unit. Mysterious female voice could command Thurr. Zariel's dream mentioned a "[blank] Council member" connected to a "Project". **High Cleric Father Kallor is running for a council seat.**) *(New Info)*
+*   What is the significance of Captain Levi's meeting regarding another domed city? (Note: Related to Moonhaven mission, which was attacked.)
+*   What is the nature and origin of the Myconids in the Fungal Tunnels? What is their goal? (Note: Assimilate victims, guarded Fey presence. Lancex was test subject. Source/motive unknown.)
+*   Where are the missing people from the Storm District? (Note: Lancex found. Others unknown. "Hand of God" cult now a factor. **Father Kallor reported missing poor folk from the Dawn District who used to frequent his chapel for rations; the Hand of God cult is known to recruit such individuals.**) *(New Info)*
+*   Is Selena Sal involved with, complicit in, or ignorant of the Myconid/Fey activity beneath her shop?
+*   What is the significance of the small film reel Leopold received?
+*   What will happen on Leopold's arranged "date" with Marcel the Hermit Crab?
+*   Who/what is the mysterious woman found on the altar? What is the purpose/nature of her plant-filled mask and connection to Fey magic? (Note: Mask vital. Transferred to Legionnaire care; party has access. Thurr studying her. Kaladin feels connection. Zariel felt familiarity/connection. Kaladin's vision suggests she's from outside dome. Kaladin's latest dream ("Let me out") strengthens connection to a trapped entity potentially linked to her.)
+*   Who is the "he" that Lancex warned is "coming for her"? (Note: Phrase echoed in Kaladin's first nightmare. Kaladin's latest dream voice ("Let me out") is likely the same entity.)
+*   What is the full extent and origin of the Fey magic presence in the Fungal Tunnels?
+*   What are the Omen Knights' specific roles, powers, and allegiances? (Note: Elite squad sent to Moonhaven, ambushed. Thurr's "Blackguard" Knight deployed; Leopold felt recognition, possible link to Victor.)
+*   What was the significance of the Albatross blood drawing ("one for sorrow") found in the tunnels?
+*   What is the creature from Kaladin's dream? (Note: Original dream involved spider-like creature. New dream involved a pit and voice.)
+*   What truly happened to Moonhaven to cause its silence? (Note: Omen Knight mission launched, immediately attacked. Status of Moonhaven itself unknown.)
+*   What are the full capabilities and implications of Project Splitter (now Arcane Splitter)? (Note: Successfully created temporary dome opening. Revealed extreme danger outside dome.)
+*   Who is the calm female voice that commanded Lord Marshall Thurr via comms? Why does Ratshit deny that Thurr was officially recalled?
+*   What is the full extent, leadership, and ultimate goal of "The Hand of God" cult? Why did they attack the festival? (Note: **Operates from extensive hidden tunnels beneath the main Court of Viteo chapel in the Dawn District. Led by "The Reverend." Has "hundreds" of members, many recruited from desperate/poor populations (Cedric is a known recruiter). Uses a modified Viteo talisman (curled fingers) and a "justice/wrath" password system ("wrath" is their alignment). Mausoleum key has dual function (right turn = illusion, left turn = implied true access). Xander, a captured cultist, revealed these details and hinted at fanatical devotion and violent ideology ("purify me, desecrate you").**) *(New Info)*
+*   What happened to Lord Marshall Thurr after his abrupt departure during the festival attack? Is he safe, and what was the nature of the summons he received?
+*   What is the nature of Leopold's "click" of recognition with the Blackguard Knight? Is there a connection to his past, potentially his brother Victor? (Note: Memory flash potentially links Victor to promotion and "blood pits." Encountered scribe Victor Holloway in Core Library.)
+*   What will the Omen Knights (and the deployed Blackguard) find at Moonhaven, and what will be their ultimate fate against the werewolf and other potential external threats?
+*   Why did the Legionnaire medical facility feel "somewhat familiar" to Zariel, and does it connect to his lost memories or nature? (Note: Dream reinforces connection to medical/experimental setting and a "Project".)
+*   What is the significance of the recurring "metallic sheen" observed on Zariel, particularly on his fur when in Dire Wolf form?
+*   What is Cedric's exact role within the Hand of God cult ("scouter")? What is the nature and source of his significant magical abilities (Isoptric Curse, Viteo channeling)? What were his motives for testing and empowering the party before fighting them? (Note: Claimed uncontrolled power surge, looking for "talent." **Xander confirmed Cedric is a recruiter for the cult and sends people to them. Cedric attends Father Kallor's sermons.**) *(New Info)*
+*   What is the origin and purpose of the mysterious yellow lubricant Zariel found on his knuckle in the barracks?
+*   Is the library scribe Victor Holloway connected in any way to Leopold's brother Victor?
+*   **What is the identity and true nature/power of "The Reverend," leader of the Hand of God cult?** *(New)*
+*   **How does "The Reverend" feed and control hundreds of cultists in the hidden tunnels?** *(New)*
+*   **What is the significance of the "purification" and "desecration" Xander mentioned?** *(New)*
+*   **What will be the cult's response to Xander's capture and disappearance?** *(New)*
+*   **What is the true nature of Viteo's "wrath" aspect that the Hand of God cult seems to embody?** *(New)*
+*   **Is Father Kallor truly unaware of the massive cult operation beneath his chapel, or is he complicit/involved?** *(New)*
+
+*   **Goal:** Report to Hamhock the smithy in the Storm District for gear, as instructed by Captain Levi. `(Resolved in Session 4)`
+*   **Goal:** Begin service and fulfill duties as new Stonewall Legionnaires. (In Progress - Completed "Watchdog" assignment, acquired lead for "Hand of God" mission, gathered significant intel on cult.)
+*   **Goal:** Investigate the full extent of the Fungal Tunnels beneath Selena Sal's shop. (Partially Complete - No new progress.)
+*   **Goal:** Formally conclude Case 22391 investigation with Legionnaire Command. (In Progress - Transfer of fey woman is a major step. Kallor's mention of missing poor potentially links to this.)
+*   **Goal:** Protect the mysterious Fey woman and uncover her identity/purpose. (In Progress - In Legionnaire care with party access. Identity/purpose unknown. Dreams provide cryptic clues.)
+*   **Goal:** Discover the nature and cost of Stress Points / Isoptic Curse activation. (In Progress - Power demonstrated by Cedric, cost still unclear.)
+*   **Goal:** Find out who "he" is that Lancex warned about / the entity in Kaladin's dreams. (In Progress - Dreams provide recurring clues.)
+*   **Goal:** Report back to Legionnaire HQ as summoned by Captain Levi. `(Resolved in Session 4)`
+*   **Goal:** Decide whether to accept Thurr's offer (bring woman in) or handle her situation independently. `(Resolved in Session 5)`
+*   **Goal:** Gather materials for Hamhawk's Project Splitter (Anti-Magic Field source, library binder spell). `(Resolved in Session 5)`
+*   **Goal:** Assist Hamhawk with Project Splitter construction. `(Resolved in Session 5)`
+*   **Goal:** Learn more about Moonhaven's status and the planned Omen Knight mission. (In Progress - Mission launched, attacked. Moonhaven status unknown.)
+*   **Goal:** Further investigate Kaladin's connection to the Feywild/woman/dreams. (In Progress - Dreams continue.)
+*   **Goal:** Hunt down "The Hand of God" cultists and bring their leader in alive. (In Progress - Identified Cedric as key contact. **Located cult's main base beneath Court of Viteo in Dawn District. Captured cultist Xander, who revealed leader is "The Reverend" and cult numbers in hundreds. Obtained Xander's key.**) *(New Info)*
+*   **Goal:** Investigate the "Spit and Swallow" bar in the Market District for information on "The Hand of God" cult. `(Resolved in Session 7)` (Party defeated Cedric, extracted information and token.)
+*   **Goal:** Ascertain the whereabouts and status of Lord Marshall Thurr. (In Progress - No new info.)
+*   **Goal:** Understand the nature and purpose of Thurr's "Blackguard" Knights and Leopold's connection to them. (In Progress - Leopold memory flash, encountered Victor Holloway.)
+*   **Goal:** Survive Cedric's challenge in the Spit and Swallow fighting pit. `(Resolved in Session 7)`
+*   **Goal:** Reach Level 4. `(Achieved in Session 6)`
+*   **Goal:** Investigate the Hand of God chapel operation in the Dawn District. `(Resolved in Session 8)` (Party identified the Court of Viteo as the surface location, gained access to the courtyard, and abducted/interrogated cultist Xander, revealing the true base is underground, led by "The Reverend.")
+*   **Goal: Infiltrate the Hand of God cult's base beneath the Court of Viteo.** *(New)*
+*   **Goal: Confront or neutralize "The Reverend."** *(New)*
+*   **Goal: Determine the full scope and motivations of "The Reverend" and the Hand of God cult.** *(New)*
+*   **Goal: Investigate the other Viteo chapels identified by Father Kallor (if primary infiltration fails/more info needed).** *(New)*
+
+---

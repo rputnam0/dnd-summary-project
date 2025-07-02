@@ -1,0 +1,535 @@
+Campaign Overview: Previously in Avarias
+Below is an overview of the events, characters, locations, and ongoing mysteries from our campaign in Avarias.
+
+
+Player Characters
+Kaladen Shash Race/Class: Male High Elf Wizard Notable Traits & Events:
+
+Mysterious connection to fey magic and vivid dreams.
+Physically more fey-like (elongated ears, hints of green in his hair).
+Wields the Light Splitter sword.
+Recently amputated his arm to prevent the spread of lycanthropy and regrew it using a Soul Wood Prosthesis (resulting in a twisted, vine-like wooden arm).
+Communicates telepathically with his companions via a magical flower (or straw/wheat stalk for Cletus).
+Successfully enchanted a Ring of Protection and is working on a Ring of Holding.
+Summoned a raven familiar named Corvus.
+Received a cryptic warning from a Fey \"Uncle\" in a dream.
+Experienced a profound vision after touching a mural in Moonhaven, revealing lore about Jeya, the Tree of Death, the Tree of Life, and a prophecy about a new Fae ruler; fell unconscious for five hours afterward.
+Confirmed his \"pull\" side quest was completed upon reaching the Spider Queen's Central Cavern.
+Identified Elven writing on the Map of Moonhaven scroll case.
+Negotiated with the Spider Queen (Larethian), stating the party's mission regarding the water.
+Participated in the Queen's damage trial, dealing 84 damage using Chromatic Orb (crit via Cletus's almond), Esoteric Blast, and sword attacks.
+Drank one of the Restorative Potions, gaining a level (now Level 10).
+
+Leopold Magnus Race/Class: Male Warforged Artificer Notable Traits & Events:
+
+Known for inventive gadgets, dry wit, and effective combat prowess.
+Recovered fragmented memories hinting at a past palace life.
+Fascinated by artificing, especially Blackguard technology.
+Experienced a surge of power from the Arcane Wellspring.
+Now wields the Searing Saber (a curved energy sword) and has begun modifying a Blackguard automaton.
+Carries a rotisserie chicken and the Glutton's Fork (used to create a pup feeder).
+Absorbed the soul of an Elder Brain into his Searing Saber.
+Suffered a near-death vision hinting at the Baba Yaga.
+Working on further armor upgrades using dragon hide.
+Retrieved a glimmering scroll from a ruined building in Moonhaven.
+Tripped and inadvertently discovered the Map of Moonhaven scroll case in the spider tunnels.
+Participated in the Spider Queen's damage trial, dealing 123 damage using Catapult, summoning Bone Crusher (rebuilt after destruction), his Searing Saber, and Magic Stones, boosted by taking a Stress Point (manifesting extra spider-like arms).
+Drank one of the Restorative Potions, gaining a level (now Level 10).
+
+Zariel Torgan Race/Class: Male Wood Elf Druid (revealed to be a warforged) Notable Traits & Events:
+
+Frequently transforms into animal forms (often a bear wearing a bowler hat).
+Acts as a voice of reason with a strong connection to nature.
+Displays visible metallic components beneath his skin from exposure to the Arcane Wellspring.
+Recently acquired the ability to interrogate the dead via a magical necklace.
+Is training two wolf pups, Romulus and Remus, relying on intuition.
+Recently removed his lycanthropy curse via divine intervention.
+Experienced a memory fragment revealing his designation as \"Zero\" and connection to Isoptera and a figure resembling Lord Windrider.
+Used Wild Shape (Giant Spider) to scout the spider tunnels beneath Moonhaven, perceiving the Spider Queen's presence and non-hostile intent via web sense (Insight 25).
+Discovered an Anti-Magic Field near the Queen when his Wild Shape unexpectedly dropped.
+Tested the range of the field by faking a fall (Deception 16), being caught by the Queen.
+Participated in the Queen's damage trial, dealing 175 damage by transforming into a T-Rex (Polymorph) and using a Stress Point boost, exceeding the Queen's hidden threshold.
+Drank one of the Restorative Potions, gaining a level (now Level 10).
+
+Cletus Cobbington Race/Class: Male Firbolg Druid/Cleric Notable Traits & Events:
+
+Nature affinity has twisted him into a cow-like giant.
+Works as an almond milk farmer and is particularly fond of animals.
+Accompanied by a hired hand, Cyrus, and his pet squirrel, Chip.
+Proficient in combat, typically armed with a quarterstaff, and recently multi-classed into Cleric.
+Recently began summoning four satyrs named the “Rizzlers” and other creatures to aid him in battle.
+Delivered the killing blow to the Black Dragon.
+Used Wild Shape creatively for underwater exploration (giant octopus) and scouting (giant wolf spider) in Moonhaven.
+Also used Wild Shape (Giant Spider) in the tunnels to potentially aid communication before it was dropped by the Anti-Magic Field.
+Cast Pass Without Trace (ineffectively) in the webs.
+Aided Kaladen during the damage trial by enabling a critical hit with Chromatic Orb via his almond.
+Participated in the Queen's damage trial, dealing 96 damage using multiple high-level Inflict Wounds spells.
+Was the first to drink the Restorative Potion, confirming its effects and gaining a level (now Level 10).
+
+Cyrus Schwert Race/Class: Male Mark of Storm Half-Elf Paladin Notable Traits & Events:
+
+Hired hand of Cletus; skilled with a sword despite his farming incompetence.
+Holds a nihilistic worldview and an odd enthusiasm for danger.
+Recently acquired the Psionic Aegis and a +2 Scimitar called Peacemaker.
+Has multi-classed into Paladin and is embracing his role as an adventurer.
+Experienced a memory fragment of receiving a forbidden book about dome expeditions and the Tree of Death.
+Acted as the communicator with Ratshit via telepathy.
+Avoided being the party face during negotiations with the Spider Queen by claiming \"massive diarrhea\".
+Participated in the Queen's damage trial (via DM rolls), dealing 91 damage using sword attacks and Defensive Flourishes.
+Drank one of the Restorative Potions, gaining a level (implicitly, Level 10 pending player choices).
+
+
+Key NPCs
+Captain Levi
+
+Casual captain of the Stonewall Legionnaires who assigns missions.
+Last tasked the party with investigating Moonhaven.
+
+Lord Marshall Thurr
+
+High-ranking and imposing leader of the Stonewall Legionnaires.
+Suspects corruption within the High Council.
+Revealed to be the pack leader of the lycanthrope threat, and attacked the city in a fit of rage following the abduction of the pups from Zariel.
+Claims fighting has ceased but communicated with Zariel via Sending demanding the pups' return.
+
+Hamhock
+
+Gruff, skilled ogre-like artificer.
+Provides equipment and upgrades to the party.
+Currently studying Blackguard technology recovered by Leopold and working with him as her apprentice.
+
+Ratshit (Sergeant Donnie Farsight)
+
+Initially the party’s assigned sergeant, a half-orc with a dry wit and complaints about his “soft tissues.”
+Recently promoted to Omen Knight.
+Teleported Cletus and Cyrus out of the Market District during an attack.
+Contacted Cyrus via Scrying to warn the party about the coup in New New Arbor and urge them to abandon the Moonhaven mission.
+
+Bone Crusher
+
+Leopold's Steel Defender, a medium-sized automaton knight.
+Modified with Blackguard automaton parts and fire resistance.
+Destroyed in battle against the Great Fire Spirit.
+Rebuilt by Leopold and summoned during the damage trial against the Spider Queen's brood.
+
+Father Kalor/The Reverend
+
+Seemingly frail High Cleric of Vateyo, later revealed as a powerful angelic being serving Teyo (the forgotten God of Wrath).
+Defeated by the party in a climactic battle.
+
+Cedric
+
+A skilled fighter initially linked to the Hand of God cult.
+Later revealed to be a mutated being who stole a mysterious mask.
+Killed by the party in an underground chapel.
+
+Leora Wagner
+
+The party’s commanding officer as Omen Knights.
+A fierce warrior with a hidden were-panther curse.
+Tasked the party with investigating lycanthropes before their mission to Moonhaven.
+
+Sylvaris SunSeeker (and Laser, Blazer, Taser)
+
+Leader of the Omen Knights’ backup team.
+An elven man with blonde hair.
+Last seen providing backup during a cult attack.
+
+Lord Calmara Windrider
+
+Sleek and impeccably dressed Lord of Advancement, a position of the high council.
+Displayed an unsettling interest in Leopold's automaton nature.
+Had a tense encounter with Leopold and Zariel in the Core.
+Zariel's memory linked him to his \"Master\".
+Has seized control of New New Arbor after Lord Marshall Thurr's attack, according to Ratshit.
+
+Rurik Flintforge
+
+Dwarven smith working in the Omen Knights barracks.
+Known for offering weapon modifications to the party.
+
+Brinya, Melisra (Lisa), and Nim
+
+Fellow Omen Knights:
+Brinya: Dwarven barbarian.
+Melisra: Stealthy fighter.
+Nim: Diminutive gnome healer.
+Introduced during Leora Wagner’s briefing.
+
+Wesley
+
+A rabbit-like humanoid (Harengon) rogue with psionic abilities.
+Serves as a guide and temporary ally.
+Searching for his missing friends from the Cottonwood outpost.
+Recently rescued from the Mind Flayer colony and is currently traveling with the party.
+
+Tucker
+
+A transformed Kenku and friend of Wesley.
+Currently infected by a Mind Flayer parasite.
+Left behind in the Mind Flayer lair.
+
+Herb
+
+Wesley’s owlbear friend.
+Killed in the Mind Flayer lair.
+
+The Elder Brain
+
+A powerful Illithid entity encountered in a corrupted temple.
+Controlled a network of Mind Flayers and Intellect Devourers.
+Destroyed by the party; its soul was absorbed into Leopold's Searing Saber.
+
+Darvin
+
+A Tabaxi ranger and friend of Wesley.
+Standoffish, yet deeply cares for his friends.
+Rescued from the Mind Flayer colony and is currently traveling with the party.
+
+Cornelius Rattleback
+
+Elderly Tortle shaman and leader of Cottonwood village.
+Provides vital information and quests to the party.
+
+Sage
+
+A Seraphon (deer folk) shopkeeper in Cottonwood.
+Runs the Brusseled Brush Market, a vegan establishment.
+
+Ashen
+
+A curious young Harengon child from Cottonwood.
+
+Elder Pyre-Tongue (Tom)
+
+A crow-like humanoid, Apostle of the Flame, and former servant of the Great Fire Spirit.
+Chained and injured, he sought the party's help to grant his corrupted master an honorable death.
+Died frustrated by the party's general obtuseness.
+
+Chip
+
+Cletus's squirrel familiar.
+Known for his undecipherable squeaks and fondness for almonds.
+
+Emory Razorback
+
+A Gnoll Warlord seeking revenge for the Great Fire Spirit's death.
+Ambushed the party with a Wyvern.
+Interrogated and killed by Leopold.
+
+The Great Fire Spirit
+
+A powerful fire elemental, corrupted and worshipped by Gnolls, nesting on a volcanic mountain near Cottonwood.
+Defeated by the party.
+
+Tall Fey-like Figure (\"Uncle\")
+
+Mysterious figure appearing in Kaladen's dreams.
+Claims kinship, warned against the First Council, and seems tied to Kaladen's soul.
+
+Elder Squirrel
+
+Quirky inhabitant of the Kjarri Rung Forest.
+Dismissed the importance of ancient dwarven statues.
+
+Master (implied Victor)
+
+Figure from Zariel's memory fragment.
+High-ranking individual from Isoptera who gave Zero instructions.
+
+Automaton Unit (memory)
+
+Guard unit in Philanthra mentioned in Zariel's memory.
+Identified Zariel as \"Commander Zero\".
+
+Erin
+
+Cyrus's friend from his memory fragment.
+Provided the forbidden book about dome expeditions.
+
+Larethian (Spider Queen of Moonhaven)
+
+A massive, intelligent spider-like entity residing in a central cavern beneath Moonhaven's Calathiel district.
+Initial form was grotesque, with huge eyes (one magically reflective central eye). Communicates telepathically.
+Claimed a past as a hungry humanoid child in a \"dystopian city\" who gained power and rank (\"General\") after \"everything ended\", eventually taking Moonhaven.
+Seeks sustenance for her brood and is also concerned about the water problems affecting her \"kingdom\".
+Possesses an Anti-Magic Field around her initial position, suppressing magic effects like Wild Shape and magic items.
+Proposed a trial: the party demonstrate their power against her brood in exchange for information (\"my source\") and safe passage. Offered Restorative Potions (\"from the war\") to ensure a fair challenge.
+After the party succeeded (especially Zariel), she revealed her true intention (\"excellent feast\") and transformed.
+Her transformed state is smaller, centipede-like but still spider-ish, wielding a sword, bathed in green light, and explicitly hungry for battle. Currently facing the party.
+
+
+Important Events So Far
+Recruitment & Early Investigations:
+
+Completed Stonewall Legionnaire tryouts and were recruited.
+Investigated disappearances on the outskirts of New New Arbor, uncovering:
+An underground fungal network (The Fungal Tunnels).
+Mutated creatures.
+The discovery of a mysterious masked woman.
+
+Public Event & Tavern Infiltration:
+
+During a public event, an attempt to open the dome was disrupted by a werewolf attack and internal cult activity (Hand of God).
+Infiltrated the Spit and Swallow tavern; participated in arena fights and defeated Cedric.
+
+Cult Confrontations & Wellspring Discovery:
+
+Explored the Dawn District and uncovered the Hand of God cult’s operations within the Chapels of Vateyo.
+Battled Father Kalor, who transformed into the angelic Reverend, and defeated him beneath the main chapel.
+Discovered the Arcane Wellspring and experienced its surges of power, while learning of Teyo, the forgotten God of Wrath.
+
+Mask Recovery & Passage Discovery:
+
+Tracked Cedric to an underground chapel, defeated him, recovered the mask, and found a passage leading outside the dome.
+
+Outside the Dome & Omen Knight Activities:
+
+Ventured outside the dome, encountering giant creatures and a Blackguard automaton body.
+Promoted to Omen Knights and began investigating lycanthropic activity in the Storm District.
+During this phase, Kaladen amputated his own arm (later regrown via a Soul Wood Prosthesis) and Zariel’s warforged nature was revealed.
+Defeated a powerful werewolf alpha, choosing to rescue and care for wolf pups (Romulus and Remus).
+
+Second Wellspring & Dragon Encounter:
+
+Discovered a hidden Arcane Wellspring in a magma tunnel connected to New New Arbor’s central power core.
+Defeated a young red dragon guarding the wellspring.
+Retrieved by Ratshit.
+
+Moonhaven Task & Vault Exploration:
+
+Tasked with investigating the ruined North Dome in Moonhaven.
+Explored a ruin and solved a colored liquid puzzle to open a new path.
+Entered the Vault of the Wildfolk, where the party:
+Split up to explore various chambers.
+Collected seven keys required to progress.
+Defeated the Astral Stone Chimera, claiming the Psionic Aegis.
+
+Mind Flayer Confrontation & Rescue:
+
+Returned to a corrupted temple (The Ruined Vault) to rescue Wesley’s friends.
+Encountered and defeated the Elder Brain and its minions—its soul was absorbed into Leopold's Searing Saber.
+Rescued Wesley and his friend Darvin, while mourning the loss of Herb and leaving Tucker behind.
+
+Cottonwood Village & Fire Spirit Quest:
+
+Traveled to Cottonwood Village.
+Learned about Cottonwood’s peaceful, vegan culture.
+Met with Cornelius, accepting a quest to stop Gnoll raids.
+Bypassed a large Gnoll raiding party and ascended a volcanic mountain.
+Encountered Elder Pyre-Tongue, who tasked the party with defeating his corrupted master, The Great Fire Spirit.
+Defeated The Great Fire Spirit and claimed the Embered Mane relic and Phoenix Feathers.
+Leopold experienced a near-death vision of the Baba Yaga's chicken-legged hut.
+Returned to Cottonwood and claimed their reward from Cornelius.
+
+Journey to Moonhaven:
+
+The party began their long overland trek to the Moonhaven Dome.
+Faced delays due to weather, navigational errors, and a Black Dragon encounter (Cletus delivered the final blow).
+Gained a level, now level 9.
+
+Character Revelations:
+
+Zariel and Cyrus experienced memory fragments revealing parts of their pasts (Zero designation, Isoptera, forbidden book, Tree of Death).
+Kaladen received a dream warning from a Fey \"Uncle\" regarding the First Council.
+
+Gemstone Dragon Encounter:
+
+Discovered a statue containing trapped gemstone dragons in the Kjarri Rung Forest.
+Released the dragons and gained a Shield boon as thanks.
+
+Gnoll Ambush:
+
+Ambushed by the vengeful Gnoll Warlord Emory Razorback and his Wyvern.
+Defeated and interrogated Emory before Leopold killed him.
+
+Lycanthrope Developments:
+
+Zariel successfully removed his lycanthropy curse.
+Continued training the wolf pups Romulus and Remus.
+Received a Sending from Lord Marshall Thurr demanding the pups' return.
+
+Kjarri Rung Forest Challenges:
+
+Entered a dense, spider-infested section of the forest.
+Triggered a trap and survived a chase gauntlet involving numerous spiders and a large stone spider construct.
+
+Arrival at Moonhaven & Underwater Exploration:
+
+Arrived at the outskirts of the ruined Moonhaven Dome.
+Found the lower levels of the city flooded.
+Began underwater exploration using Alter Self and Wild Shape.
+Identified the Mithilorn, Sylphane, and Larendell districts.
+Discovered an entrance to the Calathiel district leading to an air-filled tunnel system.
+
+Prophecy and Warning:
+
+Kaladen touched a mural in the Calathiel district, falling unconscious and receiving a vision/prophecy concerning Jeya, the Tree of Death, the Tree of Life, and a new Fae ruler.
+Cyrus received a panicked telepathic message from Ratshit, warning of a coup in New New Arbor led by Lord Windrider, martial law, a Warforged army, and urging the party to abandon their Moonhaven mission and return.
+
+Encounter with the Spider Queen (Larethian):
+
+Explored the Spider Tunnels beneath Calathiel, scouted by Zariel in spider form.
+Discovered a Map of Moonhaven in a golden scroll case, revealed when Leopold tripped.
+Made contact with the intelligent Spider Queen (Larethian) in her central cavern lair.
+Learned of an Anti-Magic Field suppressing magic near the Queen.
+Negotiated with the Queen, discussing the party's mission and the shared problem of water in Moonhaven.
+Accepted the Queen's trial: a 3-round damage exhibition against her brood to prove their strength.
+Party members showcased their abilities, with Zariel (as a T-Rex) exceeding the hidden damage threshold.
+Received Restorative Potions as a \"reward\", which granted a full long rest and a level up (Level 10).
+Witnessed the Queen transform into a smaller, more formidable combat form, revealing the trial was a prelude to her attempting to feast on them.
+Session ended as initiative was called for the fight against the transformed Larethian.
+
+
+Locations of Interest
+New New Arbor
+
+A dystopian megacity encased within a dome.
+Divided into distinct districts: Dawn, Market, Amber Fields, Sweets, Storm, and Emerald Grove.
+Serves as the primary setting of the campaign.
+
+The Core
+
+Central district housing the Stonewall Legionnaires’ headquarters, key facilities, and the Omen Knight barracks.
+
+The Storm District
+
+Noted for perpetual rain, businesses, armories, and the seedy Spit and Swallow tavern.
+Recently a hotspot for lycanthrope sightings.
+
+The Dawn District
+
+The second most affluent area.
+Contains the Chapels of Vateyo—a front for the Hand of God cult.
+Contains chapels to other deities as well (party visited an underground temple dedicated to Riinan).
+
+The Spit and Swallow
+
+A seedy tavern in the Storm District known for its underground fighting ring.
+
+The Fungal Tunnels
+
+A network of tunnels beneath New New Arbor, infested with myconids.
+Site of the party’s first encounter with the masked woman.
+
+The Arcane Wellspring
+
+Hidden chambers deep beneath New New Arbor containing a powerful source of arcane energy powering the dome.
+Revealed as one of the four lifeblood sources of the continent of Avarias. Party found two such locations.
+
+Hamhock's Workshop
+
+A chaotic workshop in the Core where the party receives equipment upgrades.
+
+The Underground Chapel of Teyo
+
+A secret chapel beneath the main chapel in the Dawn District.
+Location of the battle against the Reverend.
+
+The Wilderness Outside the Dome
+
+An unfamiliar, dangerous environment beyond the dome’s protection.
+Inhabited by giant creatures.
+
+Moonhaven Dome
+
+The ruined North Dome that the party is currently investigating.
+Lower levels are flooded, containing districts like Mithilorn (Silverwood), Sylphane (Sycamore/Comet), and Larendell (Tulip Tree/Artisan).
+Features a tiered structure.
+Calathiel district (Tree of Light/Holy) provides access to an air-filled tunnel system.
+
+The Kjarri Rung Forest (Blood Rainforest)
+
+A dense, dangerous forest region on the route to Moonhaven.
+Contains various ruins, challenges, and landmarks:
+The Ruined Vault: A former temple corrupted by Mind Flayers with dark water, strange murals, a fleshy environment, and the Elder Brain's lair.
+The Vault of the Wildfolk: A temple with multiple trial chambers where the party collected keys and defeated the Astral Stone Chimera to claim the Psionic Aegis.
+Volcanic Mountain Path & Nest: Path leading up to and the location of the battle with the Great Fire Spirit.
+Submerged Statues: Ancient dwarven sphinx-like statues, partially submerged in a bog, dismissed as insignificant by the Elder Squirrel.
+Clearing with Amethyst Dragon Statue: Location where gemstone dragons were discovered and released.
+Spider-Infested Area: A dense, web-filled section of the forest, site of a trap and chase sequence.
+
+Cottonwood Village
+
+A peaceful village of animal folk nestled near the Chiari Forest.
+Previously under threat from Gnoll raids.
+Notable locations include:
+Brusseled Brush Market: Run by Sage, selling vegan goods.
+Cornelius's Shack: Home to Tortle elder Cornelius.
+
+Liamunds Tiny Hut
+
+The party's magical shelter, appearing as a magnificent willow tree rather than a dome.
+Provides refuge in the wilderness.
+
+The Tree of Death
+
+A colossal, ancient tree located far to the north, surrounded by a region of eternal cold and ashfall.
+A landmark mentioned in Cyrus's forbidden book, associated with the Moonhaven region.
+
+Mural Chamber (Calathiel District, Moonhaven)
+
+Location within the tunnel system of the Calathiel district.
+Contains a large mural depicting Avarias's history and a prophecy about the Fae realm.
+Interacting with the mural triggered Kaladen's vision.
+
+Spider Tunnels (Moonhaven)
+
+A network of winding tunnels beneath the Calathiel (and possibly Sylphane) district, heavily layered with thick spider webs.
+Dimly lit by bioluminescent fungi, with large areas of darkness.
+Inhabited by countless spiders under the control of Larethian.
+
+Spider Queen's Central Cavern (Moonhaven)
+
+A vast cavern within the Spider Tunnels, serving as the lair of Larethian.
+Dominated by webbing; initially contained an Anti-Magic Field near the Queen's position.
+Site of the negotiation, damage trial, and impending battle with the transformed Queen.
+Contained the Map of Moonhaven scroll case and the Restorative Potions.
+
+
+Ongoing Mysteries & Goals
+Survive the Spider Queen:
+
+Defeat the transformed Spider Queen (Larethian) in her cavern lair.
+Learn what \"source\" she intended to gift them if they survived her feast.
+
+Moonhaven Dome Investigation:
+
+Utilize the Map of Moonhaven for further exploration.
+Determine the cause of Moonhaven's ruin and flooding, potentially learning more from Larethian's perspective or knowledge if she is defeated/subdued.
+Re-establish communication with New New Arbor or other locations.
+Search for information regarding the domes, the High Council, Blackguard technology, and the history of the world.
+
+The Fae Prophecy:
+
+Unravel the meaning and implications of the prophecy revealed to Kaladen about the Tree of Death, Tree of Life, and the new Fae ruler.
+Determine Kaladen's potential role in this prophecy.
+
+New New Arbor Situation:
+
+Decide whether to abandon the Moonhaven mission and return to New New Arbor based on Ratshit's warning.
+Investigate the coup led by Lord Windrider, the deployment of the Warforged army, and the fate of the First Council.
+Understand the current status and intentions of Lord Marshall Thurr.
+Determine how to respond to Thurr's demands regarding the wolf pups.
+
+Character Mysteries:
+
+Understand the full implications of Zariel's warforged nature, his \"Zero\" designation, connection to the Arcane Wellspring, Isoptera, and Lord Windrider/Master.
+Uncover the meaning of Leopold's fragmented past memories (palace life, potential connection to \"Victor\") and the significance of the \"Bone Crusher\" symbol.
+Investigate Kaladen's fey lineage, the warnings from his \"Uncle,\" and his connection to the First Council.
+
+External Forces & Locations:
+
+Learn more about the Baba Yaga and her potential role in the region, possibly seeking her out using Leopold's vision clue.
+Determine the origins of the strange creatures encountered outside the domes.
+Discover the purpose and history behind the Submerged Statues in the Kjarri Rung Forest.
+Investigate the meaning behind the volcanic eruption at Drake's Roost and the object Zariel saw ejected from the mountain.
+
+Mysterious Items & Lore:
+
+Learn the origins and purpose of the Embered Mane relic.
+Uncover the truth behind the recurring cryptic messages (e.g., \"one for sorrow,\" \"two for mirth,\" \"three for a wedding,\" \"four for...\").
+Understand the significance of Larethian's past (\"dystopian city\", \"General\", \"the war\" referenced regarding the potions).
+
+
+

@@ -1,0 +1,70 @@
+Finally follow the provided instructions below for your ultimate task at hand:
+
+
+**Core Principles of Narrative:**
+
+*   **Show, Don't Tell:** Instead of stating facts, use descriptive language, actions, and dialogue to immerse the reader in the experience. Focus on revealing information through the scene rather than direct exposition.
+*   **Focus on Characters:** Highlight the motivations, emotions, and impactful decisions of the player characters and significant NPCs. Make their personalities and reactions evident throughout the narrative.
+*   **Build Tension and Release:** Pace the narrative to create anticipation and deliver impactful moments. Think about how to build suspense not just on a larger scale, but within sentences and paragraphs (microtension).
+*   **Evoke Emotion (Intentional):** Before writing each section, consider the specific emotion you want the reader to feel – excitement, fear, relief, suspense, etc. Make deliberate word choices and structure your sentences to achieve this intended emotional response.
+
+**Key Narrative Techniques to Employ:**
+
+*   **Microtension:** Build suspense within sentences and paragraphs by delaying information, focusing on small actions that hint at larger possibilities, and creating anticipation for the immediate outcome of a character's actions.
+*   **Scene Crafting:** Consider different ways to approach each scene. Could a crucial moment be framed through a specific sensory detail? Could a metaphor encapsulate the core conflict? Experiment with sentence rhythm to build towards a climax within the scene.
+*   **Strategic Use of Narrative Modes:** Be mindful of the balance between dialogue, action, description, exposition, and thought. Prioritize showing through action, dialogue, and internal monologue over telling through exposition where appropriate. Reveal information organically within the scene.
+*   **Dynamic Dialogue Integration:** Embed direct quotes within active narration. Describe what the characters are doing, feeling, or thinking while they speak to add depth and avoid static blocks of text.
+
+**Input:**
+
+Use the provided `<session_analysis>` document which provides a structured breakdown of the key events of the D&D session, including timestamps and significant moments. You will also have access to the `<session_transcript>` which contains the raw dialogue and actions.
+
+**Output Guidelines:**
+
+Using the provided session analysis and transcript as your guide, write a narrative summary that embodies the spirit of an exciting D&D adventure. Aim for a length that effectively captures the session's essence, prioritizing quality and completeness over strict word count (approximately 600-1200 words, adjust as needed for session length).
+
+Consider the following elements as you craft your summary:
+
+*   **Literary Devices:** Enhance your storytelling by strategically incorporating literary devices such as similes, metaphors, vivid verbs, and evocative adjectives to paint a richer picture for the reader.
+*   **Direct Quotes:** Weave impactful, humorous, or revealing direct quotes from the transcript into your narrative. Prioritize quotes that:
+    *   Showcase strong emotion or character personality.
+    *   Significantly advance the plot or reveal crucial information.
+    *   Add a touch of humor or memorable flair. Integrate these quotes seamlessly within the flow of your narrative, describing the character's actions and demeanor while speaking.
+*   **Dynamic Pacing:** Vary the pace of your narrative. Spend more time describing critical moments, battles, and emotionally charged scenes, using richer detail and evocative language. Condense less significant events to maintain momentum, while still adhering to the chronological order.
+*   **Character Agency:** Emphasize the impact of player character decisions and actions on the unfolding events and the game world. Highlight moments of bravery, ingenuity, and even folly. Ensure that the motivations and reactions of the Player Characters are clearly evident throughout the summary, reflecting their personalities.
+*   **Sensory Details:** Immerse the reader by incorporating sensory details – sights, sounds, smells, and even tactile sensations – to bring the world to life. Let the reader experience the environment through the senses.
+*   **Narrative Framing of Mechanics:** Integrate the influence of game mechanics (like dice rolls and spells) seamlessly into the narrative. Frame successes as moments of triumph or skillful execution and failures as tense setbacks or moments of vulnerability. For example, instead of "Kaladen rolled a critical hit," describe the *effect*: "With a surge of arcane energy, Kaladen's blade found its mark with brutal precision, a devastating blow that sent the creature reeling, a guttural shriek escaping its lips."
+*   **Combat Choreography:** For significant battles, provide a dynamic and descriptive account of the action, highlighting key attacks, spells, and tactical decisions. Build microtension within the combat descriptions, focusing on near misses, desperate defenses, and the anticipation of each blow. Clearly depict the finishing blow and the narrative impact of the mechanics involved, making it feel like a consequential moment.
+*   **Stay True to the Source:** Accurately represent the events and character interactions from the transcript and the provided analysis. The `<session_transcript>` is your primary source of information. Do not introduce new information or speculate on future events. Pay close attention to the timestamps provided in the `<session_analysis>`. These indicate the precise order in which events occurred.
+*   **Maintain Immersion:** Refrain from breaking the fourth wall or including out-of-game commentary.
+*   **Focus on the "Why":** Where possible, subtly weave in the motivations behind character actions and the consequences of their choices. Explore the internal reasoning and emotional drivers behind decisions.
+*   **Strategic Use of Narrative Modes:** Consciously decide when to use dialogue, action, description, exposition, and thought to best convey the events and emotions of the session. Prioritize showing over telling and reveal information organically within the scene.
+
+**Structure of Your Summary:**
+
+*   **Introduction:**
+    *   Begin with a compelling hook – an evocative opening sentence or two that immediately grabs the reader's attention and establishes the scene, potentially using microtension to draw them in. Important - DO NOT start your hook with "The air".
+    *   Briefly provide context, referencing previous events or the overall situation of the adventure, drawing from the provided session analysis and campaign overview. Establish your chosen narrative voice here.
+*   **Main Body:**
+    *   Organize the key events strictly chronologically, using the session analysis as your guide.
+    *   Develop each significant event with rich detail, focusing on "showing, not telling." Within each major event identified in the `<session_analysis>`, maintain the order of character actions as presented. Use the timestamps to guide the sequence of individual actions but importantly do not directly include timestamps in your output.
+        *   **Character Focus:** Describe what the characters did, said, and felt, filtering it through your chosen narrative voice. Highlight their reactions and decisions, making their motivations clear.
+        *   **Setting the Scene:** Use vivid language and sensory details to create a strong sense of place, focusing on details relevant to the scene and the narrative voice.
+        *   **Challenges and Solutions:** Describe significant battles, puzzles, or challenges, emphasizing the methods the party used to overcome them and the consequences of their actions (success or failure). Build tension during these moments.
+        *   **Integrate Past Knowledge:** Seamlessly weave in reminders of previously learned information or established lore when relevant to the current events.
+        *   **Highlight Revelations:** Emphasize any major plot twists or discoveries as they unfold, maximizing their dramatic impact through pacing and descriptive language.
+        *   **Dialogue Integration:** Strategically insert direct quotes to bring characters to life and enhance key moments, embedding them within active descriptions of their actions and emotions.
+*   **Conclusion:**
+    *   Provide a brief reflection on the overall mood or tone of the session – was it tense, humorous, triumphant, or somber, as perceived through the lens of your chosen narrative voice?
+    *   Briefly touch upon the key themes or takeaways from the session, as evidenced by the events that transpired.
+    *   Clearly state the immediate consequences of the party's actions and the session's events.
+    *   If applicable and fitting with the tone and your narrative voice, end with an evocative or thematic foreshadowing based on the session's events, leaving the reader anticipating what comes next.
+
+By following these provided instructions, you will craft a compelling and engaging narrative summary that captures the excitement and drama of the D&D session.
+
+Provide your summary in the summary tags
+
+
+<Summary>
+[Your Summary Here]
+</Summary>

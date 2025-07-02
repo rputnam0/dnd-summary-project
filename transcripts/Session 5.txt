@@ -1,0 +1,806 @@
+Dungeon Master 00:00:00 Perfect timing. Y'all ready?
+Kaladin Shash 00:00:03 Welcome Craig. It really is, yeah.
+Leopold Magnus 00:00:04 It's very RoboCop. Yep.
+Zariel Torgan 00:00:09 Oh, yeah. Oh, that's great. Oh, man. Well, I do believe.
+Dungeon Master 00:00:30 All righty, all righty, all righty. We'll do a quick recap. After defeating sort of the fungal guardian, we'll call him, lancet, the former body of lancet, you guys, stashed a woman after thorough consideration, pros, cons, risks, benefits, all that good stuff. You think you made the right call, you're not sure. It's sort of a hot topic, kidnapping somebody, right?
+Dungeon Master 00:01:00 um you got made your way back to the center core where you were sort of all individually debriefed and interrogated simultaneously about what really happened everybody sort of everybody but ratchet sort of alluding that they knew something um lord marshall thewer just straight up told you that he knew quite a bit and then he gave you the option to take on this challenge by yourself risking both
+Zariel Torgan 00:01:00 Hmm.
+Kaladin Shash 00:01:00 Thank you.
+Dungeon Master 00:01:30 yourselves and the woman or bring her in for whatever medical services can be provided by the Corps, but that is all sort of dependent on the trust between the two. And being somewhat understanding, you seem as though it's an open-ended offer. The other two didn't really seem to know as much. Captain Levi knew a little bit more. Ratchet didn't know a whole lot.
+Dungeon Master 00:01:56 But it almost seemed like they were trying to gauge who you guys were as a whole since you are also still so new. In this encounter, Leopold invented the Whoopie Cushion and you had called it the Duty Maker. Afterwards, you guys all went and got your rewards from the Commons area. In it is a magic dispenser that sort of stores the many random items that people find on their sort of missions and assignments.
+Kaladin Shash 00:02:07 Yes.
+Leopold Magnus 00:02:08 A 30-minute.
+Dungeon Master 00:02:23 Between each of your roles, the three of you, you gathered the all-or-nothing coin, the ring of the giant slayer, and the ring of the grammarian. You then spent some time intermittently trying to do different things. You scoped out the library. Zariel went and tried to memorize the market district best he could. I don't remember him being terribly successful. I feel like it was somewhat low. We'll assess it.
+Zariel Torgan 00:02:48 Yeah, it was like pretty middle of the road. Awesome.
+Dungeon Master 00:02:51 Yeah. Uh, you then sort of gathered after a day or so, uh, to take on an assignment. You were told to go see him, huh? Who also modified Kaladin's sort of, uh, it like a quarter staff before. And so it was replaced with this similar sort of quarter staff that can expand into a full sphere. Uh, cause it's sort of enchanted with the enlarged spell.
+Dungeon Master 00:03:22 Um, you also got a blueprint for something called the Arcane Splitter, uh, and have some sense that it has something to do with something coming up. Like, you haven't got, like, you got a little bit of information from, uh, Hamhawk that there's going to be some sort of, uh, attempt on the Dome to try to open it safely. Um,
+Dungeon Master 00:03:46 And so you're doing these tasks, you're meeting various people. We don't have to go into all those specifics. You guys found some garbage and some good stuff. Uh, but ultimately I believe that we ended, uh, after you tried to, you did some like little small experiments on the weird Faye woman. You had like pulled the mask up a little bit to see how it affected her. Uh, you know, like put something underneath and, uh,
+Kaladin Shash 00:03:55 Okay.
+Dungeon Master 00:04:12 Not gaining a whole lot of info, but more interesting. You also check to see if you're being spied on. Didn't seem like it. And then after going for a long rest that night, Kaladin had been targeted with another onset of a horrid nightmare of this weird, grotesque and elongated creature that seemed keen on making himself known.
+Dungeon Master 00:04:38 He seemed as real as any other being you had met, but it faded just as quickly and came to imagery of the woman in the mask times with her without it on her mask. And you just keep realizing that you just keep focusing under hold strongly to that mask that you've connected with. I think that was the last thing we did. I believe it is the morning after. What is the plan?
+Zariel Torgan 00:04:53 Bye.
+Kaladin Shash 00:04:57 Port of point of order, do we have we turned the things into ham hock yet? A little bit of our grocery shop. OK.
+Dungeon Master 00:05:17 Um, yeah, piece by piece, because, um, Leopold and Ham Hawk were working on it together. So the last thing you had to get was like the large gem or whatever it was. Uh, no, it had, you had to get it enchanted from, um, the forget what I call them, but he was the guy at the library. So that's why everybody met up there and you got it done. So you have the completed item.
+Dungeon Master 00:05:46 And I think if we even cheat check above VTT, you're just in the library still. Yeah, so you. We might have finished the long rest. Got the item and now you're going. You're supposed to return it. We'll call it there. Yes.
+Kaladin Shash 00:05:53 Thank you.
+Zariel Torgan 00:06:07 Sleep.
+Leopold Magnus 00:06:07 So we're to report back to Amhok with this, right? In the library we're in, Jonathan, is this like the kind of the headquarters in town or it's kind of a smaller library?
+Dungeon Master 00:06:21 It's like the largest library for sure. The core has access to more information, so there's a lot more stuff in here. Yeah, we.
+Leopold Magnus 00:06:35 Interesting. Might be worth doing a look around. Can I do an investigation check to kind of see what sections there are, like maybe covering different domains, maybe some Dewey decimal system? Yeah. Right.
+Dungeon Master 00:06:50 Oh, it looks like some coding text. Just like all the binary stuff. All these other things, secret codes. We discussed it a little bit before where there's like areas of like scrolls and things like that. And then there's like books and it's also mixed with a little bit modern tech of like the growing era where you have like
+Kaladin Shash 00:06:55 Thank you.
+Dungeon Master 00:07:11 flat mirrors that can be like projecting ruins like touchscreens. You have to be sort of, you need assistance with from like some of the librarians. But if you want to look for like individual sections, go ahead and give me an investigation check if you haven't. And you can see how successful you are. And then what are you looking for more exactly? What is he trying to find?
+Leopold Magnus 00:07:27 Yep. 16. Looking for history books, Leopold spent lots of his younger years reading history, and he's always been fascinated with it. So something, you know, old history of the dome, maybe what happened before it, et cetera.
+Kaladin Shash 00:07:30 you.
+Dungeon Master 00:07:58 Yeah, you find this section and there's this general history and then there's specifically talking about the construction of the dome and how long each of them were in connection with each other. In this book, it's a little bit outdated still, so it still establishes that
+Dungeon Master 00:08:20 the moon haven which is the north dome and the south dome which is you guys new new arbor are in contact for trading that hasn't sort of been found to be not exist at this point uh but beyond that it's just the rest is very the common knowledge that everybody knows that you know yeah the nut is a whole lot is known about pre-dome time or pre-dome construction other than a large group of people over time blended and that there was a huge war going on and that's
+Dungeon Master 00:08:49 Kind of is as specific as anything you find details But I will say 16 that I'd have to sort of be like Oh this just said That like this is not can't be an old book. It doesn't seem like an old book but it describes the connection between Moon Haven being lost It has not happened yet. Like that doesn't exist They were in contact still when this was written
+Leopold Magnus 00:08:54 Okay. They weren't in contact.
+Kaladin Shash 00:09:19 Rolled.
+Leopold Magnus 00:09:20 Um, what's the title of that book? I was going to go ahead and pick that up, put in my, or actually, is that like acceptable via the core? Now we're members of the legion. Okay. Yeah.
+Dungeon Master 00:09:30 So the books can't leave. They have to remain there. But you can have it set aside for you. So any time you come back, you can just get it. I don't have a name for you. So let me think of one. But I'll get it to you.
+Leopold Magnus 00:10:00 Okay, I might just put that in my inventory as a reminder that it's on hold, the library. Why, it's quite an interesting old library here. Did you see this book, Zario?
+Zariel Torgan 00:10:19 Why don't you bring it over so I can see? That does look interesting. What's it about?
+Leopold Magnus 00:10:24 Lumber over with this book in hand and just blow an outrageous amount of dust off the cover and into his face. Well, it's right here. Well, you see, it's about how the domes were connected before.
+Kaladin Shash 00:10:26 you.
+Leopold Magnus 00:10:52 This is quite old. This happened quite some time ago. Well, yes, I think we should probably figure something out with her. What do you think, Kaladin?
+Zariel Torgan 00:10:59 Yeah, well, cool. Do we want to go and get this thing figured out with this lady, or what are you thinking?
+Dungeon Master 00:11:01 Hello.
+Kaladin Shash 00:11:25 Yes, I think it's important that we do that. Perhaps first we should go see Hamhawk, take care of official business, and then try to decide next steps. I think the list is close.
+Zariel Torgan 00:11:33 Hmm Do we have everything that we need finished to be completed with ham hawk Is there
+Leopold Magnus 00:11:52 All right, should we set foot?
+Dungeon Master 00:11:53 Rex, you can just add in your inventory when you add the book, just call it the Chronicles of and then N-N-A, like three letters with just the periods in between. Yeah.
+Zariel Torgan 00:12:17 So, Jonathan, was there anything left on that list that we needed to do or did we get it? Well, then after double checking the list, I'll just kind of give a nod. It looks like we could finish this up if we'd like and then maybe take care of some other business. Looks like we're about to, yeah.
+Dungeon Master 00:12:24 Nah, you got everything done.
+Leopold Magnus 00:12:41 Yeah, I think if we're heading out, is that the plan? OK. Yeah, so we're just kind of filtering out of the library, Jonathan. I was wondering if I could make a perception check for any areas that might be a little off limits, something that the core might want to keep under lock and key. Oh, that's right. And Calvin found some squirrels.
+Zariel Torgan 00:12:57 Just that one.
+Dungeon Master 00:13:04 Uh, yeah, I believe you made this check last time, actually. And there are multiple levels, and you... Yeah, there's some areas up top that are guarded more heavily. Yeah. And if not, that's just free information, but I'm pretty sure you checked already.
+Leopold Magnus 00:13:16 Okay. I didn't, I didn't, uh, I guess I just remember the books. Okay. Thank you for reminding me. Um, I guess, well, rather than, uh, can I check to see if there are guards, if there are people coming and going kind of just while we've been in this library, keep my head alert, the notice patterns.
+Zariel Torgan 00:13:26 Yeah, it's just that one room at Powell's.
+Dungeon Master 00:13:48 Uh, yeah, give me, uh, it could be insight or perception.
+Leopold Magnus 00:13:54 Uh, they're both the same. Um, okay. And then I will say that Leopold having just gotten the all or nothing coin is just kind of been aimlessly flipping it in his hands. I don't think he quite realizes what it's good for, but Zariel told him it was cool. Um, and so I'm going to, I'm going to just roll, uh, and use that for the day. I guess less than 10, greater than 10, 20. Is that what that is?
+Zariel Torgan 00:14:05 If.
+Dungeon Master 00:14:19 All right. Odds, evens, or however you want to break it up. We know the results are 13, and you wanted it above 10. Yeah. Normally, you could actually flip a coin, or you could do a d4.
+Leopold Magnus 00:14:29 It said something. Yeah, well, I wasn't sure if that's how that works when you enroll at D20. OK, yeah. OK.
+Dungeon Master 00:14:49 and then like divide by two kind of deal. Or you can do odds, evens on a D20. Like however you break it up, as long as it's consistent. No, you wanted the success and you said above 10, so you can do that. So you're just looking for, yeah, so you're just looking for sort of like,
+Leopold Magnus 00:14:59 Okay. Well, did you want me to reroll that then and do odds evens? Okay. Yep. So then that would be a 20.
+Dungeon Master 00:15:17 what is the actual security versus what is like a let people see right.
+Leopold Magnus 00:15:23 Yeah, exactly. All right. A clock. There's this kind of private area. I'm imagining it's not like, you know, super locked up, but just kind of getting a vibe for the room when people are coming and going. Yeah, exactly. Maybe some more of the obfuscated security systems or just general level of security around that room.
+Dungeon Master 00:15:46 Yeah, so the first thing that's just easily established is that when you guys went to go to the library before you were part of the Legionnaire, the doors didn't open for you and it's a closed off space. That was like instantly that comes back to mind. Then, so you know it has something to do with your status as part of the like the low of the core itself.
+Dungeon Master 00:16:10 And then when you're in there, you know that certain parts of things need, like all of the arcane screens need guidance from a librarian who knows how to work the arcane stuff, like they have to be specially trained mages. Other sections, like Kaladin had looked up certain scrolls that were equatable to spells, but he couldn't take them with him because they were tethered
+Dungeon Master 00:16:37 like magically to the shelves themselves so like certain high-level things are not you can't take them uh and then you know with your experience already that if you want to take something out you can't you have to like they can set it aside for you for an extended time so it's like basically yours but it has to be read in the library itself and then like
+Dungeon Master 00:17:01 the it's a pretty big section of the the area so it's like pretty vaulted and multi-leveled and so the area is like towards the top that are restricted you just see like normal legionnaire guards just like at the the top of the stairs leading into them just telling people you know you can or can't come in things like that people who have escorts tend to get up to higher spots that others can't and then you also see that uh some of like the bookkeepers and librarians
+Dungeon Master 00:17:31 have like very obvious magic prowess, even when they don't, they look like normal people. So you think that it's sort of secret service type situation where like everybody in this room has the ability to jump into a fight to keep things from being, um, you know, chaotic, destructive, no theft, things like that in this room. Like everything's got a lot of value. And, uh, there's a heavily armed guard in here. It's some of it's just secret though.
+Dungeon Master 00:18:06 Anything else before you guys head back? Going once, going twice. Love it. As you stroll back through, you make your way back to Hamhock's lab. You present the arcane splitter.
+Kaladin Shash 00:18:14 No, I don't think so.
+Zariel Torgan 00:18:17 We're good.
+Dungeon Master 00:18:30 Uh, you see that hammock goes. Oh fucking great. I was waiting on this and she picks it up and she carries it on to the Her like workbench in the corner sets it down Puts a couple little more like arcane torches to it and you see the whole thing starts to get like a little bit of a thrum It's like And then she hits a switch and it turns it off And she's like love it. Uh, you guys did great. This will be uh
+Dungeon Master 00:18:58 We'll say I put in a good word for you on your next actual assignment. Maybe you'll get a bonus or a raise or something. You guys are doing pretty good work. But yeah, that's as far as this goes. I did hear that Ratchet's looking for you. He's got something else for you. And just sort of stands there, tapping their toes and their fingers on the thing.
+Zariel Torgan 00:19:09 Well, we appreciate your kind words and I appreciate you taking on Leopold in any sort of fashion that you do.
+Zariel Torgan 00:19:40 He's a keen learner and a good man. Well, at any rate,
+Dungeon Master 00:19:40 Not. No. No. Please stop. Please. Please, please stop. This is getting you nowhere.
+Leopold Magnus 00:19:44 Leopold is standing, saluting Hamhawk, just holding a salute. At your service, Leopold Magnus.
+Kaladin Shash 00:19:44 Mm-hmm.
+Zariel Torgan 00:20:10 I just wanted to thank you, and if you need anything else from us, you just let us know. We're happy to help. Just going for a hug.
+Dungeon Master 00:20:16 For sure. He hasn't been able to break. Anyway, you can get the fuck out. Come on. Throw his shoes you away. Out, out. This is not us. This is not a bar.
+Leopold Magnus 00:20:23 Why, Hemhawk, is there anything I can do for you? Oh dear, all right, of course.
+Zariel Torgan 00:20:40 Guess we'll make our way out then. Do you guys want to? Yeah.
+Dungeon Master 00:20:48 Okay. You said something about maybe going to see the girl once more, check in. Did you want to just go check in with Ratchet? I'm going to check with his actual name. I have it written down somewhere.
+Kaladin Shash 00:21:03 Probably easier above table. It really depends. I think we're at maybe a dead end, like being able to figure out much more.
+Leopold Magnus 00:21:05 Oh, not his nickname. Yeah.
+Zariel Torgan 00:21:09 Um, do you guys want to chat in character about what we want to do with the girl or do you want to just talk above table about what we want to do? Yeah, that's kind of my thought. Yeah, I would.
+Kaladin Shash 00:21:33 Maybe we can at least negotiate to be sort of present for any testing or, you know what I mean?
+Zariel Torgan 00:21:41 Mm-hmm. Yeah, I think I would agree. It seems like we're not powerful enough to be able to do something effective with her. And at the very least, like you said, we can make it a stipulation that we would like to be involved.
+Leopold Magnus 00:21:42 Yeah, I agree. That's a good idea. We should try to keep them under a microscope and examine them closely, maybe try and find any reason to be suspicious.
+Kaladin Shash 00:22:04 Yeah. Yeah. Maybe we could talk to ratchet. And because he's already talked to, I didn't talk to ratchet. I talked to. Uh, Marshall.
+Zariel Torgan 00:22:12 All right, I'm cool with that. Do you guys want to just go get her, or do you want to find out what Ratchet wants and then get her after? Yeah. Yeah.
+Leopold Magnus 00:22:30 Ratchet's the one I talked to. Yeah, he knows nothing. Donnie? Donnie what? Anything? Donnie Ratchet?
+Kaladin Shash 00:22:33 Yeah, you threw him off. So maybe. Maybe we could ask for an audience altogether rather than individually being interrogated and try to talk something out and then get the girl. Donnie. Donnie read shit.
+Zariel Torgan 00:22:45 But yeah, I can dig that. Farsight. Nice. I was gonna say, Donnie Brasco.
+Dungeon Master 00:22:47 His name was Donnie. Donnie Farsight. His name was Donnie Farsight. Donnie Farsight was his name, but then he goes, most people call me Ratchet.
+Kaladin Shash 00:23:06 Donnie Darko. That's Luetos Gosidani. Red shit.
+Leopold Magnus 00:23:08 That's great. Yeah, I would say call the meeting with everyone and ask to negotiate. Oh, Mr. Ratchet.
+Zariel Torgan 00:23:22 All right. Do we want to check in with Donnie first? Sounds good to me.
+Leopold Magnus 00:23:35 I don't know if he really knows what we're up to quite yet. Hmm. Well, I suppose, but I did throw him for quite a, quite a loop. Oh, yes. What an obvious thing to neglect.
+Kaladin Shash 00:23:39 I think he knows.
+Zariel Torgan 00:23:50 Yeah, you told me you did a good job with that, but I imagine that just like we're talking, they probably also talk. So. Yeah, it happens. We're all human. Well. You're. Yeah. Anyway.
+Kaladin Shash 00:24:13 Yeah.
+Leopold Magnus 00:24:14 I'm just looking at my hands. They're kind of moving my fingers, turning my palms. After you, Zario.
+Dungeon Master 00:24:19 Damn, dude Okay, you guys are heading back to donny senior wretched
+Zariel Torgan 00:24:26 I'll just give him a pat on the back and say, well, let's go. All right, I'll make my way out. Yes, sir.
+Kaladin Shash 00:24:52 We're talking first, I think, rather than being like, we have her. Let us do what we want.
+Dungeon Master 00:24:54 Are you bringing the woman for help or are you just going to talk? Okay. Yeah, you guys make your way back to the core, pretty simple, not too far. You search out Ratchet. As you're on your way, go ahead and give me,
+Zariel Torgan 00:25:02 Yeah, we're just gonna. Yeah. Yeah, let's negotiate now that we have no leverage.
+Dungeon Master 00:25:24 One of you go ahead and give me a check, but I want you to decide who it is before I tell you what kind of check.
+Kaladin Shash 00:25:33 Oh. Right, that gives that gives you at least perception insight. My best didn't tell it. Yeah, I think you might be best, but my intelligence are just pretty specific types of role. Yeah, history are cannons.
+Zariel Torgan 00:25:36 Well, what do you guys think? My highest is wisdom. If we think it's wisdom, I got a plus. I got a plus five. Yeah, that was kind of my thought. Well, intelligence, it could be history or it could be. You know, investigation. Mm hmm.
+Leopold Magnus 00:25:55 Yeah. Yeah, I think you and I have overlapping stats, so I'd say just either one of you.
+Kaladin Shash 00:26:01 Investigation, those are good ones, yeah. Go for it, Jesse. Zaria.
+Zariel Torgan 00:26:15 All right. Oh, yeah. Ouch. Fourteen.
+Dungeon Master 00:26:19 Sorry, I'll go ahead and give me a perception check with advantage. And there's a reason this with advantage. 14 Pam, I had it in my head as a DC 15. You go.
+Leopold Magnus 00:26:24 Ooh, nice.
+Zariel Torgan 00:26:45 You can just let it slide. Nobody heard you.
+Dungeon Master 00:26:48 You're walking towards where you think Ratchet is, just sort of like the assignments office. He doesn't like work in there. He's usually just around there though. Pretty casual guy. Got a lot going on. As you're walking though, you pass sort of the meeting area that you had been in that one time that you saw that one sort of closed door meeting happening. And as you're walking by, you bump into somebody very briefly, but you don't, nothing comes of it. You just,
+Kaladin Shash 00:26:54 Bye.
+Dungeon Master 00:27:18 Turn, keep walking, don't really notice anything. They turn. Hit the roll.
+Zariel Torgan 00:27:23 Dad. I'm just kidding. OK. All right. Well, that's a bummer. Sorry, guys. Yeah. All right. So, yeah, we'll keep heading into into Ratchet.
+Leopold Magnus 00:27:37 It's the way she rolls.
+Kaladin Shash 00:27:39 Sorry, it's where it was.
+Dungeon Master 00:27:49 Ask me at the end what you missed, because it'll come up no matter what, but I'll tell you. You guys, find Ratchet. He's filing through some paperwork. He's like at a standing desk. He looks up.
+Zariel Torgan 00:28:00 It's definitely not gonna be me. It's definitely not gonna be me that talks. My charisma is so bad. It's minus.
+Kaladin Shash 00:28:20 Hamhock told us you were looking for us. We're just reporting. We've taken care of a special errand for her.
+Dungeon Master 00:28:20 Well, what brings you all here? Fair point. Sorry, I just figured I'd see you sooner. You guys were out for a few days. Wasn't sure what it was about.
+Dungeon Master 00:28:49 But yeah, anyway, I do have something for you. It's about your next assignment. Let me know when you're ready. I'll give you the basic files on it. I told you all my friends call me Ratshit, as you would say. Thank you.
+Kaladin Shash 00:29:02 Donnie, I believe we're ready now. Also. OK. Ratchet it is. Always ratchet. What are the chances?
+Dungeon Master 00:29:18 And he sort of goes, OK, so you're ready then. Let me catch the file for you. And he goes to, just like turns around and shuffles through some paper. And he's like, oh, fuck. I know it's around here somewhere. Oh, here it is. And he goes, by the way, this was so fucking hard to find because I don't know what to file it under for your group. What do you want to be called? You should think it over, really figure out something that works.
+Dungeon Master 00:29:48 Because you can't change it, so if it's dumb, it's just fucking dumb. Sort of like when your friends go behind your back and submit your formal name as Ratshit, and then you can't change it. But anyway, I digress. Hands you the file, and he goes, you'll figure it out pretty quickly, but I just can't tell you more until you look it up on your own.
+Kaladin Shash 00:29:53 Thanks. All right. Fair enough.
+Dungeon Master 00:30:18 Sort of tough love type of deal. And he turns and he goes back to work, leaving you with the file. Yeah. Well, I could check on the marshal for sure, but Levi's out on assignments.
+Kaladin Shash 00:30:25 Uh, Rachid, I need to know one other, one other thing. Can we please talk with Captain Levi and the Marshal himself? Marshal, Marshal,
+Dungeon Master 00:30:46 He won't be in for, I'm not entirely sure actually, but he's out. Uh, the Lord Marshal might be in a meeting, but, uh, you can, I, I, I think, uh, potentially in one of the meeting rooms. Jesus dude. You gotta fucking stick up your ass. I think he's down that hallway. You would have passed him on the way in. He's, he's just in one of the rooms.
+Kaladin Shash 00:30:55 That's fine, we, we will, we will wait. Red shit, what room? Okay.
+Dungeon Master 00:31:17 Read your fucking file. And you just go down the hall. Yeah, like walk and read at the same time. Maybe your friends are next to you to keep you from falling over or anything like that. And the top of the file, it's all written out pretty simple again. So it's just at the very top of this one says assignment and then colon. And it goes.
+Kaladin Shash 00:31:24 Can I start reading it?
+Zariel Torgan 00:31:29 you
+Dungeon Master 00:31:47 Watchdog. Like OK, and then it goes risk and then colon. So it's all listed like almost bullet point risk minimal. And then it says purpose and in short sentences it says. Watch for threat. Assess for New Dawn Group District.
+Kaladin Shash 00:31:58 Well.
+Dungeon Master 00:32:14 Don District Group, it wouldn't be dyslexic like that, but it says, access restricted, but concerned threat. And then in like down another paragraph, and it says, tour to hold events, watch crowd, monitor group, and then it says, and then it like gives like, you know,
+Dungeon Master 00:32:41 estimated time, where you guys will be located, it gives like a little bit of coordinates in relation to it. And then like, as you reading through this, and you're like, okay, pretty simple, guarding and watching for what you make it to the room. Do you knock and go in? Do you just go in? Do you wait?
+Kaladin Shash 00:33:04 Um Can we knock I just want to know I won't let you like barge in I'm not like that intense want to knock Friendly knock Very good I go ahead and walk in I should
+Dungeon Master 00:33:13 Yeah, you knock, you hear, when you go to knock, you actually hear a little bit of just muttering and everything. And then just the wrapping on the door. And you hear, come in. He goes, take a seat. And as you like actually come into the room, you see like a scattering of other people
+Zariel Torgan 00:33:15 you.
+Dungeon Master 00:33:40 Um, some of them sitting some of them standing you think maybe 10 in total not Like if you're unless you're gonna stare at all of them, you're not totally sure but then you go to the area he Points to have a seat and he goes The whole party is here. I can go over the assignment It goes the core has been working on Re-establishing the communication between us and moon haven
+Dungeon Master 00:34:08 As many of you know, it went missing without much explanation and it is a concern for us. We're not entirely sure why it happens and this goes without saying is private information. Nobody knows why communication was lost. I digress though, as per your file you'll see
+Kaladin Shash 00:34:18 Great.
+Dungeon Master 00:34:36 The only group going in is this selected Omen Knight group, and you see he points to people on the front right table of the room who are sitting quietly, heavily geared, very magical. One of them's got their helmet off and kind of looks like he's from the movie Top Gun kind of deal, where he's slicked back, air, greasy. He's got just shades on, definitely a hot shot. They seem very capable, especially compared to a lot of the other rooms.
+Kaladin Shash 00:34:56 Mm-hmm.
+Dungeon Master 00:35:05 And he goes, he goes, Lord Marshal Thoreau goes, they won the drawing for this mission, very anticipated. You will be going by foot through the plains to try to find the dome, see what is going on. The first expedition outside of the dome in over 40 years. Unfortunately, we did not know this, but when
+Dungeon Master 00:35:34 Communication went down with the last storm. We lost the ability to teleport or even open it. And you three wouldn't know that. That wasn't common knowledge. So he says it very casually, like, forgetting this is, like, purview of sort of the upper people, and maybe everybody else in this room, you're not sure. But he continues, and he goes,
+Dungeon Master 00:36:00 But I believe with this device that this group right here has put so much work into crafting, we can open up a safe doorway to let this group out and seal it as needed so nothing can get in. And you hear some people in the back go, hell yeah. And he's like really stoked about it. And he goes and he starts pointing to like different like diagraphs and there's like an itinerary of where you're supposed to be at what time. And it outlines that the core is going to hold like
+Kaladin Shash 00:36:08 Thank you.
+Dungeon Master 00:36:29 a day festival for this big event and it's going to be like a public send-off as like as with most people the general public is sometimes a little distrusting of the government as people can be this just seems like they're like
+Kaladin Shash 00:36:44 Thank you.
+Dungeon Master 00:36:46 Look, we're doing something that you might deem irresponsible, but we're doing it with good intention. Please don't be mad. Here's a party kind of deal, like knowing the public is going to react poorly in general, they want to butter it up. So there's a big event to announce this mission. And you guys are supposed to be like at a watch point, observing, taking notes. And there is this other group that's like,
+Dungeon Master 00:37:12 Not they don't don't know whether or not they want to call it a cult, but it seems there's a religious extremist group will say. That is being like heard of there's rumors of and this is very early on of in the dawn district. They don't have a name yet, but it's just like.
+Dungeon Master 00:37:36 circles back to, are they worshiping Viteo? Are they worshiping Aika? What is the group they're based around? What do they want? But there's like, people go missing and come back and their family members say they're not the same. There's weird things circled. And this is just information that he sort of explains this towards you. And it's just like, look for weird figures that you would associate with
+Kaladin Shash 00:37:42 Thank you.
+Dungeon Master 00:38:03 extremist like that's all you have at this point and that's just your very specific focus amongst this much larger uh plan as all these people have these assignments so as he's talking he's giving you all this information uh you learn that the festival is going to be in a couple days they're going to announce it and everything um but like most of that time we're just going to skip unless you want to do something specific because it's just like you spend it prepping and training and going through your like task
+Dungeon Master 00:38:32 Obviously, you guys could do individual things if you wanted. But yeah, so we're going to be like, OK, this is your assignment. Unless you want to do something, we're going to go right into that day. What is the vibe? I'm going to say it's pretty early on. I don't think you guys know.
+Kaladin Shash 00:38:46 I don't I wouldn't have any. Personally, I don't think I'm going to prep for it. I don't have any money to buy anything and we just got. Our little toys. Yeah. That's right.
+Zariel Torgan 00:38:46 Well, yeah, I think other than figuring out and nailing down what we want to do about the girl, I don't know that we have anything we need to do during that time.
+Dungeon Master 00:39:13 That is something you need to address, yeah. Yeah, you guys, you sort of wait. It finally finishes up. Everybody's given it. There's their individual information and all that. And you then, like, everybody says their goodbyes and handshakes, and you're sort of just hovering eventually.
+Zariel Torgan 00:39:16 So do we want to just play that out like now after the meeting or?
+Kaladin Shash 00:39:17 Yeah, can we request a private audience quietly as everyone sort of files out?
+Dungeon Master 00:39:43 The Lord Marshal makes notice of it. And he goes, like taps the last person on the shoulder and goes, good to see you. We'll talk soon. We'll have dinner with the family. And he looks and he goes, any questions that they use specifically?
+Kaladin Shash 00:40:02 Yes, Lord Marshall, I have a question as well as a proposition for you. As you know, you seem to know very much about this woman that we found and are helping, just like we told you. But perhaps, perhaps you can help her more than we can. But we just want a sign of good faith. Can we be there as you assist her?
+Zariel Torgan 00:40:32 Yeah, throw a D4 on there.
+Kaladin Shash 00:40:35 Yeah. OK.
+Dungeon Master 00:40:38 OK. Go ahead and just give me, we'll do a charisma check with the guidance.
+Zariel Torgan 00:41:10 Oh. Oh my god. I think you guys are gonna fuck.
+Leopold Magnus 00:41:11 Show us that riz.
+Dungeon Master 00:41:12 Natural 20. Very nice. And he goes, his facial features soften. And he goes, of course. I'm just glad you came to this decision on your own. I do think we can help her. Follow me, of course. And you see he's sort of, not with haste, but he's got a very fast walking pace. This is a very large man. His strides are huge.
+Kaladin Shash 00:41:13 Oh.
+Dungeon Master 00:41:40 Uh, and he like starts pulling you down some hallways. Uh, easy to remember if you like wanted to. So if you're going to ask me, it's like, Oh, can I track this? It'd be easy enough. He's not hiding it, but you eventually get to like an elevator. And as he stepped in first, you see the ruins at the base of it, light green, like they just flash a green around them as he steps in. And as you step in, you don't notice anything specific, but then like an arcane panel lights up.
+Kaladin Shash 00:41:51 Bye.
+Dungeon Master 00:42:10 and you see it sort of like with gears shifts and then tilts towards him and he draws the symbol for like sub level two is like negative two equivalent in arcane runes anybody who has any spell casting ability could recognize that and i believe that's all of you um so that's what he just like draws i think it was like the number equivalent
+Zariel Torgan 00:42:21 Bye.
+Kaladin Shash 00:42:27 Yeah.
+Dungeon Master 00:42:36 And then you see the whole elevator flashes green on the corners and into the top. It all connects on the borders of everything. And then the elevator smoothly sort of like thrums and drops down a bunch of floors and he's, you know, arms folded. He makes a pleasant smile without saying anything. He's been in silence this whole time.
+Dungeon Master 00:42:56 And then finally it drops, stops, and you see the doors open and you are in like a very sterile, clean, white looking facility. You see clerics of different types moving through and about.
+Dungeon Master 00:43:12 Um, they have clipboards. They've got like panels that light up Um, you know, you see them casting some spells and you see them using some salves on different people who are hurt They seem like soldiers like this is where like the icu is kept Um and like in this moment It would be zariel who would be like wait this kind of looks somewhat familiar But you're not totally sure why? And as you're walking through
+Kaladin Shash 00:43:28 Yeah.
+Dungeon Master 00:43:41 Lord Marshal Thor starts just explaining, he goes, so this is the facility I was talking about. It's got nearly unlimited access to any sort of healing we need. And he goes, when I first saw what I saw through this cry, I prepped just in case I hope you came to the right decision. And he pulls you and there's a room that has like,
+Dungeon Master 00:44:03 It's been prepped for this, like you see druidic influence. There's a lot of green based magics and plants that are being like extracts pulled from and tested on. There's like a bed in the center that does look comfortable, but you can tell that like if this woman was in the room, she'd be the center of this room. Nobody wants to be in that position, but hopefully it's like it's like that person has the most access in the room.
+Dungeon Master 00:44:31 Kind of the center of attention. So a little bit lab rat kind of vibe if you were skeptical but doesn't seem malicious and there's not like torture things around like it's it's fully it's just like.
+Dungeon Master 00:44:45 like a medical area. It's very clean and not harmful, if that makes sense. And he sort of ushers to this and he goes, we would be running some tests, of course, but nothing to the extent of harming this individual. We want to figure out the base of magic. Seems very tricky and it's weird that we wouldn't have noticed it in the city if it's as powerful as it seems.
+Dungeon Master 00:45:13 And he goes, and then once we ascertained her state, the goal is ultimately to bring her to consciousness, no? And he sort of nods to you like obviously we both want the right thing. And he goes, we will have to figure out and agree on to what extent to pursue that obviously. But you going forward will have access to this lab if you'd like.
+Kaladin Shash 00:45:25 Yes, certainly. Thank you very much. One other question. Have you encountered persons with this type of mask before? You seem to be familiar.
+Dungeon Master 00:45:45 Yes. As he talks, he goes, I've never seen this kind of magic where this is mask. And as he says that, go ahead and just give me an insight check. Anybody who wants to make it can.
+Kaladin Shash 00:46:00 Yeah. Okay, okay.
+Zariel Torgan 00:46:05 Yeah, that was going to be my next question.
+Dungeon Master 00:46:17 Seems to be forthright with you. It seems like a very genuine response. And then he goes, but I'm keen to learn. I know I don't look the type, but the arcane does pique my interest.
+Dungeon Master 00:46:38 And he goes, and while I've got you here, and he traces over your armor out a rune. And then he presses it into showing incredible magical ability for being as like big and brutish as he looks. And on each of your sort of like armor sets, that's not Leopold skin. So he would do it on like the arcane set that holds your shield. So he doesn't just burn this into your body. Runes that grant you access to like this floor specifically. So you can come and go and check on things.
+Leopold Magnus 00:47:02 Crash.
+Kaladin Shash 00:47:08 So we can use the elevator, what you're saying? I look forward to it. Yes. I look forward to assisting with it. Thank you very much.
+Dungeon Master 00:47:10 Yeah, so you can use the elevator to this floor. You don't know how successful it is. Otherwise, that is what he explains it as. And he goes, I hope this is a good step to building trust between us. But I do apologize. I have to go. A lot of prepping for this, which is going to be a disaster of an event.
+Zariel Torgan 00:47:30 Subs by www.zeoranger.co.uk
+Dungeon Master 00:47:38 They love, they hate us, he says as he walks away with like a brisk pace. But he leaves you two here. You think it's more of like casual conversation of nobody likes the police kind of joke, you know?
+Leopold Magnus 00:47:45 Jonathan, can I, it seems like when he says it's going to be a disaster, is it expected that it's not going to end well? Okay. We don't get the impression that he thinks the event is just doomed.
+Kaladin Shash 00:48:01 or just crowd control in general, their presence. Cool.
+Zariel Torgan 00:48:04 out.
+Dungeon Master 00:48:11 No. It's like he doesn't like he has to dispatch all of his soldiers for like a publicity event. And as part of it, the core is like higher peers have assigned all the soldiers like other tasks. So like he is just a pawn in this. And it seems like he's like, of course, I have to waste my Sunday doing this kind of thing.
+Zariel Torgan 00:48:44 Well.
+Dungeon Master 00:48:44 Meta you guys would go you as the players might think yeah public gathering. This is a disaster, but That's a too bad. You don't have to metagame Fall right into my hat trap So anyway, let's go
+Kaladin Shash 00:49:06 Yeah, can we, unless there's some sort of special moment that will happen, can we say that we retrieved the woman successfully and brought her to the room? Yeah.
+Dungeon Master 00:49:18 Yeah. And I would tell you just because it doesn't matter the checks you make, there's not really a check to make at this point. So like it would, it'd be a waste of your guys' roles. I'm not going to mislead you by saying, go ahead and roll this kind of check for a change. Uh, no change in her state, exactly the same, just as unconscious. Uh, the mask draws towards Callie. He's made some sort of unbreakable connection with it. Um,
+Dungeon Master 00:49:45 And then, you know, to that point, actually, Zariel, go ahead and give me a constitution check. Yeah. That was a safe. Is it the same? Do you have a plus? Do you have a plus three regardless?
+Zariel Torgan 00:49:54 Just a check? 21. Hmm? No. Oh, lame. Oh. No. Oh, yeah, I do.
+Kaladin Shash 00:49:58 Is the modifier the same though? Let's create them. Yeah. Yeah.
+Dungeon Master 00:50:19 Okay, so 21 no matter what. That's good. You're welcome. The more time you spend near this woman, you feel something in like the depth of your core. And it is truly just like so faint that you can only describe it as a something. You feel there is things happening
+Zariel Torgan 00:50:21 Yeah, that was dumb. I thought I clicked, okay, thank you.
+Dungeon Master 00:50:50 couldn't articulate to what extent at all, but you start noticing the more time you spend around her, you start feeling different. Maybe you just have anxiety, you know.
+Zariel Torgan 00:50:58 Interesting. Could be. While we're walking there or back at some point, I'd like to just ask Will, Leopold, just first thing that comes to your mind, just right off the top of the old helmet, what do you think a good group name would be? Go.
+Dungeon Master 00:51:25 Bye-bye.
+Leopold Magnus 00:51:29 Oh, dear. Well, I never really had a group. Oh, dear. Okay, yes. I suppose. What do you think, Kaladin? I'm not quite so sure, but if you're in for it.
+Zariel Torgan 00:51:37 I think you might be on to something. The oh dears. Well.
+Kaladin Shash 00:51:40 I'm not okay with this. I cannot support this for my group.
+Dungeon Master 00:52:00 Leopold so clearly doesn't like it. It's so funny. It takes a long time.
+Zariel Torgan 00:52:03 I like that his first response was just to say, oh dear, again. And then he's like, well, well, we'll keep we'll keep thinking. I just think, you know, off the cuff is always the best.
+Leopold Magnus 00:52:15 Oh, I'll put it in my notebook for you. Sorry, y'all. And I dig out my notebook, kind of just write, oh dear. And then very apparently crossed it out. I kind of shut my notebook and we'll keep track.
+Kaladin Shash 00:52:28 I'm off the list. Jonathan, can I ask a question? What's the organization of the Legionnaires? Is it like small groups like? Is it like large units? You know what I mean?
+Dungeon Master 00:52:33 Absolutely. Nice. Yeah. Think of, yeah, think of like this is all chronically
+Zariel Torgan 00:52:36 Yeah. All right. Well.
+Dungeon Master 00:53:00 this is very long term, um, the progression of what, like a uniform adventuring parties association would go like, like the dome was founded, individual people were doing good and bad things in the dome city. And then over time, think of it as like a union got established and brought all of the good people together is like a unified fighting force. And then that got sort of,
+Dungeon Master 00:53:26 merged into the government as like a regulated system then. And so the core, uh, the Legionnaire still very proudly is like our soldiers fight in groups that they choose. Like you are part of your own little teams, but ultimately you report up the hierarchy and your groups have like different statuses. Like the Omen Knights are still adventuring people who like
+Kaladin Shash 00:53:41 Also, could I ask the Omen Knights, as you described them,
+Dungeon Master 00:53:53 Our buddies who would be a group outside of this environment would have like a certain status of power in the legionnaire if that makes sense. So Yeah Yeah No distinctly different flavor of armor
+Kaladin Shash 00:54:07 Was that who we clocked when we were carrying the girl, like that black picture you showed? Okay. Okay. Cool.
+Dungeon Master 00:54:27 Okay. Let's go day of then. Yeah, is that what you were just going for? Oh, then yeah, address your guys's stuff. Okay, I gotcha.
+Zariel Torgan 00:54:31 I think, yeah, go ahead. Oh, yeah, I was just going to say, if that's it, I just wanted to ask about the group name. That was all I wanted. No, no, no. All I was saying was is that I was good. I just wanted to ask Leopold that. But I'm set if we wanted to jet forward.
+Leopold Magnus 00:54:56 Well, Zariel, have you thought of anything, or just the odiers? Why, are you sure?
+Kaladin Shash 00:55:00 Yep.
+Zariel Torgan 00:55:02 Well, you mean, I don't know. I mean, I'm not exactly the creative type, but I thought maybe we could be like the Wranglers. You know, but I mean, stupid, I don't I don't really I mean, I don't really like that name. So. You know. I mean, I don't like it. Well, do you like it? I mean.
+Dungeon Master 00:55:05 Thank you.
+Leopold Magnus 00:55:28 I don't know much, but we have been wrangling. What does wrangling mean? Oh, yes, yes. A rustling, a hustling, a wrangling. Mm-hmm. Kaladin, shall you join us?
+Kaladin Shash 00:55:34 We'll have to continue to think of some of these, okay? I'm on the floor right now.
+Zariel Torgan 00:55:35 Just, it's like a, like a rustling and a hustling and a rassling, you know, all those types of things.
+Dungeon Master 00:55:50 That's a real stuffy cowboy now.
+Leopold Magnus 00:56:06 Well, I'll always wrangle with you, Zario. I open up my book, write down Wranglers, put a line through it. I'm sure we'll come up with something.
+Zariel Torgan 00:56:06 He's showing that. These are bad names. All right, well, we'll keep. I mean, I imagine that at some point, some sort of organically occurring
+Kaladin Shash 00:56:09 But I do not like a wrangle either.
+Dungeon Master 00:56:24 Okay.
+Zariel Torgan 00:56:35 like recurring theme will happen and it'll kind of present itself to us in a way that we will get on board with as a group. But who knows? Well, I do what I can.
+Kaladin Shash 00:56:48 Yes, we'll be shown. We'll be shown and we will know. Day of mission. Is all we're doing reporting to a specific area and just looking out for what we deem extremists? That's it.
+Leopold Magnus 00:56:55 You always did have good insight, Zario.
+Dungeon Master 00:57:10 You're sort of watching the whole thing to make sure nothing goes wrong and also looking out to see ultimately this is going to be just like out of game. You're a certain number of checks to see if you see something going on.
+Kaladin Shash 00:57:35 OK. All right, cool.
+Dungeon Master 00:57:39 I want different views. Not that for sure. Yeah, we'll do that. OK. So you guys on the map? Nice. You would know that your sort of coordinates to watch everything is over here.
+Zariel Torgan 00:57:57 Yep.
+Dungeon Master 00:58:10 And so day of you guys report from the core, you make your way, you're all dressed up in your armor, you've got like, rations and water for like a full shift, potentially up on this roof monitoring the status of the city. And it's bustling with people there are like hundreds and hundreds and hundreds of people crammed in on this tight streets.
+Dungeon Master 00:58:34 You know, there are like street performers doing acts and kids laughing and there's like face paint and all these other things and food and, you know, trinket shopping and like buy my beads kind of deal. And then up at this top, this is the like the edge of the dome. So you are in the end of the market district is where this is taking place. And you see there's like a sectioned off stage area in the street up here.
+Kaladin Shash 00:58:44 you.
+Dungeon Master 00:59:03 um like no through traffic or anything uh and you can kind of tell that that is where the main stuff is going to be happening and you're a little far away from that but you know you're also only been working for the legionnaire for like a week right so you don't think you're going to get the very very super important spot
+Dungeon Master 00:59:25 But as you guys assume your posts and you're watching anything, go ahead and whoever wants to make will do three successes or three fails on just perception checks to see if you catch any suspicious activity.
+Kaladin Shash 00:59:45 Okay. Okay. I'll roll. Did you say perception? Not great.
+Zariel Torgan 00:59:46 Well, my perception is plus five. So I don't know if... Can we aid each other? Or is it going to be just straight rolls?
+Dungeon Master 00:59:55 No, because you're going to make individual checks. So just who wants to go first? Yeah. OK. You're watching. Things are exciting and fun. There's a lot going on, but you don't really notice anything.
+Zariel Torgan 01:00:16 Mm. Ah. Nice.
+Kaladin Shash 01:00:17 10.
+Dungeon Master 01:00:28 who wants to make the next check. It's like the next half hour to an hour pass by. Yep.
+Leopold Magnus 01:00:33 I can make a check. It's perception. Huh. Well, it sounds like a plan, Kaladin. Oh, I have like three or four pages of just sprinkled out names.
+Kaladin Shash 01:00:44 It all looks good right now. Maybe we should get beer.
+Zariel Torgan 01:00:47 Yeah, everything's cool. We're just vehemently arguing about the name that we're trying to decide on. Yeah, I've got Wranglers. I've got Levi's. I've got other sheet names. Now.
+Dungeon Master 01:01:02 Somebody else go ahead and give me a perception check. Critical failures is fun.
+Leopold Magnus 01:01:07 I've got like rogues are scratched out. The critical failures scratched out. Uh-huh. All right, for me.
+Kaladin Shash 01:01:17 The critical failures, is that what he says? That's fine. Yes, boy, 23.
+Zariel Torgan 01:01:21 19. Where's that coin?
+Dungeon Master 01:01:31 OK, I will tell you right now before Rex rolls, if he hasn't already, you are at two fails and two successes. So this will determine if you pass or fail this little security detail.
+Leopold Magnus 01:01:37 Oh boy, well, you know, I'm the right person for the job. I spent it. Hey, didn't need it. Jotting furiously in my notebook and I think something just catches my eye.
+Zariel Torgan 01:01:51 Come on big money. Hey
+Kaladin Shash 01:01:56 Yeah.
+Dungeon Master 01:02:07 nice um you guys are up on this roof like partway through two of those checks because remember this is over a long time um you see like the actual ceremony starts and they have different speakers of like the regent of this market district none of you ever met him before just some rich rich asshole who like
+Dungeon Master 01:02:33 is in a political position addressing people making promises and you know we'll clean up these streets kind of talk very classically boring camp constantly campaigning dialogue and then eventually like other people get brought on and it cycles through for a while um and then finally you see lord marshall super in like very nice formal wear like a a big suit that's very nicely fitted and you see just how like
+Dungeon Master 01:03:04 He looks like a bear of a man. He's so muscular, and he's like this renowned fighter now turned politician. He goes, uh, good afternoon, everybody. And he sort of taps the mic, and it rings out in everybody's ears. He goes, sorry. As you have all been told, we are now attempting to reestablish connection with Moonhaven. And he pauses as everybody starts cheering and clapping, like,
+Kaladin Shash 01:03:19 Boop.
+Dungeon Master 01:03:33 Yeah, save them. And he goes, OK, OK. We don't know the risks. And a lot of booing commences. And he goes, stop. But this is a risk we need to take. And now we have the means, which is why it is in our interest to not let more time pass. He goes, so it is on my authority that this group, formerly known as SEAL Team 6.5,
+Dungeon Master 01:04:03 will be going out and tracking down the city, reporting back with what they find. Purely scouting at this point. And he goes, so I will not hear any more about it. Bring out the splitter and he sort of motions back behind him and you see
+Dungeon Master 01:04:24 um not ham hock but some just mage in nice gear holds the splitter and like walks it over to the the edge of the barrier and starts pressing some buttons and the music starts going and there's like drum rolls and people cheering and the like omen nights you've seen before are in full gear and they sort of like
+Zariel Torgan 01:04:46 Bye.
+Dungeon Master 01:04:51 walk up onto the stage and they're waving and they're sort of being made as like icons of the city sort of for everybody to focus on and and then as they press the button it opens successful no issue you see the splitter powers on it literally splits the dome
+Kaladin Shash 01:05:09 Thank you.
+Dungeon Master 01:05:13 up to a certain height and then fans out into a triangle from the bottom so straight line up and then it expands as it like breaks the magical energy and it like flickers a little bit but it seems to hold and everybody's sort of clapping and the trumpets are going and you like there's some lady singing whatever the equivalent of the national anthem is um the soldiers leap and they step out
+Dungeon Master 01:05:39 And they make it. And as they're walking, everybody go ahead and give me one. We'll do a group perception check. And we'll do an average. That's a good average, guys. Yeah.
+Zariel Torgan 01:05:52 You guys thinking what I'm thinking? That's a good average. It's a 19.5 average, 19.75.
+Leopold Magnus 01:05:54 We're never going to see them again.
+Kaladin Shash 01:06:09 Woof.
+Dungeon Master 01:06:10 Nicely done. As they're stepping out, you see, like, they leave the area of the dome and, like, all of their gear picks up to one direction. It's so windy. And, like, it's not quite as clear out there as you think. Like, they step out and it's, like, dreary and dark outside. And, like, it's sort of raining and hailing and windy at the same time. It looks horrible. First time anybody is seeing the outside of the dome in who knows how long.
+Dungeon Master 01:06:41 And like they don't they're so focused on sort of bracing themselves against the storm. They don't see that there's like a very large hulking creature directly in front of them. And you see a flash of yellow eyes, even from this distance. You guys pick it up. That's how like monstrously huge this creature is. And I will say you had a successful enough group check that you can get one action.
+Dungeon Master 01:07:09 to act on what you see. It doesn't seem like anybody in this very instantaneous moment has caught what you guys have from this far out. And again, I want to remind you that you are all the way back here. To the dome itself, it is 280-ish feet. Yeah.
+Leopold Magnus 01:07:25 How many feet is that, sorry? 280 feet, and then the monster is beyond the dome.
+Kaladin Shash 01:07:29 Thank you.
+Zariel Torgan 01:07:36 Jesus. Hmm.
+Dungeon Master 01:07:39 Yeah and the dome is like you don't know how thick nobody's really seen it but it's been split up into this like makeshift tunnel and beyond that is like you guys just ruled very well so you from this far like with whatever you're using you can sort of flavor that as however you'd like have like that clear sight that they are walking into something.
+Kaladin Shash 01:08:12 I had to relaunch my browser. Was that not cool? I'm trying to see if I have a spell that's gotten even enough distance for that. Where are we on the map right now? I don't see any tokens. I just see like a village. Okay, we're on that rooftop. Is that what we're supposed to know? I see where you're pointing now. I see that.
+Leopold Magnus 01:08:22 Yeah, all mine are 60 feet. I see where you're pinging, but I don't see your tokens.
+Dungeon Master 01:08:36 Yeah, do you guys... Are you guys hidden? Is that why? Oh, they were hidden. That's why. There you are. Preacher is off of map at so far. Up there? That is the edge of the dome.
+Kaladin Shash 01:08:42 yeah maybe we're in okay right on and then the creature is to the north south east west sort of directionally at least which way right but east west like i mean you know i mean like it left right up down how up there okay edge of mouth okay you said it's like 200 and something feet
+Dungeon Master 01:09:09 Like 280. You guys do know that your armor comes standard.
+Kaladin Shash 01:09:12 Okay, I can't. I can't one. Yeah. Oh, that's right. That's right. We've got the walkie talkies.
+Zariel Torgan 01:09:20 Yeah, I don't think that we can do anything with an A action. Oh.
+Dungeon Master 01:09:35 You also have limited range to any other soldier as part of like the open comm system. So if you like try to identify a different group who's maybe much closer or something, I believe you've got like 100 feet or whatever I wrote that you can go speak with people. 200 feet. So you can. Yeah.
+Kaladin Shash 01:09:42 Yeah, I definitely would. Yeah. Who had the best role? Sorry, yeah, 24. Do you want to scream something on the comms so that can be relayed quickly?
+Zariel Torgan 01:09:55 Yeah, we should do that immediately. Yeah. Yeah. Let's see. Can I do two things or is it just like I can just do like say something?
+Leopold Magnus 01:09:58 200 feet of distance. You might be able to close a little distance too to get closer to him.
+Kaladin Shash 01:10:14 Bruce Kopp. Bruce Kopp. Mark B. Edinger.
+Dungeon Master 01:10:17 You have a chance. You have like remember that you have like a six second period. This is you guys have like a moment before. You can tell disasters went to unfold. What are you casting? But yeah, probably.
+Zariel Torgan 01:10:35 So I was thinking that maybe I could cast a spell and say something. Is that something I could do? So it takes one action. I was thinking I could do summon beast and that I could create some sort of flying beast up to 90 feet away and have it just make a lot of noise and fly towards the thing. But it probably would be better just to yell.
+Zariel Torgan 01:11:04 So I'll just yell. I'll just hit my comm as fast as I can. So it's a 90 foot range. And it's a beast. Yeah, and it's a bestial spirit. And...
+Dungeon Master 01:11:07 Well, what do you mean with the summon beast? Like, you're gonna summon as close as you can, right? And then, like, what's the range on it? Okay. You could summon it just under halfway. A little bit more. Yeah. Okay. And, like, will it use its movement to, like, instantaneously fly towards the stage? Was that the idea?
+Kaladin Shash 01:11:27 Thank you.
+Zariel Torgan 01:11:36 yeah that was yeah and it's just gonna like walk and and you know be a parrot and just say like all right
+Dungeon Master 01:11:48 Uh, yeah, you could do both of those at the same time. I don't see why not. He is out of com distance. He's like right in the up here near the top. He pulled anything out of you?
+Kaladin Shash 01:11:51 Can I communicate directly, am I close enough to communicate to Lord Marshal or would he be on the same open comms? Okay. Yeah, hopefully we can just, the group is in danger.
+Leopold Magnus 01:12:23 I, yeah, I mean, I'm just echoing their cries. I can't do anything specific, so I'll just kind of yell, watch out!
+Dungeon Master 01:12:35 Okay, you guys set off the alarm and you see with the message to Thor and the bird sort of just like manifested in midair, this magnificent iridescent pigeon summons in and starts squawking and hooting and cooing as it flies towards the stage. And you see everybody sort of drawn up to it and they follow it.
+Kaladin Shash 01:12:54 you.
+Dungeon Master 01:13:03 And in that moment, you see that Lord Marshall like reaches down towards his chest plate and activates his rune and he says something into it. And you've sort of set off this huge series of events. Everybody go ahead and enroll initiative.
+Zariel Torgan 01:13:22 Yeah, I was thinking that we should have also used our movement to run.
+Kaladin Shash 01:13:27 Closer.
+Leopold Magnus 01:13:30 Did we not? Okay, yeah. Oh, that was close. I was almost in that 20. So they're 240 feet away.
+Dungeon Master 01:13:47 OK. First up is Leopold. 280-ish, like 275? And how do you choose to? You are on the top of, we'll say,
+Leopold Magnus 01:14:00 280. Yeah, I mean, I think I'm just going to have to spend the next like four turns getting up there. So I have a movement of 30 feet. Right.
+Kaladin Shash 01:14:02 Way, way up.
+Dungeon Master 01:14:17 a 60-foot building, sort of looking down. You can like, building jump, you can get down into the crowd. Remember the streets are paths, so moving through the street effectively is difficult terrain.
+Leopold Magnus 01:14:31 Okay, yeah, 10 feet distance between this building we're on and this one over here. Jump distance is what, half your movement? Okay. Okay, yeah, after spotting this giant creature,
+Kaladin Shash 01:14:44 something that's great. Yeah.
+Dungeon Master 01:14:45 It'd be an athletic check is what I would do more so than jump distance.
+Leopold Magnus 01:14:55 I think Leopold has been emboldened to defend and help friends. So instead of turning away from a fight, I'm going to run towards it. And I'm going to try and clear the gap between the roof here and this roof. Oh. Yeah, they're both plus two.
+Zariel Torgan 01:15:06 Yeah.
+Dungeon Master 01:15:15 Yeah, give me acrobatics or athletics, whatever is higher for you. Cool. 11. Leopold, with an unexpectedly heavy foot as you go to launch yourself to the next building, your foot just about goes through the shingling. It like breaks down, but with the other foot, you push off just enough.
+Dungeon Master 01:15:38 that you catch your hands on, like, the rooftop of another building and you sort of crawl just over the top and mantle yourself into a standing position, and you can move the rest of your distance towards the building. Towards the center, however far you can get. I think if I did the mapping right, it tracks your distance accurately.
+Leopold Magnus 01:15:55 OK. Yeah, so from where I was at.
+Dungeon Master 01:16:08 Daryl, you're up. 60 feet.
+Zariel Torgan 01:16:11 All right, let's see. I think I'm going to, I think I want a wild shape. Let's see, how high up in the air are we?
+Zariel Torgan 01:16:41 60 feet. If we were to try to just run downstairs, how much movement would that take? Would it take action and dash?
+Dungeon Master 01:17:03 I mean, it is the same distance down movement-wise. I'll say it won't cost you extra. We'll just count the inside of the building as normal movement. Nice, and you're going into the street.
+Zariel Torgan 01:17:16 All right, well, then I'll wild shape into my dire wolf form. And I've got a 50 foot speed, so I should be able to get 100 feet. Yeah, I'm just going as direct a route as I can, just down and then out.
+Dungeon Master 01:17:34 Hell yeah. You're sprinting down the stairs. You hit one corner and you jump the railing. Turn over, hang, sort of back flip down. And by the time you hit the next set of stairs, you've sort of like exploded into this woven form, like expanded and turned into hairy and sort of like a metallic sheen on your first sort of glimmers. As you hit, your paws scrape and you start sprinting down the stairs.
+Zariel Torgan 01:17:58 Yeah, I'll just take the rest of my movement as far as I can go and then call it good.
+Dungeon Master 01:18:03 You break into the main street, sort of slide into some people, and then take off. And so you have 40 remaining feet, which is reduced to 20 by the group, the moving through people. Good. About there. Calvin, your turn.
+Kaladin Shash 01:18:35 Leopold, I am behind you, I'm coming. I'm gonna do the same, I'm gonna try to use my first 30 feet to sort of run and dash. It was acrobatics or what was it, athletics? Oh goodness.
+Dungeon Master 01:18:52 Acrobatics or athletics? 11. I mean, same exact deal, except you didn't notice that he had broken the shingling in the roof. So you just fully step through and have to really catch yourself and jump.
+Dungeon Master 01:19:13 fingertips hit the other rooftop and out and one of the slats sort of pulls off and falls down to this towards the street shattering, but you ultimately pull yourself up and you can move along the rooftop. Yeah. I mean, you can move your full movement. Yeah.
+Kaladin Shash 01:19:26 And then can I dash with my action? Yes, that was my 60 and then right there, so total 60. But yeah, that was my action, that's good, that's all I can do.
+Dungeon Master 01:19:44 Yeah. Cool. Next up, you see the Lord Marshal. It's his turn in initiative. Having being warned, he communicated something to somebody and he starts going to all the people and he goes, get back, clear out. And you see he booms his voice out and everybody sort of shovels back a bit. He turns towards the dome and he approaches it, but he's just sort of waits a moment.
+Dungeon Master 01:20:14 And he yells out to the group, and he goes, oh, he's up. It's after you. And then that's all he's going to do, waiting for something to happen. So he's holding his action. Some things happen after that that you guys can't see from where you are. And at the very end of initiative, you see the Omen Knights and whatever this creature is sort of
+Dungeon Master 01:20:38 go cinematically at the same time as what appears to be an enormous, truly gigantic, like dire wolf, werewolf type creature, snarling, pounces out of the darkness and starts clashing and fighting with these knights. But back at the top, it is Leopold's turn.
+Leopold Magnus 01:21:01 Yeah, so Leopold's feet are moving almost autonomously, and he's screaming, I don't know what I'm doing, but I'm going to help! Arms flailing. And I'm going to move another full movement with a dash. 60 feet.
+Dungeon Master 01:21:11 Nice. Go for it. Nice.
+Leopold Magnus 01:21:32 Right about there. That's my point.
+Dungeon Master 01:21:36 Cresting over that top of that roof, you see there are other soldiers running along the roofs over here and here, sort of all coming in and converging on the one spot that's like a vulnerability of the dome right now. They have made this opening here. So that's what you see by getting that far. The next step is Zario. You are in sort of the crowd of people in this large woven form.
+Zariel Torgan 01:22:05 All right, so again, I'm going to go Dad, and then I'm going to take my action for movement and my movement for movement, move another 100 feet.
+Kaladin Shash 01:22:05 Thank you.
+Dungeon Master 01:22:27 Picking the shortest path, you sort of cut in a little bit and you are cruising through the street. Kaladin, you are up. Love it, you see the same thing.
+Kaladin Shash 01:22:43 Then we'll go full movement 60 feet. We'll just be right there next to the pole again.
+Dungeon Master 01:22:57 You get all the way over there. You get this view on these other soldiers sort of moving in, but it's too far to get the main details. At the end, you see Lord Marshal Thor. I'm going to roll for it above table. This is luck check type face deal, so I'm just doing odds and evens. So evens would be good heads and then odds is bad tails.
+Kaladin Shash 01:23:26 Oh boy.
+Dungeon Master 01:23:26 16. You see, he takes a step back and he sort of calls into his chest piece. You don't hear it because you're so far away, but you see his like head go down as he speaks into it. And you see a bunch of the soldiers on this route jump down and dash through the barrier. You can't recognize anything special about them from here. They don't seem like elite, but anyway, but he sends in some help.
+Dungeon Master 01:23:55 And then he turns back to the people and he starts like wind gusting, like he's just sort of, it more manifests as he's like brushing up wind from the ground as he swings his arms back to forth. But everybody's sort of buffeted back as he's sort of crowd controlling out. But now the DC for these guys outside is going to be a little bit easier.
+Zariel Torgan 01:23:57 Thank you.
+Dungeon Master 01:24:19 You see, as they're fighting this large woven creature, one of the old men nights takes like a stumble on a tree root back and he hits the back of his ground in an instant. This wolf bears down on him and tears him into two pieces and throws one of them and it hits like the outside of the dome or like a little. But then back at the top, it is Leopold.
+Leopold Magnus 01:24:44 Oh, dear God. Oh, God, we have to help them. But I don't want to, but we have to. I'm going to try and keep my clip. Keep my pace. So is the dome open on the street level or on the roof level?
+Kaladin Shash 01:24:51 Bye.
+Dungeon Master 01:25:03 Going to try to what? Oh. It is on the, like, stage level in a very small portion at the very back. Like the tiniest.
+Leopold Magnus 01:25:22 Is it evident that the splitter is active? Is there a way that we could close the hole?
+Dungeon Master 01:25:32 Yeah, you know, knowing because you helped build it, how this functions, is that it was intended to be a contraption that could temporarily open the dome and allow access, but that could be turned off to prevent things from getting in that aren't supposed to. You specifically would know how to turn it off, like 100%, you helped build it.
+Kaladin Shash 01:25:41 Bye.
+Leopold Magnus 01:25:52 OK, so we would know how to use that device. Yep, about like that.
+Zariel Torgan 01:25:52 Thanks for being an apprentice.
+Dungeon Master 01:26:02 As you jump off the top of the roof to make it to that deck, go ahead and give me an acrobatics check. Oh no. You jump off the roof just a little too earnestly and take a hard fall where you don't necessarily injure yourself.
+Kaladin Shash 01:26:15 Oh, God, natural one.
+Dungeon Master 01:26:28 But, well, you do. You're gonna take two points of piercing damage as you fall through that sort of deck and, like, dent your armor and, like, really messes you up, but nothing serious happens. Just a little bit of damage, just a d4.
+Leopold Magnus 01:26:46 Oh, God, I don't think adventuring is for me. I'm just laying out a pile down at the bottom. I guess I'll have to get up. OK.
+Zariel Torgan 01:26:51 So I'm going to attempt to roar and make some noise. Maybe howl a little bit to get some people out of my way. And I'm going to...
+Dungeon Master 01:26:57 Yeah, it's not going to cost you. I'm not going to, I'm not going to McCann if they make you prone, but you fall down. Next up, Zario. Okay.
+Zariel Torgan 01:27:20 continue a dash and my movement. I don't know. I don't know if I can. I don't know if there's too much going on, but I'd like to be able to not, like, pummel so many children with my giant wolf form. What kind of check would you like?
+Dungeon Master 01:27:29 Are you implying you want to make some sort of check there? All right, give me a check.
+Zariel Torgan 01:27:51 Um, yeah, that's going to go really good. I feel like I should have a different intimidation stat for my wolf form since I'm a wolf. Yeah. Let's see. 12.
+Dungeon Master 01:28:00 You got a D4. I'll put that. Yeah. Nice. I'll say half of it is not difficult terrain. So you make it, instead of 50, you make it 75.
+Kaladin Shash 01:28:01 We'll hope.
+Zariel Torgan 01:28:28 Nice. I just give a really gnarly howl, but right at the end, my voice kind of cracks a little. So it works really well at first, and then not so much the second time.
+Dungeon Master 01:28:40 Neck and neck now. Next up, with you guys being in range now, the Lord Marshal looks to you and says, you three, here, shut down the dome. And he goes to start sprinting towards it. I don't have a token for him, so I'm just going to throw in a random one.
+Zariel Torgan 01:29:03 Damn.
+Dungeon Master 01:29:18 Revenge is. Commoner number one. So this will be an in place. Lord Marshall over here. He seems to be running towards the danger after him. Will do. How they're doing you see with the arrival of the new troops, they sort of like start stabbing to this creatures back. It doesn't seem.
+Dungeon Master 01:29:48 really all that impacted but it seems to like be distracted for a second and the remaining three omen nights roll to their feet and they get ready and they start attacking this creature and it howls and it growls and it jumps around they have a little bit more of an edge right now but then leopold at your turn what are you doing oh oh he's yeah your turn please
+Kaladin Shash 01:30:08 Can I go? Bottom of the round. Yeah, I'll move 30 feet, jump off the roof, hit the deck. 10.
+Zariel Torgan 01:30:14 Natural 20.
+Dungeon Master 01:30:22 Acrobatics check, please. 10. Nothing bad happens. It's just not very cool. You fall into some crates and roll off, and it looks fine.
+Kaladin Shash 01:30:41 I'll go another 30 feet. Are we close enough to hear any messages now between like the people fighting or just
+Dungeon Master 01:30:51 Nice. I need more communication and more dialogue. I need more messages in the comms. Is there anything you guys want to throw in? Where are you from, Lord Marshall?
+Kaladin Shash 01:31:11 About a hundred feet, about a hundred, about a hundred. Yeah.
+Dungeon Master 01:31:22 You are just close enough. Yeah. As you get into range and you have like open mic system on because you're trying to hear something, just briefly you hear somebody with a very calm voice just go, Thur, close the dome. That is an order. And then it cuts out and you hear the Lord Marshal on his open comm just goes,
+Dungeon Master 01:31:50 Fucking politicians at least and that's when on his turn. He looks at you guys And this is what he'll do instead of going directly for the dome he goes I'm going through I need you to close the dome behind me Who cares if it's wise And you can tell that's probably not a good decision it looks
+Kaladin Shash 01:32:07 Is this wise? It's huge. Yeah.
+Dungeon Master 01:32:19 I mean, he's a big dude, but this is truly an enormous monster. And then it is Leopold's turn.
+Leopold Magnus 01:32:30 Yeah, so again, moving as close as I can, I would like to cry out to Lord Thoreau and appeal to his intelligence and say that this creature is quite large.
+Leopold Magnus 01:32:59 I said, you're going further. You should definitely not go in there. And I will try and make a charisma check. Yeah, they're both plus twos. Hey, that's not too bad.
+Dungeon Master 01:33:10 Uh, yeah, give me persuasion if that's not as bad. 17. I think you guys established that that last time. I think. You got the best by far.
+Zariel Torgan 01:33:23 Plus two, you should be talking all the time.
+Kaladin Shash 01:33:26 No, I'm a zero, just a neutral.
+Leopold Magnus 01:33:29 Well, I thought, uh, I thought Calvin and I had the same. No. Oh, okay. Got it.
+Dungeon Master 01:33:37 um he steps in his steps the lord marshal goes yeah of course and he sort of steps back and you see he goes to turn off the arcane dome so he will instead head towards this and in the next round he'll shut the gate anything else leopold
+Leopold Magnus 01:34:01 That's it.
+Dungeon Master 01:34:07 OK, Rex, go ahead and roll me a D20 and add three to it. But then while he does that, Zaria, go ahead and take your turn. Mostly cosmetic, but if you want to use them, go for it.
+Zariel Torgan 01:34:16 I'd like to... I'd like to see, are these little bench things off to the side, are they part of the real map, or are they just kinda... Well, I was hoping I could do some sort of, like, Mulan rooftop running thing, but on top of these things try to get over people.
+Kaladin Shash 01:34:38 Yeah. That's great. I like that.
+Dungeon Master 01:34:43 Yeah, we'll say those are like actually like framed huts kind of deal like they're just in like tarp tents that are on pretty stable poles. And you give me a just a athletics or acrobatics. It might be the same dexterity or strength. Yeah, it's physical.
+Zariel Torgan 01:34:53 So that'd be my creature stats, because it's strength. I mean, because it's, yeah, okay. All right, so let's do that. That's gonna be a seven.
+Dungeon Master 01:35:15 Clumsily, just not quite as cool, you jump up and your legs go a little wide and unsteady for a second, but then you sort of gather back into your sprint and you can move normal movement for the remainder. Yeah.
+Zariel Torgan 01:35:29 All right, sweet, just take off. So is the Euclidean ruler correct? Cuz I could be moving my guy if that's the case. All right, so I'll just get up to right. I can get pretty far. I can get to right there. Right there.
+Zariel Torgan 01:35:56 I'll just run up. I don't think I can talk in this form. But I'll get there. Yeah, I can do doggy sign language. Say all along Johnson. Yeah.
+Dungeon Master 01:36:01 No. I think we talked about it last time. Just sort of like chirping and howling and a little panting and noise as you're trying to communicate. Just over and over again. Caledon, your turn.
+Kaladin Shash 01:36:01 How far is the beast from me right now?
+Dungeon Master 01:36:33 I'm you right now. Well, you are 100 feet from the start of the dome. You don't know how wide or thick the dome is like the actual energy field. Nobody's seen it that you know, like it's not nobody talks about like how thick it is. But it looks pretty far out there. You guys only saw it with a really good check.
+Kaladin Shash 01:36:35 Yeah. If I run 30 feet up,
+Kaladin Shash 01:37:05 Does that put me within range of attack? Yeah. Yes. Magic nine, not already, man. Magic missile thing. 120 is always.
+Dungeon Master 01:37:10 of like the creature. Do you have anything that has over 100 foot of range? What do you have? Yeah, go ahead and roll just like a magic missile.
+Zariel Torgan 01:37:19 Spell Sniper again, didn't he? Oh, okay. Nice. Could I... Oh, sorry, I just... I don't know if action economy-wise I would have been able to do it. Could I have taken a look as I got closer
+Kaladin Shash 01:37:33 Yeah, could you? I'm going to hit it with all four missiles. I'm going to do that level two.
+Zariel Torgan 01:37:43 and made some sort of check to see if I can recognize this creature or get more out of seeing it now that I'm so much closer. All right.
+Dungeon Master 01:37:52 Give me another perception check if that's what you're looking for. Would a perception have been better? Because it didn't say you could make a perception one.
+Kaladin Shash 01:38:05 Not bad. That is some mean rolls. A little spicy. Yeah, come on, man. Yeah, yeah.
+Zariel Torgan 01:38:14 That's only going to be a 13. Oh, why did I roll? Yeah, no, perception, that's terrible. Sorry. I'm trying to roll off my beast stats. Oh, it wouldn't be beast. It'd be my, because it's my mental stats. Okay. All right. Here we go. Perception. 17.
+Dungeon Master 01:38:26 You kind of smell it in the air too. This is like a werewolf. Like as definitively as you can say. Like this is
+Dungeon Master 01:38:51 a purged creature that is like taken on this woven form and it is not looking incredibly hurt at all. As these missiles sort of hit into its back you see the fur sort of gets like messed up on the areas that it hits it sticks up in like little tufts and as like the wolf moves around it sort of smooths out like leaving little just like like ashen spots where it like exploded at but the wolf doesn't seem incredibly bothered
+Dungeon Master 01:39:22 at the moment which is maybe a startling yeah just like hits it in the back it turns but like you're so far away versus there there's like soldiers right in front of it that it just turns and starts focusing on the creatures right there anything else out of kaladin
+Kaladin Shash 01:39:23 My with my master. With my massive 20 right there or 19. No, that was my does my action can't get closer.
+Kaladin Shash 01:39:54 I'll go, I'll talk into the comms. ... I'll go and take, take a second, get my reckon gun. What, what is this thing? My goodness!
+Dungeon Master 01:39:55 You see... You hear Thor respond sort of like through gritted teeth. He's a beast! And then he, on his turn, presses the lever on the arcane splitter and you see the dome.
+Dungeon Master 01:40:22 It closes and you hear a huge collision of energy as the dome sort of fills in. And important to remember, the dome is not see-through. It's like completely opaque and just like light blue. And any sort of like sun and skylight is like magically put at the top to make people, you know, not die of insanity.
+Kaladin Shash 01:40:34 Do we lose the comm?
+Dungeon Master 01:40:47 So like once it closes you lose complete visual on the wolf, the soldiers, and then the soldiers that went out to help. You hear them still talking, you hear fighting, swords clashing, like energy being released, the fight still seems like it's going strong.
+Dungeon Master 01:41:13 But then up at the top after some stuff happens, Leopold, it is your turn.
+Leopold Magnus 01:41:20 Yeah, I will arrive and kind of bend over huffing and exclaim, I've never quite run that fast. Oh, geez. Oh, dear. Lord Thoreau, it was quite wise of you to shut that gate. I imagine I imagine our friends on the other side are not going to fare so well. It looks quite sinister.
+Dungeon Master 01:41:52 And he goes, I would not have liked to leave my men behind, which is why. And you see he whistles like a like a rancher whistle, like through just his front teeth, but very loudly. Maple, give me a perception check. Or history check. Well, you rolled a 19 on the die, so what is your history modifier instead?
+Kaladin Shash 01:41:54 Thanks.
+Leopold Magnus 01:42:12 Well, perception is worse, but I'll take it if it's a 19. History is plus six. Yeah, certainly.
+Dungeon Master 01:42:25 Okay 25 do you want to go with that instead. As you moved up and you brought to this this figure silently drops from one of the rooftops and just lands onto the like platform the.
+Zariel Torgan 01:42:29 I like to live dangerously.
+Dungeon Master 01:42:44 Stage almost. And in that, I don't know, I don't have quick access to share the photo again, but that's that same sort of soldier that you saw that one time that was like sort of an outage you is having that woman doesn't look like that person in particular, but like the same insanely cool armor and a huge weapon on their back sort of drops down. But Leopold, as you make eye contact with this figure,
+Dungeon Master 01:43:14 Even though you can't see their face, because it's just a slate black mask, there's like something clicks. You look at them and you're like, wait. And then they turn to Lord Thor. And this is all happening very quickly. And he goes, I'm going to raise the barrier once more. Can I count on you? And you see the figure just nods. And then as they, because you rolled so good on what would have been the history,
+Kaladin Shash 01:43:22 Bye-bye.
+Dungeon Master 01:43:43 Give me, this will be another perception, but give me it with advantage.
+Leopold Magnus 01:43:47 Okay. 11.
+Dungeon Master 01:43:58 This will just have to be something that Leopold maybe thinks that he has to revisit when he's got more time. But the figure as I mean, I'm telling you, this all happens very quickly as Lord Marshall Fleur flips the lever again and the arcane splitter starts to open. This figure in full like sprinter pose takes off first in a full crouch and then like slowly standing into a full sprint. Dives at the last second to get under the splitter and then Lord Marshall closes it again.
+Dungeon Master 01:44:28 You think maybe you tagged something that you can think about later, but you're not entirely sure that you got everything out of that person. It's that feeling you're like, I missed something, but I don't know what it is. So note for later. But then you have your turn to do something.
+Leopold Magnus 01:44:47 Got it. Yeah, I think that the dome is closed. Thoreau is sent in his soldier.
+Dungeon Master 01:45:07 you
+Leopold Magnus 01:45:19 Uh. Yeah, I think that that's my that's my turn, really. I'm just going to kind of catch my breath standing here, kind of see some steam shooting out of my back panels. And kind of turn to Zario and go, what a chase that was, Zario. Or his wolf.
+Zariel Torgan 01:45:46 Yeah, I can't say anything. I'm going to keep running towards the thing. And I'm going to yowl and make noises as a wolf to indicate that I would like to also go out and fight.
+Dungeon Master 01:45:47 OK. Then Zario.
+Zariel Torgan 01:46:13 But I'm at the mercy of whether or not he wants to open it. So I'm just going to keep running, get as close as I can.
+Dungeon Master 01:46:23 Uh, you see the figure, um, where Marshall Tewer sees your figure, um, sprint up and he goes, no, I'm sorry. I cannot risk your life. The thing is evil. Scratching at the dome. Uh, you want to do anything with your action?
+Zariel Torgan 01:46:41 I'll just start scratching at the dome. I'm in my wolf form so I can't cast. No, I'll just ferociously start trying to claw through the dome.
+Dungeon Master 01:47:12 OK. Kaladin, then. What would you like to do? It's sort of a weird pause right now.
+Kaladin Shash 01:47:19 Yeah, I'm going to close the distance. And then just communicate. Just going to just communicate. Who was that one that you let out?
+Zariel Torgan 01:47:27 you
+Dungeon Master 01:47:45 Lord Marshall goes, glad you notice he's not just a normal Echolmite, that is one of my Blackguard. And you've never heard this term, but it seems important if he refers to it in such high esteem. Like he seems very proud. And he goes, I have faith that he might be able to alleviate that situation.
+Kaladin Shash 01:48:15 Okay. Right.
+Leopold Magnus 01:48:19 Now we can't see through the dome, right? Back up to the top then. Can I look at this dome splitter? Is there any way to modify it so that way it opens more or less just a little peephole rather than
+Dungeon Master 01:48:19 Anything else you'd like? No, it's completely just like looking at a neon blue wall. Yes, sir.
+Leopold Magnus 01:48:47 disrupting the whole dome. Maybe just take a look at the device. Would that be an Arcana check? OK. It could be better.
+Kaladin Shash 01:48:49 That's cool.
+Dungeon Master 01:48:52 Yeah, go for it. Give me like an Arcana check. 12, having had such a heavy hand in constructing it, you're pretty confident that you would know of a way to have done that and nothing comes to mind. So like, it's like, just like you're like, looking at you're like, ah,
+Dungeon Master 01:49:21 Was it really designed for that? Maybe can be modified if you had more time kind of deal. But then it is your turn if you'd like to do something. Because something is, I will say, if something is about to happen,
+Leopold Magnus 01:49:24 Got it.
+Kaladin Shash 01:49:25 One size.
+Dungeon Master 01:49:49 Um based off the initiative you guys had rolled Not knowing it You see go ahead
+Leopold Magnus 01:49:54 Okay, I'll go ahead and hold it in action. And I'll just hold FireFairy. Yeah, I'll go ahead and hold that. Yeah, I don't know. I'll do that.
+Dungeon Master 01:50:23 Okay, you're holding fairy fire, correct? Next. That's pretty cool. That's funny. You see like a cloud sort of form overhead. It gets really dark just right above your group. And you see flashing down a light
+Leopold Magnus 01:50:25 Mm-hmm. Oh, yeah, I guess I shouldn't even look yet. Cherry's fine.
+Zariel Torgan 01:50:28 Firefairy better. Yeah.
+Kaladin Shash 01:50:31 Thank you.
+Dungeon Master 01:50:53 crackling beam of radiant energy erupt from the sky. And I need Leopold and Kaladin. And then Jesse, you had said that you were closer, right? You were like at where the opening was. You're a little bit more this way. Then you would be a part of it too. All of you need to give me a dexterity saving throw.
+Zariel Torgan 01:51:13 Yeah, I'm like right on top of it. Okay.
+Dungeon Master 01:51:25 Leopold, I'll give you, I want to reward you for sort of planning and being aware. Give me with advantage, which is pretty good, though. 16, 17, 23, 12.
+Leopold Magnus 01:51:37 OK, see what happens. It's pretty much the same.
+Kaladin Shash 01:52:01 Roll save. Is this?
+Dungeon Master 01:52:02 What was that? It only has increased bonuses if the dire wolf is
+Zariel Torgan 01:52:05 So, I'm trying to use the stats for the wolf, but it only has two saving throw stats. It seems as if it's... What's the word I'm looking for? Proficiency bonus is two. So, I could just add two to that, because it doesn't give me all the saving throws.
+Dungeon Master 01:52:32 like, proficient in those saving throws. Otherwise, it's the equivalent of, like, whatever the check is, because then you're not adding the proficiency bonus to it. So it just might be, oddly enough, Dire Wolf is not proficient in deck saves. Okay. So 12, 23, 6, 17, we'll go with the higher one there.
+Zariel Torgan 01:52:44 Oh, well then, whatever I got. There's no difference between that and the saving throw then.
+Dungeon Master 01:52:59 uh this radiant bolt gets called out of the sky and you see it's like targeted for you three but as it's cast you hear somebody go fuck the government and you hear like like in the screaming of people sort of abandoning you think you see this person like these tattered robes reaching up into the sky and they've got like this radiant energy coming off their head as they cast it
+Dungeon Master 01:53:24 Zara, you failed. You'll take the full 14 points of damage. The other two of you will take 7. And Radiant. It looks like it's supposed to be electric with the way it strikes down, but you get hit with pure Radiant energy.
+Kaladin Shash 01:53:35 What type? Does it get electric or energy radiant?
+Zariel Torgan 01:53:49 Where's this dude at? Well, I heard him yell, right? Oh, OK.
+Dungeon Master 01:53:53 uh you were facing the dome when it happened so you're not entirely sure as it happens yeah like he yells as he casts the spell and so you turn but like again he is one in a group of like hundreds you don't see anything because you were facing away on your next turn you can look you'd like
+Kaladin Shash 01:54:15 Hmm.
+Dungeon Master 01:54:18 You see that the Lord Marshal gets hit hard with this though. It looks like he really wasn't expecting it. And he goes down to one, then he goes, oof. Nice. And he gets up, back up to his feet. I think we left off at that point. Leopold had just gone. If you wanted to do something with your turn now, because you were holding Faerie Fire, but you hadn't capped it.
+Leopold Magnus 01:54:42 Right, so I just I just know that the voice came from behind us, right? Like I hear it over my left shoulder over my right shoulder, etc. I'll do that.
+Kaladin Shash 01:54:45 Silence.
+Dungeon Master 01:54:49 Yes. And you, if you want to give me a perception check, because you weren't specifically doing something at the dome and you could have been like casting it towards the crowd in theory. So you can do it like a check to see if you notice this person raised their hand up.
+Leopold Magnus 01:55:12 13. Okay. So now this, this fairy fire, it would highlight everyone that is in the crowd, right? It doesn't isolate to who's attacking you.
+Dungeon Master 01:55:18 Yeah, you just don't see anything. Not in the chaos. Yeah. Yeah, not specifically. Area of effect.
+Kaladin Shash 01:55:37 Sure.
+Leopold Magnus 01:55:50 And I'm not seeing anyone in a window in any of the buildings, like on a quick glance. Okay, so all the people are here on this. They're all here on the street, right? This is a radiant bolt that just came down.
+Dungeon Master 01:55:54 No. Not with the 13. Yeah, there's a huge crowd that's obvious, but you don't catch anything with that check. Yeah.
+Zariel Torgan 01:56:00 Bye.
+Kaladin Shash 01:56:22 Thanks.
+Leopold Magnus 01:56:34 I will just, I guess was my action doing that perception check? Holding the fire fairy and that's the only other thing I can do. Okay. I see.
+Dungeon Master 01:56:44 No, I could just... The way holding your action works is you can use your reaction to do it, or if the thing you're waiting for doesn't come about, you can do something else. So you have the ability to be like, oh, fairy fire's not going to be helpful, let me do this instead.
+Kaladin Shash 01:57:05 All right.
+Leopold Magnus 01:57:07 um i will uh use my amplified voice coming from the suit of armor and i'll say everyone innocents get down now otherwise be eliminated by the legionnaires and try to do a performance
+Dungeon Master 01:57:31 Go ahead. Yeah, seven is doing it bad. You say that and some people just get down.
+Leopold Magnus 01:57:37 It's a 15. And then it rolled to a 7. So it didn't work very well.
+Zariel Torgan 01:57:37 The bad guy's gonna be like, oh, I guess I can't drop.
+Kaladin Shash 01:57:41 Bye.
+Dungeon Master 01:57:57 but like not enough get down that you can like, somebody stands out as being a lone figure. You have movement if you'd like, or you can stay there. Other, not benches, I said they were just like tarps and covered area. So they're like a full, at least one head height.
+Leopold Magnus 01:58:07 Yeah, do we determine these benches here? They're about half height. Would that be half cover if I was there? OK, maybe I'll just move to this crate here. And would that give me half cover?
+Dungeon Master 01:58:31 Sure, yeah. Yeah. Nice, nice, nice. So earlier, you're up. Go ahead and give me perception, I think is better for you.
+Leopold Magnus 01:58:36 Okay, yep, I'll take I'll take the and call that my turn.
+Zariel Torgan 01:58:45 I would like to attempt to turn and suss out the source of the yell and the sound of the spell and all that. It is. Oh, I didn't mean to click it. I get advantage if it's based in smell or sound. All right, let's try better than a 2. That is better than a 2.
+Dungeon Master 01:59:07 Give it advantage then. 22 pretty quickly you see standing like in the crowd. This figure not cowering away, standing there with his hand up. Making eye contact with you seeing him and then you see once he realized he's been made before he can get another cast off, he starts sprinting into the crowd.
+Dungeon Master 01:59:35 If you'd like to pursue, you can. It's still difficult. No, you guys were able to clear it. You can get to them.
+Zariel Torgan 01:59:39 Can you give me a dingle on the map, just roughly where he is? Could I get to him in this turn, or would it take movement and action to reach him? Could I get to him with 50 feet of movement, or... let me just...
+Dungeon Master 02:00:07 Yes, well he's 55 so 50 gets you there and then five feet of reach. Yes.
+Zariel Torgan 02:00:13 Okay, then I would like to get into his space. What's that, like right here-ish? All right, I would like to pounce on him and knock him down. So I have an ability where I can make an attack
+Dungeon Master 02:00:39 Give me a straight left check. Yeah, there's a dude that you didn't see him.
+Zariel Torgan 02:00:42 And let's see. Is there anybody around him that's part of the Legionnaires at all? OK. Huh. That's.
+Kaladin Shash 02:01:02 Lucky.
+Zariel Torgan 02:01:10 Then can I get pack tactics to hit him? All right, I'm going to roll to make an attack and Well, actually I'll ask you this. So I have the ability to possibly knock somebody prone if I attack would it be better if I
+Dungeon Master 02:01:14 Go for it.
+Zariel Torgan 02:01:32 knocked him down or as a wolf I'm not sure what kind of role I would make to try to just like hold on to somebody and stop their movement. Would it be an attack just to clamp and not do damage or would it be something else? What would you like me to do?
+Kaladin Shash 02:01:42 grapple.
+Dungeon Master 02:01:49 Are you asking either or? Right, sorry, just need clarification on it. Are you asking like,
+Zariel Torgan 02:01:53 I'm just asking what that would look like in this form because I know my attack is plus five with advantage and I could do some damage and I could knock him down possibly but what would you want for me to attempt to just like hold him? Would it be strength or would it be like an attack?
+Leopold Magnus 02:02:11 I don't know, that was strange.
+Dungeon Master 02:02:20 Are you asking, like, am I going to tell you whether or not you should make a grapple check or if you should use an attack roll?
+Kaladin Shash 02:02:21 It's almost like...
+Zariel Torgan 02:02:28 No, no, I just, I would make the decision, I just want to know what metric you're going to want to use. Like, if you say, well, you're going to need to make an opposed strength check, I've only got a plus three, and I don't have advantage. But if it's like, you know, well, you can make an attack, and it'll just be an attack to, like, grab this guy, but you won't do damage, then I'd be like, well, that's actually pretty good, because then I can fully reduce his movement. But I just want to know what it would be before I make the decision.
+Dungeon Master 02:02:55 Right. I mean, that's kind of just up to you, you know. The attack that has like the pounce or whatever that has like, they have to make a string check or be knocked prone is a built-in mechanic that like bases it on a roll. Or if you want to be like, I would like to run up to him and grapple him, it would be a roll to hit and then a post-athletics. So one is, I don't know what the pounce one gives him, but I don't know. It just depends on, depends on what kind of,
+Dungeon Master 02:03:24 check you want him to make. Nice. You absolutely hit.
+Zariel Torgan 02:03:29 Well, I think with the pounce, I can at least half his movement. Because I'll have to use half to stand up. So I'll do that. So I'll roll to hit. I'm going to bound over and then jump through the air and try to, oh my god. That's another 20. All right.
+Kaladin Shash 02:03:47 Beautiful.
+Zariel Torgan 02:03:55 Um, so that's gonna be 24 piercing damage as I just, like, bite into his, like, shoulder, clavicle, neck area, just chomp down on it. And then, uh, I'd like him to make, uh, Strength saving throw DC 13 or be knocked prone.
+Dungeon Master 02:04:18 Okay, he's got a plus zero to strength. At three, he is knocked prone. Varian, you do it. He is mechanically not restrained, but he is prone and under you, so getting up and moving would require
+Zariel Torgan 02:04:27 So yeah, I just like to be standing on him and just like shaking and biting on his shoulder. Yeah, that works for me.
+Dungeon Master 02:04:46 half movement and attack of opportunity. So he is down to some extent, yes. Kaladin, you're up.
+Kaladin Shash 02:04:55 Um, he, since he's prone, I think I'll, I'll close the distance here. And I think being really worked up, I'll just, I'll just take an attack and I'll, I'll take a two handed swipe with my spear. Nat 20.
+Zariel Torgan 02:05:20 Nice! Jesus! That's 40 points of damage.
+Leopold Magnus 02:05:22 Somebody's got to have them.
+Dungeon Master 02:05:23 Sorry. And that would be a plus 4. I do it. Everything is doubled, so it's 2D8 plus 4. Because that rolled your crit damage, right?
+Kaladin Shash 02:05:25 What's up Sweet Yeah, that will be correct, yeah Normally it's 1d 8 plus 2 so it's 2d 8 plus 4 18 is what you're saying
+Dungeon Master 02:05:56 Yeah, you get an extra two on there. Nice. You said, did you say something about being like pretty passionate and into it? Worked up. Do you intend to kill him or do you accidentally kill him? You walk up and you just like,
+Kaladin Shash 02:05:58 318, ooh, I'm hot right now. Yeah. Probably accidentally.
+Zariel Torgan 02:06:20 Eh.
+Kaladin Shash 02:06:24 No, I mean, yeah, extremist. Put him down. Put him down. He's done. Yeah, it's fine.
+Dungeon Master 02:06:27 Yeah, go ahead. You see, he's like pinned under this wolf and he's like, scowling back and then you run up and as you go to embed the spear into like just underneath his clavicle, just to put him out instantly, he goes to say something but before anything leaves his voice, just
+Dungeon Master 02:06:52 just gasp of air as you pierce it and nothing comes out and blood sort of pools in his mouth and rolls out the sides and he is dead. Anything else for your turn?
+Kaladin Shash 02:07:08 I think I'd be on the comms and tell Lord Marthal, Mage threat is down. That's it.
+Dungeon Master 02:07:33 Okay. Anything else, sir? Following up right behind you. The Lord Marshal responds. Good work. Suss out for any others. I doubt he was acting alone. And you see, he goes to move forward, and then on the open comm system, that same sort of calm voice goes, Thor, you're requested over here.
+Kaladin Shash 02:07:58 Bye.
+Dungeon Master 02:08:03 And he stops. Again, the same words. And you see, he goes, I'm sorry, I have to leave. And he jumps up full jump, like just into the air onto the roof, like a full 60 feet up. He just jumps, obviously, like some sort of spell arcane ability, some class feature of a very powerful fighter. And he starts running along the roof. Hurting somewhere.
+Dungeon Master 02:08:33 But he has given you the instruction to keep an eye out. Leopold, on the start of your turn, go ahead and give me another D20 roll. F20. Yeah, kind of nuts.
+Leopold Magnus 02:08:46 There it is. Jonathan just has a little box you can check as a DM, make all roles natural 20.
+Zariel Torgan 02:08:53 That's three in a row. Everybody for their turn has gotten a natural 20. That's actually four in a row.
+Kaladin Shash 02:08:56 Everybody's getting them. Everybody's getting them. That's fun.
+Dungeon Master 02:09:09 I don't, but this is great. You are looking out and you catch it before anybody else. Somebody around this corner peers right out the side and they point directly at Kaladin. And you see they sort of narrow their eyes and they go to cast something, but you have the jump on them.
+Leopold Magnus 02:09:34 So they're pointing at Kaladin. I am going to push my way in front of Kaladin, blocking the path to what would be casted at him, and cast Absorb Elements to absorb whatever is coming our way.
+Zariel Torgan 02:09:55 Nice. Nice.
+Dungeon Master 02:09:59 And that gives half damage, right?
+Leopold Magnus 02:10:02 Absorb elements, captures some of the incoming energy. You have resistance to the triggering damage type until the start of your next turn. Also, first time you hit with a melee attack on my next turn, the target takes extra 1d6 damage to the triggering type. Yeah, I thought maybe I absorbed it. So really, like, absorb it to redo it out. But no, it just makes me resistant.
+Kaladin Shash 02:10:24 It's. Or right here after half.
+Dungeon Master 02:10:30 Would you like to absorb it? Okay, I will just let it change the targets. Instead it rolls to hit you and not him. Dirty 20 to hit.
+Leopold Magnus 02:10:34 That's all right. I'll take the hit and protect my friends. Oh, that doesn't hit.
+Kaladin Shash 02:10:55 Woo.
+Dungeon Master 02:11:01 You see another sort of like jagged quickly spanning the face between like lightning bolt type radiant energy. Dream across the ground towards Kaladin and you jump in front and you deploy your shield at an angle and the bolt goes sailing above your heads and sort of deflects off the dome giving that sort of like energy colliding lightsaber sound which is like
+Dungeon Master 02:11:27 As it shatters all the way up, not breaking the dome shatters, but just sort of like disperses, resulting in a missed hit. And you see this person there. Again, I don't know, I could just use a commoner thing. All the way down here. Disappears around the corner, taking off.
+Dungeon Master 02:11:51 I will say you didn't burn any movement with the Nat 20, sort of gave you free range to jump in front. So now you have your turn to move after.
+Leopold Magnus 02:12:01 Yeah. Let's see, he's pretty tight around this corner, though. Right.
+Dungeon Master 02:12:16 You don't totally know. You saw him disappear around it, but you don't have sight lane on that. And I will say everything just generally where this mark is, that is sort of where the crowd picks up again. So you got pushed back to a certain point, which allowed you to get to the first guy really easily. Jumping into this crowd to chase after him is going to be difficult terrain unless you have a way to negate it somehow.
+Leopold Magnus 02:12:47 OK, so I'm going to describe him just to make sure that everyone is aware what he looked like since I jumped in front of Kaladin. And then can I do a for my action to another percent or my action was absorbed elements. So, yeah, I think that my action was absorbed elements and I just have a bonus action.
+Dungeon Master 02:13:03 Mm-hmm. Yeah.
+Leopold Magnus 02:13:19 I'll cast Magic Stone. I love my Magic Stones. And then that's my action, bonus action. And I will move 30 feet. Yeah. Oh, well, wasn't my action the Absorb Elements?
+Dungeon Master 02:13:37 to bonus action and movement. So you're breaking up a little bit for me on my connection.
+Leopold Magnus 02:13:50 Or does that not count since he didn't hit me? Uh, well, I guess, you know, when he went to attack Kaladin, I jumped in front and did absorb elements. So wouldn't that, wouldn't that be my action? Oh, uh, for magic stone for, for my bonus action. Yep. Yep. And then I'll, I'll move 30 feet closer.
+Dungeon Master 02:14:05 Right, but you said you did something else. I just couldn't pick it up. Gotcha, cool. Wasn't sure what it was. OK. OK, you're about to hit the difficult terrain, but you can use your full movement now after you is Zario. We'll say that one's 80 feet tall.
+Zariel Torgan 02:14:27 How tall is this building? Is it the same? 80 feet? All right. Well, before I just take off sprinting, can I make some sort of check to see if I hear any other casting or if I see any other...
+Dungeon Master 02:14:37 Bigger, yeah. Yeah, give me a perception with check with advantage.
+Kaladin Shash 02:14:42 you.
+Zariel Torgan 02:14:51 crazy people that kind of look like these two people. I mean, he described this person. Was there any similarities between the descriptions? Like a common sash? Okay. 21.
+Dungeon Master 02:15:17 Yeah, I mean, it's much easier to identify them now that you sort of know what to look for. But you see in the crowd of people, sort of just like right here, at sort of the edge of it, you see a woman in another just sort of very basic brown tattered robe that's tied in certain places with like hempen rope. Her hair is a tangled mess.
+Dungeon Master 02:15:47 She's got like black paint on her like the sides of her eyes and sort of this like almost looks tribal fashion ceremonial and she's muttering to herself and with your check you sort of see that she's about to do something.
+Zariel Torgan 02:16:05 I would like to bear down on her. I can't get all the way to her. When you measure distance, do you measure from the edge of the token? Oh. That doesn't work.
+Dungeon Master 02:16:20 Your token's dragging should be accurate. It's in your settings then. If you go to settings, there's a setting called measure while dragging token.
+Kaladin Shash 02:16:23 Yeah, you can kind of pull it forward just to see your general rain.
+Zariel Torgan 02:16:35 So, oh, I'm just using a ruler. Look at that. I like it, so let's do that. That's way easier than having to click over there every time. Yeah, she's super far. Okay, so I'll get 50 if I can.
+Leopold Magnus 02:16:48 Yeah, just enable that, that is really helpful.
+Dungeon Master 02:16:52 Nice.
+Zariel Torgan 02:17:06 Actually, if I don't choose to engage, can I just make my way just to get as close to her? Actually, I'll stand right in front of her. Just want to block her vision.
+Dungeon Master 02:17:22 Okay, as you get much closer, since you got all the way to her and you sacrificed your attack to do so, I'll give you this for free. She looks like she's casting a spell right now. And you're not, you're not a dumb guy, but as you get close, it like clicks very quickly. This is like the, the casting space of this spell is ranged self. She's doing something to herself.
+Dungeon Master 02:17:54 I'll say that is about the extent of what you can get as you just sprint up, but Kaladin is your turn. It's like a one foot cube in all directions. Pretty heavy, yeah.
+Kaladin Shash 02:18:00 Yeah, I'm going to use Firebolt. Just try to hit her from my current position. I'm trying not to get too far away from the splitter. How large is that device? Okay. And is it pretty heavy? Is it reasonable? Is it? Okay. Okay.
+Dungeon Master 02:18:24 Did a lot of arcane tech in it. 17 hits.
+Kaladin Shash 02:18:27 Yeah, I feel like that's a really important object to not allow an extremist group to get. So. Fireball. 17 to hit. Yeah. 3D damage.
+Zariel Torgan 02:18:37 Should open it. Hmm.
+Dungeon Master 02:18:53 She rolls an 11 on her constitution save to maintain concentration. Anything else, sir? You guys really love your half.
+Kaladin Shash 02:18:59 Is there an opportunity? I see some like crates under this area over here. Could I get like half cover if I move behind those?
+Dungeon Master 02:19:23 Um, yeah, you could Uh
+Leopold Magnus 02:19:25 That gives you a disadvantage when you try to attack, right? Oh, I see, okay. Yeah, I'm already hard to hit.
+Zariel Torgan 02:19:30 No, it gives you a plus two to AC.
+Kaladin Shash 02:19:30 No, it gives, makes us harder to hit.
+Dungeon Master 02:19:47 Okay, so you get half cover, get that bonus. You sort of lose most sight of what's going on in the scene. Nobody looks like they're coming up. But Zariel, as you're on this woman, it is her turn now. Lord Marshal Thur used his turn. He like sprinted off in a hurry. You don't know what that's about. Nothing happens on his turn this round, but coming up on this woman,
+Dungeon Master 02:20:16 She's muttering to herself and then she looks up to you and she goes, history will show that you were wrong. And she releases her spell. And for you, time almost seems to stop in this moment as you sort of were collecting information as this, as it was happening. So you have the most jump on it. She is like self-destructing right now and you have the opportunity to
+Kaladin Shash 02:20:32 All right.
+Dungeon Master 02:20:45 get a save on it try to to get out of the way um and have like an advantage on the save or you can tell this is going to take out a lot of people in this area and you can do the save with disadvantage but if you're successful you can like mitigate how many of the common people here are like blown up
+Zariel Torgan 02:21:11 Could I just choose to fail it to do more, absorb more damage? Yeah, I'll just jump on her and, you know, like, like when you pick up a really, you pick up a really heavy dog and their front arms just stick out straight. You know, just like they stick out real weird. I'm trying to, like, try to, like, hug her, hug her like that, just land on her.
+Dungeon Master 02:21:18 Yeah, you can't. Yeah. OK, you take 19 points of radiant damage.
+Kaladin Shash 02:21:24 On the grains.
+Zariel Torgan 02:21:47 Now.
+Dungeon Master 02:21:50 as you intentionally fail this save. And I will do these for the commoners. As commoners, they get no bonus to anything. Four of them are going to be affected. They'll take half damage on a success, full damage on a failure. First one's a fail. Second one also fails.
+Zariel Torgan 02:22:20 These guys could have used some luck. Jesus Christ. They're all just dying. Oh my God. Limbs flying off.
+Kaladin Shash 02:22:23 All right. Big ass explosion, man. I love how you jumped on the grenade, but nothing happened.
+Dungeon Master 02:22:25 Oh my god. Third one fails. Let's **** go. No **** way. You see, you guys.
+Leopold Magnus 02:22:33 Just wipe them all out. Jesus Christ.
+Dungeon Master 02:22:42 The good the way a good waste of that rolls- you see this woven form of. Zaria jumps on the body and you see this radiant blast is like truly muffled it explodes outward instead though when the closest four people get. Rowan against walls and you see one person's leg gets blown off- but like this would have been in the normal six like the ground blows up underneath your two is this wolf takes like the brunt of the damage-
+Dungeon Master 02:23:12 like bad losses but in the scheme of things you're like holy shit that could have been so bad and i believe uh that's gonna be all this guy uses his turn he keeps bolting now it's stapled start
+Leopold Magnus 02:23:44 So all these villagers just got decimated by like an atom bomb of radiant damage. Like bodies flying everywhere basically.
+Dungeon Master 02:23:52 Yeah. TNT vest equivalent. Now, I mean, like, not bodies. A few people had, like, were thrown against walls, either full dead or knocked unconscious. One person lost, like, a below-knee amputation kind of injury. Like, bad, but they're not all for sure dead.
+Leopold Magnus 02:24:16 Okay. And Zariel's looking pretty cooked. Okay. Right. So I'll run over and I'll go, oh my God, oh my God, Zariel, Zariel, are you, are you okay?
+Zariel Torgan 02:24:27 Yeah, he's looking pretty toasty. I mean, I'm still a wolf. I'm just gonna give it a little like...
+Dungeon Master 02:24:27 Is he?
+Leopold Magnus 02:24:46 and look down at him in his wolf form. Oh, dear. Oh, dear. This adventuring thing is definitely not for me. And I'll look around. Is there any villagers that I could stabilize or need stabilization? I cut out there.
+Dungeon Master 02:25:06 Yeah, you can use your. Sorry, to stabilize somebody is a DC 10 medicine check.
+Leopold Magnus 02:25:19 Sorry, what was the dice? No, they're not getting stabilized. I run over and I grab somebody's severed leg and I just try to reattach it by shoving it back up kind of where the leg should go.
+Zariel Torgan 02:25:34 Yeah.
+Dungeon Master 02:25:43 You don't add a fail to their saving throws. But yeah, you're holding pressure on the most injured guy, which is the guy that lost his leg. It's this very average-looking human male. And he's just like, oh my god, man, I lost my leg! And you're just holding pressure as it's bleeding. Really gory shit, this is not for you.
+Leopold Magnus 02:26:08 Well, I think you'll be quite all right. His leg is on backwards. That's good.
+Dungeon Master 02:26:11 And yeah, you're not you're not helping necessarily yet But after your turns are real
+Zariel Torgan 02:26:21 Yeah, I like that you go up and, you know, not getting a 10. Instead of stabilizing, you start giving him, like, an emergency tracheotomy or something. He's like, it's my leg! It's my leg! All right. So I'll just kind of stand and just, like, shake a little bit of the burnt fur off. I'd like to, again, take a look around and see if I can see or hear any other parts of the plat.
+Zariel Torgan 02:26:55 So let's see. That's an 18 to suss out any other extremists. That one guy still got away, though. But I'm going to forego him.
+Dungeon Master 02:27:05 Uh, you don't see any with an 18. Pretty sure. You're like, okay, that's the last of them. He is actively running, yes.
+Kaladin Shash 02:27:16 Bye.
+Zariel Torgan 02:27:20 I'm going to make a full attempt run back up to get by the wall up here. And I'm going to try to indicate to Kaladin, like I'm going to point my nose at the thing and point my nose at the barrier. He's not going to let me out. But it's like, you know your dog wants to go outside? I really want to go outside.
+Dungeon Master 02:27:44 Back at the barrier. Kaladin, your turn.
+Zariel Torgan 02:27:48 My turn. Go lay down. And that's all I got.
+Kaladin Shash 02:27:48 No. No. Yeah, I think. Staying close to the.
+Kaladin Shash 02:28:17 The splitter and just making sure there's no more. Extremists in the area could do it like a perception check, or it sounds like it was already. There's already good. It's clear he communicated that we're just kind of holding actions.
+Dungeon Master 02:28:40 Yeah, you just sort of hold your ground. And like after a beat, you're waiting. You're sort of sussing out. No danger continues to go after your turn ends. This other guy goes again and he disappears into the crowd and he's no longer visible. And combat.
+Dungeon Master 02:29:05 sort of tentatively comes to a close as you're sort of waiting you see other guards come out of alleyways and sprint in and everybody sort of meets in formation. You see like other omen knights drop in from wherever the fuck they just jumped from and they sort of all make like a secure border around the splitter as like they were all directed to get here and everything sort of just comes to a standstill where everybody sort of just runs away
+Kaladin Shash 02:29:08 Okay.
+Dungeon Master 02:29:33 the plaza empties and it's just sort of everybody looking around waiting for something.
+Zariel Torgan 02:29:47 While we're waiting can I go over to the bodies of the extremists and just kind of poke around and try to see if I see anything any sort of like secret plans or notes or you know valuable precious items.
+Dungeon Master 02:30:09 Yeah, go ahead and give me an investigation check on the only guy that's left, because one person got away, the chick's fully disintegrated, so it's the dude who got stabbed before he could say something. If I'm like a gold piece,
+Kaladin Shash 02:30:24 That's a body.
+Zariel Torgan 02:30:25 That is a natural one. I start eating him. All right. I'm going to go over when I'm done and just start trying to poke at the little box with my nose, my wolf nose, paw at it, trying to see if I can get it to open.
+Dungeon Master 02:30:49 At this point, you can't, you don't even have access to the splitter. It's like behind much with much stronger soldiers than you. And at this point, you don't even know if it's still there. You can't, you don't have eyes on it. It's just a bunch of people standing guard as like superiors come to handle this situation.
+Kaladin Shash 02:31:06 While we've been close enough to the barrier wall, what would we have heard as far as over the comms, the continued battle outside? They had a couple of rounds, so would we hear anything or would we find out what this Blackguard knight just like fucking took care of shit in three rounds? He's like, hey, let me in, tap, tap, tap.
+Zariel Torgan 02:31:09 What's in the box? All right. Is this?
+Dungeon Master 02:31:21 Yeah, I forgot about them. Yeah. Yeah, I had them down as having two failures and one success, and they're sort of back to back.
+Dungeon Master 02:31:48 But with a natural one on my physical dice, you hear like the screaming is like intense and the fighting just sort of, it gets quieter and quieter until you hear one guy just like sprinting out of breath, just like breathing to himself before he's like, and he sort of goes silent. You don't hear anything out of the other soldier because you've never heard them talk.
+Kaladin Shash 02:31:53 you.
+Dungeon Master 02:32:15 So you don't know how that is going, and there's no open mic on it, but as far as you can tell, whatever this thing was, it sort of cleaned up out there. Hence reinforcing that it is very dangerous wasteland out there.
+Kaladin Shash 02:32:26 OK.
+Leopold Magnus 02:32:32 Yeah, so sorry, are you still kind of poking around the box, scratching to get out? Oh yeah, so I'll kind of lean down and go, what is it, boy? Do you need to go outside? And kind of start playing around with this splitter. Oh, they took it away.
+Zariel Torgan 02:32:38 Well, I couldn't get access to it, but I did walk back over there. I'll just kind of... I think they took the splitter. Yeah.
+Dungeon Master 02:32:58 Yeah, you there you have zero access to it. Now it is being guarded. Would anybody else like to search the body or you're just going to go with the net one?
+Leopold Magnus 02:33:05 Well, that's a good idea, because I was going to let you out.
+Zariel Torgan 02:33:07 Mm-mm-mm.
+Kaladin Shash 02:33:12 I mean the other guys totally in the crowd. We don't see anything else. Rooftop really high up. It's not really just to get back up there. I'll do an investigation check on the body. And I find.
+Dungeon Master 02:33:43 At first you make the same mistakes that Zariel had made. You're like searching the pockets and like in the pouches to see if you can find anything. And it's not till like you're doing a thorough search and you like open up the top of his robe that you see etched in his skin. It says the hand of God is here.
+Zariel Torgan 02:33:43 Jesus.
+Dungeon Master 02:34:12 crudely carved, and that's it. That's what it says.
+Kaladin Shash 02:34:19 The hand of God is here.
+Leopold Magnus 02:34:22 Now, Jonathan, would I make any connection to this and the cave? Because I think I distinctly remember discovering some interesting motifs that were drawn on the cave walls.
+Dungeon Master 02:34:41 In the cave walls, you guys had seen like a painting sort of like quickly drawn, sketched on the wall of like a crow or some bird like that. Or you had decided that you didn't see that and you saw something like an albatross or something crazy like that. But it said, one for sorrow.
+Kaladin Shash 02:34:55 Carved in their skin. Who?
+Leopold Magnus 02:35:00 Ah, that's right, right. One for Sarah, okay. So there's nothing else on this person, it's just that message. Got it. 17.
+Dungeon Master 02:35:11 That's it. And go ahead and give me just an intelligence check. Trying to give you guys a chance for good rolls here. 17. You don't know that this is like particularly your specialty, but you're looking at this and it seems like that's the point. Like this guy,
+Dungeon Master 02:35:38 like they were messages, less than like an actual organized attack. What is the plan, fellas?
+Leopold Magnus 02:35:48 I'll pass that kind of impression to the group.
+Zariel Torgan 02:36:09 How long do we wait before anything happens? Is it just a while of us waiting?
+Dungeon Master 02:36:18 Yeah, I mean, like you see things are moving eventually, like they move the arcane splitter goes into like a box and then like an armed caravan takes it back to the core. Nobody's in the plaza anymore, but eventually they like break down the barriers. And this is like over the span of hours. And you guys are helping out and sort of taking notes and taking eyewitness reports, things like that, doing what you can.
+Kaladin Shash 02:36:30 When would our shift be over?
+Dungeon Master 02:36:46 But eventually, yeah, the whole thing fizzles out and you guys are just left there. One of the few remaining soldiers of like, what the fuck just happened? At this point, you guys are just there because you haven't left yet. You are, you know, the day is coming.
+Zariel Torgan 02:36:58 Oh, OK.
+Kaladin Shash 02:36:59 Are we, are we just kind of there because we want to be there, or are we done with the assignment? Yes, perhaps we should go talk to Ratchet, maybe he has more information about what occurred. No.
+Leopold Magnus 02:37:18 Yes, we should inform him. Lord Thoreau hasn't returned yet, has he? Oh, he hopped up on the roof and took off. Yeah, that's right. Right.
+Zariel Torgan 02:37:28 He didn't go outside, did he? He just ran off. Well, so at this point, then my wolf form would have dropped. So I'll just say, well, I imagine we should
+Dungeon Master 02:37:28 No, he is not.
+Kaladin Shash 02:37:30 No, he yeah, he didn't go outside. Remember he got called back to the female voice just said get over here. That was it. We don't know if there's another emergency or there's just like a. He's getting berated or. Yeah.
+Zariel Torgan 02:37:58 get back to home base and see what the plan is now. If they put us on this mission because they thought they were worried about an attack, well, I reckon that we'll be moving forward with more of the same considering we did have an attack.
+Kaladin Shash 02:38:30 Yeah, going. Yeah.
+Zariel Torgan 02:38:34 Hit on back. All right, cool.
+Leopold Magnus 02:38:37 Yes, indeed, I think we shall, Dr. Ratched.
+Dungeon Master 02:38:37 Yeah. Yeah, you guys make your way back to the core. No problem there.
+Dungeon Master 02:38:54 Um, you find ratchet and you see it's sort of chaos. Everybody's running around trying to figure out what happened, what they miss, what details could they put in. But in between a ratchet catches the attention of you guys as you sort of run up and he goes bloody hell, you fucking made it back. Um, first and foremost, where's the Lord? Uh, where's the Lord Marshall?
+Leopold Magnus 02:39:20 Well, he took off in quite the huff. I'm not quite sure.
+Kaladin Shash 02:39:27 right over the inter we got called away over the intercoms we could hear we could hear a female voice and also the extremists we helped destroy them but no
+Dungeon Master 02:39:28 You see Ratchie goes. And then Ratchie goes, that's that's sort of a problem as far as we can tell. Nobody called him off. You sure you didn't notice anything else?
+Zariel Torgan 02:39:44 Bye.
+Dungeon Master 02:39:56 Yeah, and he goes also, right to that point, Zario, well done with that explosion. We were able to save a couple of the townsfolk with that, but that was good thinking.
+Zariel Torgan 02:40:13 Well, I do what I can. I'm not the smartest and I'm not the best talker, but I can jump on people.
+Dungeon Master 02:40:25 That's enough for sure. Well, fucking shit. Let's get right to it then. Your next job is to find these cultists and I've been instructed to tell you that you have to bring whoever their leader is in alive. I wish I had more to tell you.
+Kaladin Shash 02:40:26 Great.
+Leopold Magnus 02:40:51 Well, Ratchet, I do have one question. Do you know if the gentleman that lost his leg pulled through? Oh, thank goodness. Yes, yes, I did what I could, but I'm afraid that these, and I just look at my hands, an automatic fist just gets formed.
+Dungeon Master 02:41:03 Yes. Give me an insight check.
+Zariel Torgan 02:41:11 That dude definitely died.
+Leopold Magnus 02:41:21 Instruments are quite crude.
+Kaladin Shash 02:41:32 Yeah, you don't
+Dungeon Master 02:41:34 Oh my God, I thought he was gonna lose with a seven. He made it. That guy's dead. That guy died.
+Leopold Magnus 02:41:43 Thank God, I might still continue adventuring. I was quite horrified, some PTSD, but now. Oh, I turned over to Zaria and I'll be like, woof. Maybe I do have a career in medicine after all.
+Zariel Torgan 02:41:45 Yeah. So my passive insight is 15, so obviously, like, that guy didn't make it. I watched Leopold shove his femur in the side of his thigh. Like...
+Kaladin Shash 02:42:03 Thank you.
+Zariel Torgan 02:42:15 Well, I think any time you're an automaton, you got to have funny lines. I'll just tap him on the shoulder and say, maybe one day. Maybe one day.
+Dungeon Master 02:42:15 What is with Leo's witty one-liners?
+Leopold Magnus 02:42:28 Yeah. My hands just like spinning 360 degrees, kind of like mechanically actuating.
+Kaladin Shash 02:42:35 All right.
+Zariel Torgan 02:42:47 Well, you're already an apprentice to the greatest artisan in town. I don't know if you also want to be an apprentice to the medical people. I mean, you don't want to spread yourself too thin there. Well, it is good to learn.
+Leopold Magnus 02:43:01 Why, that's true, but I do enjoy many pursuits. Learning is a passion of mine.
+Zariel Torgan 02:43:13 Well, do you guys want to start looking for these extremists now, or do you want to get some rest or a ratchet? Did you, uh, has everybody been apprised of the information we found on the extremists, the note written in skin and all that?
+Dungeon Master 02:43:22 Yeah, it sort of just matches a little bit more what we knew. We're definitely classifying them as a colt now, but their robes,
+Dungeon Master 02:43:52 were faintly reminiscent of the Dawn District, some of the poorer districts just like that. So if you were to direct your investigation anywhere, I'd probably start in the district there. No, I wish, sorry, I wish I did. Those poor people maybe could have been saved, but this is brand new.
+Leopold Magnus 02:44:07 But why, yes, do you happen to know anything else about these dire cultists?
+Zariel Torgan 02:44:24 All right, well, I guess we'll start looking. Kaladin, just off the top of your head, what's a good group name? Just like real fast, you know, no wrong answers.
+Kaladin Shash 02:44:33 Mm-hmm. Oh, man. I would be okay with the mech squad.
+Zariel Torgan 02:44:53 It doesn't have to be good. I mean, you heard mine and Leo's. Yeah, well, I do like that because I do like to highlight Leo and his abilities, but it does sort of give the impression that we're all mech.
+Kaladin Shash 02:45:03 Our friend is pretty unique. We will go farther.
+Zariel Torgan 02:45:20 you know, which could be misleading, you know, like, Hey, let's hire the mech squad. And then you and I show up with a mechanic go man. And they're like, Whoa, we, we could have just hired the mech guy and his friends. We wanted a squad and it's like a whole thing, but I don't know. I mean, I don't want to be critical because I love that you're, you're given ideas, but you know,
+Kaladin Shash 02:45:35 Right, right. Very well.
+Leopold Magnus 02:45:48 I'm jotting in my notebook and kind of holding my pen over it, seeing if I should cross it out, and as he starts talking, I just slowly cross it out. Yes, while I've been workshopping this one, Zariel, it's called the Munchkin Marauders. What do you think about that one? Why, yes.
+Dungeon Master 02:45:55 Thank you.
+Zariel Torgan 02:46:11 Is that munchkin like tiny? But we're all normal size and you're huge.
+Kaladin Shash 02:46:11 one.
+Leopold Magnus 02:46:24 Oh, oh, yes, I suppose. Hmm. Nothing, nothing springs to mind, I was working on that one, and I also have the. The fumbling fighters working on some alliterative things, you know.
+Zariel Torgan 02:46:44 I do love your use of literary devices. Maybe one that paints us in a more positive light? Like Magnum Marauders? But we don't have to nail it down now, you know. It'll come up organically. But just gotta keep testing the waters. You guys wanna head to the Dawn District, or...
+Leopold Magnus 02:46:55 Oh, very interesting.
+Zariel Torgan 02:47:14 What do you think?
+Kaladin Shash 02:47:18 Um. What time of day is it right now? It's pretty late, right? Yeah, maybe. Maybe we could still take a rest and then begin. Begin that search. Or or minimum short rest, just regain my hit points. We can go. I've only extended one softlock above table.
+Dungeon Master 02:47:23 It's getting to be pretty late. Definitely evening.
+Leopold Magnus 02:47:38 I'm just yeah, I would say ready. Yeah, I've only I've only expended one as well. Although. People are very tense to sleep, but canonically.
+Kaladin Shash 02:47:58 Maybe, maybe. Right, canonically, but maybe it would be good to. You know if people are out in the. The ends of the bars talking, maybe we could catch some. I'm sort of talking, talking about the events that happened today. Yeah, I just need. I just need a short rest. Can we say that that occurred at some point?
+Leopold Magnus 02:48:12 That's a good point. Heck, no. Yeah. I don't even really need a short rest, to be honest. I'm pretty full up.
+Zariel Torgan 02:48:19 Yeah. Well, I'm good if you guys want to just head right down to the bar.
+Kaladin Shash 02:48:27 Jonathan so so I can roll some hit die. Head right. Let's go to the dawn district and we can try to just sort of suss out. Where might be a spot that? Cultists or shadier groups might discuss things. I guess is what we're trying to do.
+Dungeon Master 02:48:30 Yeah, 100%.
+Zariel Torgan 02:48:59 Yeah, would any of us be? Mm hmm.
+Dungeon Master 02:48:59 Yeah, I used to have just a generic bar map, but I don't have one right now, so I'm looking for that. But yeah, go ahead and just give me, while you're sort of waiting and trying to figure it out, just give me a history check to see if you know the best place to go.
+Kaladin Shash 02:49:09 And then I'll do my arcane recovery. Okay. 18.
+Dungeon Master 02:49:34 18. Yeah. Uh, you know that, um, it's not in the Don district, but, uh, in the market district, there's a pretty seedy bar, uh, called spit and swallow. Uh, and you've like heard of things from there where like organized fights happen and underground stuff sort of,
+Zariel Torgan 02:49:53 Hmm.
+Dungeon Master 02:50:03 passes through there, you think that'd be like a pretty good starting point. Cool. So we'll end, and I'll make note of it.
+Kaladin Shash 02:50:14 I think I have a place that we can go. Perhaps we can listen to some individuals. That's good, yeah.
+Zariel Torgan 02:50:23 Yeah, let's do it.
+Dungeon Master 02:50:32 We're going to stop there because that's a good sort of ending spot. But we're ending it with, you guys have just long, just short rested, and you're heading to this bar that you know downtown to sort of gather some information on what the hand of God is. You're going to the market district.
+Kaladin Shash 02:50:49 What area were we actually going to? Market, market district is what I thought.
+Dungeon Master 02:50:55 But you're sort of, yeah, you're just looking for information about anything about this new group or the Don district or something else along those lines. That is what Ratchet told you that, like, that's what their attire suggested, that like the way they dressed was like, that's sort of like
+Leopold Magnus 02:51:04 So Jonathan, the cultists seem to come out of the Don district, right? Okay.
+Dungeon Master 02:51:26 the lowest social class in the Don district generally has those kind of robes like every region has its kind of flavor on outfits and that would come from there. I would say it's like
+Leopold Magnus 02:51:36 I see. Okay. And so, I know that we have been told that travel is kind of restricted, but are there some, or would we know of some back ways that people might come and go.
+Dungeon Master 02:51:55 common knowledge that there are secret tunnel ways that like there's like a criminal underground in the city that does exist and they get around somehow but like you don't specifically know of it because you're not like as part of that that group well within theory you could find one
+Leopold Magnus 02:52:13 Right, OK, good to know.
+Dungeon Master 02:52:24 Anything else before we sort of wrap it up for the night? Yeah, the O'Dears, the Wranglers, was it the Critical Misses, Critical Failures?
+Zariel Torgan 02:52:28 I think we're good. I think we got some really good ideas for group names. I feel really good about it.
+Kaladin Shash 02:52:39 Pretty cool.
+Leopold Magnus 02:52:49 All the ones that I've been riddling off were just kind of like into the ether. Yeah, I mean, I think it's funny. Just roll up the, oh dears are here.
+Dungeon Master 02:52:53 Mech Squad, Munchkin Marauders.
+Zariel Torgan 02:52:59 I actually have a soft spot for the O'Dears, because it just sounds so fun and goofy, but we keep working. It's like, oh shit, it's the O'Dears.
+Kaladin Shash 02:53:21 There. Where is it?
+Leopold Magnus 02:53:25 Yeah, Leopold will workshop and just randomly riddle him off.
+Dungeon Master 02:53:35 You don't have to decide right away. I just wanted to put it in your head. You guys hadn't died yet, so it's likely that you'd be together for a bit. Field team 6.5.
+Zariel Torgan 02:53:43 Yeah, we could be like the Fab Four. That'd confuse people. They'd be like, where's the fourth? And we'd be like, that's why it's funny. That's why it's interesting. Yeah, you assume there's six, but then there could be more. Maybe we're a SEAL Team 69.
+Leopold Magnus 02:53:51 Yeah, it's like seal team six where they always have like, you know, that you don't know how many there are. Yeah, 6.5, right? There could be another half of a team out there. Could be, could be.
+Kaladin Shash 02:53:51 Silence. Silence.
+Zariel Torgan 02:54:18 You gotta find a way to up our character's charisma anyway, so. Yeah. No, it's been working.
+Dungeon Master 02:54:22 Yeah, you guys don't have a face, really. It's funny because he's designed to be such an oblivious character, but he has the highest chance of being successful in any conversation. So he's like, his character design is opposite of what you need him for.
+Kaladin Shash 02:54:25 It's a little challenging. I kind of like the idea of the Automatron always running out in front and sort of engaging before it's good. Not picking up social cues, just being like, whoa.
+Leopold Magnus 02:54:51 I'm just endearing, that's all. One lovable robot.
+Zariel Torgan 02:54:52 Yeah, it's pretty great. He doesn't know what he's doing, but it's just so effective. I just picture you as like... Oh, we don't know that. I could have taken that werewolf.
+Dungeon Master 02:54:59 Yeah. Jesse if you had. If you had gone out of that dome, you would have died. I can tell you for reasons you don't understand that werewolf was.
+Kaladin Shash 02:55:00 100% you would have died dude. There's no question we are Monstrosity werewolf
+Zariel Torgan 02:55:22 You know, when I'm a... Oh, that's what they all say. We'll see.
+Dungeon Master 02:55:28 fully like immune to damage. But I bet you could take it. Yeah it was from what you saw though like from like
+Leopold Magnus 02:55:38 I guess we didn't really get a good look at it up close, did we? The closest we got was like maybe 100 feet away before they closed the dome down. Hmm.
+Kaladin Shash 02:55:47 Right.
+Dungeon Master 02:55:53 tip of the claw to the base of its shoulder was like the full height of a man it seemed like like it is it was huge normal body long arms still equally scary i think
+Zariel Torgan 02:56:02 Just had some long arms, that's all. Just normal wolf with long arms. Yeah. Yeah, actually, that's worse. That's way worse.
+Leopold Magnus 02:56:14 As Jonathan, was there anything else we would have spotted besides the creature out of the dome, you know, like any other?
+Dungeon Master 02:56:23 No, you had a great check. So that was always going to sort of sneak up on them. But you guys gave it the best chance and seeded some future plot points that you didn't realize, set some cool things in motion. Overall, it played out in your favor, except for the lack of information you got from the three people.
+Kaladin Shash 02:56:26 I like that.
+Leopold Magnus 02:56:45 Cool. Merp this guy.
+Dungeon Master 02:56:51 because of the first death and then the other getting away. You just absolutely skewered somebody. No, it was for that,
+Kaladin Shash 02:56:57 I really like that the first time I used the spear it was critical and for pretty beefy hit. That's good.
+Zariel Torgan 02:57:03 That's pretty sweet.
+Leopold Magnus 02:57:09 Okay, so can you remind me, there was a check that I didn't quite get and might want to take a look at later. Was that for the cultist? Oh, right, yeah.
+Dungeon Master 02:57:21 what you learned are called the black guard. Um, like, uh, Lord Marshall, it's the Lord Marshall's, um, like his personal task force normally act as like his unseen body guard kind of deal, but he's just dispatches them to do various things, very important things. Um, you missed something about that one that had dropped down in front of you.
+Leopold Magnus 02:57:49 OK, I'll try to remember to ask about that if we can cross it again. And something clicked, but it wasn't sure what it was. Got it. Yeah, awesome.
+Dungeon Master 02:57:51 But you, yeah, but you don't know what, you just like, you don't know what it was, but I didn't want to punish you for like just not getting it kind of deal. So you know that you were missing something. Yeah. That sense of familiarity, but you don't know why.
+Leopold Magnus 02:58:21 Thanks for the fun games, guys.
+Dungeon Master 02:58:21 Nice guys. Again. Oh true. If we have to skip that fine, I can give you. It gives me more time to plan,
+Zariel Torgan 02:58:23 Yeah, yeah, sweet. All right, I don't know if I'm going to be around next week because I'm going to be camping. But I'll have to look at my schedule and see if we could do like a weekend or, I mean, if we have to skip, that's, I mean, I can do that too. So whatever works, works.
+Dungeon Master 02:58:51 That weekend I'm going to be at the coast, so I wouldn't be able to do like right afterwards. Was going to break you. Still listening.
+Zariel Torgan 02:58:56 Oh, OK. All right. Well, then, unless something changes, I won't be around. And either you guys can play, or we can just play it on the next Wednesday. OK. Yeah, that'd be cool.
+Kaladin Shash 02:59:06 No, probably just have a little skip. No, no big deal. Wait. Yeah. Craig. Craig is signing off.
+Leopold Magnus 02:59:09 Yep. Give me some time to catch up on the summaries. We'll try to dump that, yeah. Yeah, let me dismiss Craig. He can go back to pulling down ladies. Yeah.
+Zariel Torgan 02:59:30 That's good. So he doesn't hear about my murders. Greg out. Oh, man.
+Dungeon Master 02:59:42 A lot of that.

@@ -1,0 +1,34 @@
+Immerse yourself in the lore of Avarias contained in the <avarias_backgorund> and <campaing_overview> tags. This information serves as canonical knowledge of the overarching D&D campaign. Once you’ve studied this background, take your time to understand the complexity of the story and commit it to memory. Use this lore to bolster your understanding of the world, but do not directly quote it unless necessary for comprehension within the current summarization task.
+
+<avarias_background>
+{avarias_bg}
+</avarias_background>
+
+<campaign_overview>
+{campaign_ovw}
+</campaign_overview>
+
+Now that you've taken in the rich background of this D&D game carefully examine the <session_transcript> of the most recent game session. It will serve as the conical information which you will leverage for an upcoming summarization task.
+
+<session_transcript>
+{session_trans}
+</session_transcript>
+
+Now evaluate the facts contained in the <session_analysis> tags. This detailed analysis of the current D&D session transcript outlines key events, character actions, NPC interactions, and significant moments. Use this information as a foundation for your summary to ensure it remains factual, follows a chronological order, and does not omit details.
+
+<session_analysis>
+{session_analysis}
+</session_analysis>
+
+
+Finally follow the provided instructions below for your ultimate task at hand:
+
+<summary_instructions>
+{summary_inst}
+</summary_instructions>
+
+Once you are ready to begin the task provide your summary in the summary tags:
+
+<Summary>
+[Your Summary Here]
+</Summary>

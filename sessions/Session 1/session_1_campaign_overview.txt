@@ -1,0 +1,134 @@
+# Campaign Overview: Previously in Avarias
+
+Below is an overview of the events, characters, locations, and ongoing mysteries from our campaign in Avarias. This document will be updated after each session based on the session analysis.
+
+---
+
+## Player Characters known as the O’dears
+
+*   **Kaladen Shash** *Race/Class:* High Elf Wizard
+    *   Current Level: 2
+    *   Key Items:
+        *   Starting equipment
+        *   Spear (used in tryouts)
+    *   Notable Traits & Events:
+        *   Motivated by recent dreams to seek change/experience.
+        *   Attended Stonewall Legionnaire tryouts in New New Arbor.
+        *   Passed initial tests; revealed potent spellcasting (Shocking Grasp, Thunder Wave) during combat trial, defeating a posh nobleman opponent.
+        *   Revealed to possess the 'Isoptic Curse'.
+        *   Attracted the attention of Captain Levi and Lord Marshall Thurr.
+        *   Accepted offer to join the Legionnaires.
+        *   Landed the killing blow on a Cursed Fire Elemental using Chromatic Orb, boosted by a Stress Point.
+        *   Briefly glimpsed a figure watching him in an alley before the tryouts.
+
+*   **Leopold Magnus** *Race/Class:* Warforged Artificer
+    *   Current Level: 2
+    *   Key Items:
+        *   Starting equipment
+        *   Shield (given during tryouts)
+        *   Self-repairing armor plating (innate)
+    *   Notable Traits & Events:
+        *   Introduced slumped in the underpassage tunnels, memories unclear, body unfamiliar (~1 year since reactivation).
+        *   Found and repaired/befriended by Zariel prior to Session 1.
+        *   Possesses botanical knowledge (identified Zariel's orchid).
+        *   Persuaded by Zariel to attend Legionnaire tryouts.
+        *   Impressed onlookers with physical feats (jumps, endurance) and self-repair during initial tests.
+        *   Fought defensively against 'Titan' in combat trial, revealing innate magic (Grease, Absorb Elements - gained 1st Artificer level), resilience, and propulsion jets.
+        *   Revealed to possess the 'Isoptic Curse'.
+        *   Attracted the attention of Captain Levi and Lord Marshall Thurr (noted for using magic over brawn).
+        *   Bonded with Kaladin and Zariel; accepted Legionnaire offer contingent on the others joining.
+        *   Used Faerie Fire and Magic Stone against the Cursed Fire Elemental.
+        *   Expressed interest in finding a library.
+
+*   **Zariel Torgan** *Race/Class:* Wood Elf Druid
+    *   Current Level: 2
+    *   Key Items:
+        *   Starting equipment
+        *   Red-Tipped Orchid (found in tunnels near Emerald Grove section, kept safe)
+        *   Whip (used in tryouts)
+    *   Notable Traits & Events:
+        *   Works as a maintenance worker in the underpassage tunnels; suffers from memory loss (told he had an accident).
+        *   Found and befriended Leopold prior to Session 1.
+        *   Motivated by coworker Billy and intuition to try out for Legionnaires, persuading Leopold to join.
+        *   Possesses a strong connection to nature.
+        *   Excelled in intelligence test using innate magic (Faerie Fire - non-visual focus aid).
+        *   Struggled initially with a whip in combat trial before instinctively using Thorn Whip (Nat 20) to defeat opponent (scrawny spellcaster).
+        *   Revealed to possess the 'Isoptic Curse'.
+        *   Gained crucial insight (Nat 20) into the Legionnaires' motives: seeking cursed individuals as potential 'super soldiers'.
+        *   Enthusiastically accepted offer to join the Legionnaires.
+        *   Fought the Cursed Fire Elemental using Wild Shape (Dire Wolf), dealing significant damage but dropping form due to fire damage.
+
+*   **Cletus Cobbington** *Race/Class:* [Race/Class TBD - Update after Session 1]
+    *   Current Level: 1
+    *   Key Items:
+        *   Starting equipment
+    *   Notable Traits & Events:
+        *   Not present in Session 1.
+
+*   **Cyrus Schwert** *Race/Class:* [Race/Class TBD - Update after Session 1]
+    *   Current Level: 1
+    *   Key Items:
+        *   Starting equipment
+    *   Notable Traits & Events:
+        *   Not present in Session 1.
+
+---
+
+## Key NPCs
+
+*   **Captain Levi:** Stonewall Legionnaire officer. Wears distinctive 'bucket' hat and vest, wields advanced hand crossbows. Oversees Legionnaire tryouts. Identified the PCs' 'Isoptic Curse' potential, recruited them, revealing he and other powerful soldiers are also cursed. Directed the party to Hamhock the smithy. Casual but authoritative demeanor.
+*   **Lord Marshall Thurr:** High-ranking Stonewall Legionnaire leader. Described as a 'bear of a man' with a full beard, scar over one eye, and cob pipe. Observed the tryouts from a balcony. Confirmed the Legionnaires were screening for individuals with the Isoptic Curse. Endorsed Levi's offer to the PCs. Jumped into the fight against the Cursed Fire Elemental, demonstrating combat prowess and command presence.
+*   **Unnamed Posh Nobleman:** Arrogant, well-dressed participant in the Legionnaire tryouts; Kaladin's opponent. Wielded a rapier. Objected vehemently after being defeated, revealed he was also cursed, lost control, and transformed into a large Fire Elemental. Defeated by the party and Thurr. *(Status: Deceased/Destroyed as Fire Elemental)*
+
+---
+
+## Minor NPCs
+
+*   **Billy:** Zariel's coworker in the underpassage tunnels. Stout man, decent worker. Encouraged Zariel to try out for the Legionnaires.
+*   **Titan:** Large, muscular Stonewall Legionnaire soldier (wore Legionnaire gear). Wielded spiked brass knuckles. Handpicked by Levi to fight Leopold in the combat trial to test his potential. Aggressive fighter with high mobility. Defeated/pushed back by Leopold's absorbed energy punch.
+*   **Unnamed Scrawny Spellcaster:** Zariel's opponent in the combat trial. Wore spectacles, used a tome. Panicked and largely ineffective with Firebolts, complained about facing a 'cursed fucker'. Defeated non-lethally by Zariel.
+
+---
+
+## Important Events So Far
+
+*   **Induction into the Stonewall Legionnaires:** Kaladin, Leopold, and Zariel individually attended Legionnaire tryouts in New New Arbor. During the trials, they unexpectedly revealed potent, innate magical abilities tied to the 'Isoptic Curse', attracting the specific interest of Captain Levi and Lord Marshall Thurr. After surviving their individual trials and collectively defeating a cursed nobleman who transformed into a violent Fire Elemental, the trio accepted formal offers to join the Stonewall Legionnaires, embarking on a new, uncertain path.
+
+---
+
+## Locations of Interest
+
+*   **Avarias:** The campaign world/region.
+*   **New New Arbor:** A large, technologically advanced city contained within a dome. Light filters through the dome's opaque ceiling. Divided into distinct districts with varying functions and social strata; travel between districts requires permission or Legionnaire status.
+    *   **Market District:** Practical, dense, possibly lower socioeconomic status ("slums" mentioned).
+    *   **Dawn District:** Affluent, sleek architecture.
+    *   **Sweets District:** Moderate housing, features lawns.
+    *   **Amberfields:** Sprawling farmland within the dome.
+    *   **Emerald Grove:** Forested district, home to nature magic users, less dense.
+    *   **Storm District:** Rainy, business-focused, contains armories. Location of Hamhock's smithy.
+    *   **The Core:** Central hub district. Contains Legionnaire HQ/Training Grounds. Where resources are distributed.
+*   **Underpassage Tunnel System (Beneath Core District):** Dark maintenance tunnels carrying arcane energy via glowing/thrumming pipes. Prone to steam bursts creating haze. Zariel's workplace and Leopold's initial location after reactivation.
+*   **Stonewall Legionnaire Training Grounds / Combat Arena (Core District):** Large, warehouse-like building with vaulted ceilings. Site of the Legionnaire tryouts. Features registration areas, testing stations, a central sand-filled combat pit, and raised viewing balconies for officials.
+
+---
+
+## Ongoing Mysteries & Goals
+
+*   What is the full nature, origin, and range of effects of the Isoptic Curse?
+*   What are the details surrounding Zariel's memory loss and the 'accident' he was told about?
+*   What happened during Leopold's past that led to his deactivation and memory issues?
+*   What were the specific dreams Kaladin experienced that motivated him to seek change?
+*   What are the potential consequences or drawbacks of using Stress Points?
+*   Who was the figure Kaladin briefly saw watching him in an alley before the tryouts?
+*   What is the significance of the red-tipped orchid Zariel found growing in the underpassage tunnels near the Emerald Grove section?
+*   How common is the Isoptic Curse within New New Arbor and the Legionnaires? How is it perceived?
+*   What is the full power structure of the Stonewall Legionnaires and New New Arbor?
+*   **Goal:** Report to Hamhock the smithy in the Storm District for gear, as instructed by Captain Levi.
+*   **Goal:** Begin service and fulfill duties as new Stonewall Legionnaires.
+
+---
+
+## Resolved Mysteries, Quests & Goals
+*   *(None resolved yet)*
+
+---

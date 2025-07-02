@@ -1,0 +1,314 @@
+# Campaign Overview: Previously in Avarias
+
+Below is an overview of the events, characters, locations, and ongoing mysteries from our campaign in Avarias. This document will be updated after each session based on the session analysis.
+
+---
+
+## Player Characters known as the O’dears
+
+*   **Kaladen Shash** *Race/Class:* High Elf Wizard
+    *   Current Level: 10
+    *   Key Items:
+        *   Starting equipment
+        *   Legionnaire Gear: Upgraded Medium Armor (darker blue/brown leather with brushed nickel half-plate, split robe bottom, a aining Legionnaire blue accents; chest plate and shoulder bracer upgraded with dragon scales by Hamhawk - *completed Session 17*), Quarterstaff (versatile, focus, modified - see below), Minor Heal (2/fight), Comms (quiet/loud toggle - *non-functional in northern wilderness*). Access rune for Legionnaire medical facility (on armor). Armor Upgrade Voucher (Omen Knight rank).
+        *   Ring of the Grammarian: Legendary magic ring (attuned). Allows altering one letter in a spell's name 1/day for a new effect (DM discretion).
+        *   Spellbook (Contains *Comprehend Languages*, *Alter Self* (learned Session 15), *Find Familiar* (learned Session 17), *Bless*, *Identify*, *Detect Magic*, *Entangle*, *Shatter*, *Control Water*)
+        *   Corvus (Raven Familiar, summoned Session 26).
+        *   Scroll of Fireball (Obtained from Philindra)
+        *   Scroll of Shield (Obtained from Philindra)
+        *   Scroll of Teleport (Recovered from Moonhaven Core Tower, Session 33)
+        *   Letter of Introduction from Father Kallor
+        *   Arcane Stun Grenades (Legionnaire Issue)
+        *   Enchanted Cuffs (Legionnaire Issue)
+        *   Light Splitter: Longsword (transformed from The Reverend's greatsword, attuned). Has charges for Arcing Slash (30ft ranged radiant attack, used Session 13, 15, 22, 24, 26 & 34) and Void Slash. Used for self-amputation in Session 16.
+        *   Potion of Soulwood Prosthesis (Lottery Reward - Identified Session 11, Consumed Session 16 - *Soulwood left arm fully formed Session 17*).
+        *   Fey Woman's Mask (now named "Breath of the Feywild" by Kaladin): Recovered from Cedric in Session 11. Plant-filled, emits floral scent. Donning it in Session 12 caused a profound vision of Faye Lara, a persistent physical fey transformation for Kaladin, and became attuned to him (no slot required). Worn in Session 13, used Interwoven Roots ability. Used for telepathic communication in Session 14, 15, 19, 20, 22, 33 & 34. Used to sense a fey trail in Session 28. Used to navigate Moonhaven in Session 29.
+        *   Small Dragon Backbone (Harvested from Young Red Dragon, Session 13 - used for armor upgrade by Hamhawk, completed Session 17)
+        *   Anti-gravity Sphere (Lottery Reward - Session 14): Fist-sized glass ball with swirling silvery smoke. One-time use, throwable, casts Levitate (DC 15) in a 15ft radius for 1 min (no concentration).
+        *   Silver Dust (approx. 10 applications remaining from necklaces, plus shared party supply from coins).
+        *   The Heavy Bean (Lottery Reward - Session 17): Tiny navy blue bean, weighs 1lb. Reaction to put in mouth; while in mouth, weight increases x10, granting advantage on checks/saves to resist being moved. Usable for 1 min/dawn. No attunement.
+        *   4 Regular Healing Potions, 1 Greater Healing Potion, 1 Water Breathing Syringe (One used Session 29). (Mission Supplies - Session 17).
+        *   Ring of Protection: (+1 AC, +1 Saves). (Enchanting started Session 17, suffered multiple setbacks, successfully completed Session 27).
+        *   Numbered Orbs (#1, #2, #7, #3, #10): Stone keys collected from the Vault of the Wildfolk (Sessions 20-21).
+        *   The Embered Mane: (Legendary Relic, Attuned) A metallic, egg-shaped relic of etched gold, radiating Evocation and Abjuration magic. Found in the ashes of the Fire Spirit. (Obtained and Identified Session 24). Hatched into a magical cloak in Session 25, given to Zariel, who later gifted it to Cletus in Session 32.
+        *   Blessing of the Gemstone Drakes: Magical boon gained from freeing an amethyst dragon statue. Once per day, as a reaction, can cast the *Shield* spell. (Obtained Session 27).
+        *   Bottle of Wellspring Essence: A small bottle of faintly glowing blue magical liquid taken from the reawakened Moonhaven Wellspring. (Obtained Session 32).
+        *   Vial of Wellspring Water (Obtained from the Baba Yaga, Session 35).
+        *   Boots of Elvenkind (Enchanting in progress as of Session 35).
+    *   Notable Traits & Events:
+        *   Motivated by recent vivid dreams of the Feywild and a past life/another person to seek change/experience. Now has undergone a persistent physical fey transformation (more elven appearance, longer ears, green hints in hair, taller, lithe) after wearing the Fey Woman's Mask. Left arm now a fully formed, prehensile Soulwood prosthesis (grown Session 17). Right hand is missing its pinky finger (sacrificed to the Baba Yaga for knowledge in Session 35). Discovered he and Cyrus both grew up in the Sweets District of New New Arbor.
+        *   (Previous history summarized)...
+        *   Vanquishing the Mutated Council (Session 34): After failing to make telepathic contact with the missing Leopold and Zariel, initiated a surprise attack on the monstrous False Hydra with a `Fireball`. Used his Light Splitter's Arcing Lash and an Action Surge to sever one of the creature's heads. Was stunned by the creature's psychic scream and later temporarily forgot its existence due to its mind-altering song. After the battle, his unique fey connection drew him to the true portal—a gnarled tree—allowing the party to finally leave Moonhaven.
+        *   Bargaining with the Baba Yaga (Session 35): During a tense negotiation with the mythical hag, he asked a crucial question about the purpose of a new Fae King, learning that the Feywild is dying and the prophecy is its only hope for restoration. He willingly sacrificed his right pinky finger for detailed knowledge about the "Twilight Weave," the power that binds the Feywild. Learned that the Cursed King Tentherian is his ancient relative ("uncle") and that he is the last of a royal bloodline, making him the true heir to the Fae throne. Later saved Leopold from a fatal fall with a clutch *Lightning Lure*.
+
+*   **Leopold Magnus** *Race/Class:* Warforged Artificer (Battle Smith 9 / Wizard 1)
+    *   Current Level: 10
+    *   Key Items:
+        *   Starting equipment
+        *   Self-repairing armor plating (innate)
+        *   "Bone Crusher" Emblem (Iron gauntlet crushing skull with the words "Bone Crusher" above, on back plate)
+        *   Legionnaire Gear: Deployable Shield (magnet), Deployable Hand Crossbow (magnet), Schematics from Hamhawk, Minor Heal (2/fight), Comms (quiet/loud toggle - *non-functional in northern wilderness*). Access rune for Legionnaire medical facility (on armor). Armor Upgrade Voucher (Omen Knight rank).
+        *   Steel Defender "Bone Crusher" (Destroyed and rebuilt multiple times. *Armor upgraded with dragon hide, granting increased AC and poison resistance in Session 35.* Destroyed in Session 31).
+        *   Plasma Sword (Searing Saber): Energy scimitar (red-to-purple gradient) powered by hip-mounted "KW" Blackguard Knight power core. Finesse, uses INT, deals 1d8+INT mod damage + 1d4 fire. (Constructed Session 15).
+        *   Non-magical Top Hat (Acquired from Pat's Haberdashery, Session 34).
+        *   Potion of Animal Friendship (Rhino Powder)
+        *   Small film reel with an animal image (from Dwarven Woman).
+        *   All or Nothing Coin: Rare magic coin. Allows replacing one d20 roll/day with a coin flip (Heads=20, Tails=1). Stored in helmet. (Used successfully on a death save, Session 24).
+        *   Project Splitter Blueprint: Schematic from Hamhawk detailing materials for a dome-opening device (now "Arcane Splitter"). *Knowledge from these blueprints was used to disable the Moonhaven Wellspring trap in Session 32.*
+        *   Scroll of Magic Missile (Obtained from Philindra)
+        *   Waterlogged Magic Scroll (Unidentified, recovered from Moonhaven Session 29).
+        *   Teleportation Alteration Parchment: A partially burned scroll containing the incomplete runic sequence needed to alter a druidic plant-travel spell, specifically redirecting it towards the "Tree of Death." (Discovered in Moonhaven Core Tower, Session 33; *used to activate the portal in Session 34*).
+        *   Map of Moonhaven: A magical scroll in a golden case that displays a color-coded map of Moonhaven's districts. (Found in spider webs, Session 30).
+        *   Sample of spider web (from Moonhaven hive, Session 30).
+        *   Sample of condensed moist spider silk (from Moonhaven service tunnel, Session 32).
+        *   Vial of Wellspring Water (Obtained from the Baba Yaga, Session 35).
+        *   Spellbook (Contains *Charm Person*, *Burning Hands*, *Bonfire*, *Firebolt*, *Magic Stone*, *Witch Bolt*, *Shield*, *Snare*, *Hideous Laughter*, *Heroism*, *Ice Knife*, *Expeditious Retreat*, *Alarm*, *Rope Trick*, *Faerie Fire*, *Warding Wind*)
+        *   Three Modified Viteo Talismans (curled fingers)
+        *   Tan Robe (disguise)
+        *   Arcane Stun Grenades (Legionnaire Issue)
+        *   Enchanted Cuffs (Legionnaire Issue)
+        *   Sample of The Reverend's Gold Metallic Dust/Blood (Collected from remains)
+        *   Porcelain Doll (Lottery Reward, identified Session 11 - prevents one death. *Consumed Session 24, triggering a vision of the Baba Yaga.*)
+        *   Toad Spit (Sample, collected from Giant Frog-like creature in Session 12)
+        *   Deactivated Blackguard Knight's Greatsword (Stored in Zariel's Pocket Workshop, Session 12)
+        *   Deactivated Blackguard Knight (Warforged Body, Stored in Zariel's Pocket Workshop, Session 12; one power core extracted Session 13, bearing "KW" initials; *body confirmed advanced version of Leopold's design, Session 17*)
+        *   One Functional Dragon Claw, One Broken Dragon Claw (Harvested from Young Red Dragon, Session 13)
+        *   Harvested Dragon Hide (large swatch, from Adult Black Dragon, Session 26).
+        *   Harvested Dragon Fangs (3, from Adult Black Dragon, Session 26).
+        *   Recharged Blackguard Knight Power Core ("KW" initials, *also inscribed with "Victor" in tinkering runes, realized Session 17*): Extracted from salvaged Knight, recharged at Mana Wellspring Session 13. Used to power Plasma Sword (Session 15).
+        *   Stones of Sparse Speech (Lottery Reward - Session 14): Two flat, rounded skipping stones with arcane runes. Attuning allows casting Sending (no word limit) targeting bearers of other stones.
+        *   Rotisserie Chicken (Purchased Session 15, comically dropped during teleportation; used to befriend werewolf pups Session 17; part used as *Catapult* projectile Session 18; comically spilled from chest cavity Session 30).
+        *   The Glutton's Fork (Lottery Reward - Session 17): Golden eating utensil. 3 charges/day. Action to transform non-magical object (<=1lb) into food; bonus action to eat food and regain 1d6 HP. (Used to turn rock into rotisserie chicken and heal 1 HP, Session 18; Ingeniously rigged into a timed automatic feeder for werewolf pups, Session 28).
+        *   Scrap Metal (Obtained from Hamhawk, Session 17).
+        *   3 Regular Healing Potions, 0 Greater Healing Potions (one mission supply GHP used on Wesley Session 19), 2 Water Breathing Syringes (Mission Supplies - Session 17).
+        *   Two Pry Bars (created with Magical Tinkering from scrap metal, Session 18).
+        *   Useless Remorhaz Eye Goop (Harvested Session 18).
+        *   Elder Brain Parts (Harvested from defeated Elder Brain, Session 22).
+        *   Numbered Orbs (#5, #6, #8, #9, #4): Stone keys collected from the Vault of the Wildfolk (Session 20).
+        *   Numerous Lore Scrolls (Obtained from Cornelius, Session 23).
+        *   Two Phoenix Feathers (Magical enchanting components, looted from Fire Spirit, Session 24; one used to upgrade Steel Defender in Session 26).
+        *   Custom wooden mug for Chip the squirrel (Crafted Session 27).
+        *   Blessing of the Gemstone Drakes: Magical boon gained from freeing an amethyst dragon statue. Once per day, as a reaction, can cast the *Shield* spell. (Obtained Session 27).
+        *   Cloak of Elvenkind (Infused during long rest, Session 32).
+    *   Notable Traits & Events:
+        *   His origin and past were revealed by the Baba Yaga in Session 35: He was once a full-blooded elf with fiery red hair. He and his violent, physically powerful older brother, Victor Bonecrusher, were adopted by Calmera Windrider, who subjected them to harsh, abusive training for a mysterious "goal." Leopold was killed during this training. In a necromantic ritual, Calmera accidentally placed Leopold's soul into the "Bone Crusher" Warforged body that was intended for Victor. He is a stolen soul in the wrong body, and Calmera Windrider is his personal arch-nemesis. This resolves his amnesia. Zariel's dream in Session 26 confirmed their shared mentor was a powerful, orange-haired elf from the city of Isoptera. Session 32: While tinkering through the night, witnessed a ghostly, ethereal apparition of his Steel Defender, Bone Crusher, which seemed connected to him and obeyed his commands, suggesting a new supernatural element to his curse/power.
+        *   (Previous history summarized)...
+        *   Dominated and Devoured in Moonhaven (Session 34): Accompanied Zariel on a quest for a hat, acquiring a non-magical top hat. Was magically dominated by the False Hydra and led into its lair. In the ensuing battle, he was grappled, engulfed, and vomited up by the creature. He was also affected by its mind-wiping song, but managed to cast a powerful `Heroism` on his allies before landing a critical hit that severed one of the Hydra's heads. He was ultimately knocked unconscious by the monster's final psychic scream.
+        *   Confronting the Truth (Session 35): Upgraded his Steel Defender, Bone Crusher, with dragon hide, increasing its AC and granting it poison resistance. Directly asked the Baba Yaga to reveal his true identity. Was confronted with the full, traumatic story of his past life as an elf, his death, and his accidental placement into the Warforged body intended for his brother Victor, solidifying Calmera Windrider as his arch-nemesis. During a perilous crossing of a root bridge, he twice failed to keep his footing and was saved from a fatal fall by Kaladen and Cyrus.
+
+*   **Zariel Torgan** *Race/Class:* Half-Orc Druid (Circle of the Moon) 10
+    *   Current Level: 10
+    *   Key Items:
+        *   Starting equipment
+        *   Red-Tipped Orchid (found in tunnels near Emerald Grove section, kept safe)
+        *   Legionnaire Gear: Upgraded Medium Armor (studded leather intricately woven with living thorns, flowing into a flowery vine/petal design, maintaining Druid-friendly nature and red flower emblem), Wooden Scimitar, Wooden Staff (arcane runes), Minor Heal (2/fight), Comms (quiet/loud toggle - *non-functional in northern wilderness*). Access rune for Legionnaire medical facility (on armor). Armor Upgrade Voucher (Omen Knight rank).
+        *   Guardian Death Cap Spear: A powerful magical staff with a black, mycelium-like appearance. Transforms between staff and spear length. Contains charges (e.g., Sleep, Interwoven Roots). (Gifted by Cornelius in Session 24).
+        *   Counter's Charm: A magical tricorn hat with a purplish feather and gems. Grants +2 to Charisma-based checks, but also imposes disadvantage on those same checks. (Acquired from Pat's Haberdashery, Session 34).
+        *   Cloak of Displacement: A powerful magical cloak that causes attacks to have disadvantage until the wearer is hit. It is a horrid-looking patchwork of five stitched-together halfling skins. (Obtained from the Baba Yaga, Session 35).
+        *   Myconid Sovereign Head (Specimen)
+        *   Ring of the Giant Slayer: Uncommon magic ring. Grants +1 AC/Attack vs Large+, +2 vs Giants.
+        *   Ring of Protection +1 (Purchased from Hamhawk, Session 15, picked up Session 16).
+        *   The Embered Mane: Legendary relic cloak. *(Gifted to Cletus in Session 32).*
+        *   Scroll of Shield (Obtained from Philindra)
+        *   Tan Robe (disguise)
+        *   Arcane Stun Grenades (Legionnaire Issue)
+        *   Enchanted Cuffs (Legionnaire Issue)
+        *   Pet Mouse (affected by alchemical residue, kept in pocket)
+        *   Pocket Workshop (Lottery Reward; identified Session 11. Battered red toolbox, opens to extradimensional 30 sq ft space with tools, materials, and snacks; refreshes daily.)
+        *   Shield of Heroic Memories (Lottery Reward - Session 14): Perfectly round, shiny silvered +2 shield. Gains +1 bonus vs. creatures of a type previously defeated while holding it (activated vs Alpha Werewolf Session 16). Battle events engrave on its surface.
+        *   Three Greater Healing Potions (syringes).
+        *   Full-length Leather Riding Glove (Acquired Session 15)
+        *   Silver Dust (shared party supply from coins).
+        *   The Astral Shell (Lottery Reward - Session 17): Seashell-shaped necklace. Allows casting *Speak with Dead* 1/day without a spell slot. (Used to cast *Speak with Dead*, Session 18).
+        *   Vial of Wellspring Water (Obtained from the Baba Yaga, Session 35).
+        *   Alpha Werewolf Corpse (Recovered and stored in Pocket Workshop, Session 17).
+        *   4 Regular Healing Potions, 1 Superior Healing Potion (entrusted to Zariel), 2 Water Breathing Syringes (Mission Supplies - Session 17).
+        *   150gp in gems (looted from Mind Flayer lair, Session 23).
+        *   Blessing of the Gemstone Drakes: Magical boon gained from freeing an amethyst dragon statue. Once per day, as a reaction, can cast the *Shield* spell. (Obtained Session 27, used Session 31).
+    *   Notable Traits & Events:
+        *   Formerly a Warforged, his true nature was revealed by the Baba Yaga in Session 35: he was created as an "artificial fey" by the Cursed King Tentherian, a backup plan for the Fae King prophecy should Kaladen's royal bloodline fail. He willingly sacrificed his unique Warforged body in a bargain with the Baba Yaga, who destroyed his artificial core and "killed" him. He was then reborn from her cauldron as a living, breathing Half-Orc, retaining all his memories and class abilities but now in a completely new, mortal form.
+        *   (Previous history summarized)...
+        *   The Hat Quest and Internal Inferno (Session 34): Led a side-quest to a submerged haberdashery in Moonhaven, acquiring the magical `Counter's Charm` hat. Was subsequently dominated and swallowed whole by the monstrous False Hydra. Showed great ingenuity by breaking domination while inside the creature and Wild Shaping into a Fire Elemental, dealing significant internal damage. After being vomited out, cast `Contagion` and transformed into an Earth Elemental. Following the battle, unleashed a wave of powerful healing spells (`Mass Cure Wounds`) that brought the battered party back from the brink of death.
+        *   Death and Rebirth (Session 35): Cast a crucial *Heroes' Feast* to prepare the party for the day's trials. After discovering the Baba Yaga's hut, he took the lead in negotiating, selflessly offering his unique Warforged body in exchange for information for the entire party. The hag accepted, destroying his core and killing his artificial form. After the hag revealed the party's true history, he was reborn from her cauldron as a Half-Orc. As a final reward, he chose a powerful, if grotesque, Cloak of Displacement.
+
+*   **Donnie Farsight (Ratshit)** *Race/Class:* Half-Orc Cleric (Presumed) (Omen Knight)
+    *   Current Level: 9 (Omen Knight Rank)
+    *   Key Items:
+        *   Legionnaire Gear: Standard Omen Knight gear (to be provided by Hamhawk), Comms (quiet/loud toggle).
+        *   Ring of Frost (Lottery Reward - Session 14): Thin blue steel ring with a tourmaline stone. Resistance to cold damage, makes held beverages frosty. (To be modified by Hamhawk into an armor-mounted cup holder).
+    *   Notable Traits & Events:
+        *   Formerly a cynical, fast-talking Legionnaire handler for the O'Dears. Known for complaining about his "soft tissues" after severe injuries.
+        *   Voice from the Chaos (Session 29): Contacted the party in Moonhaven via a series of frantic *Sending* spells. Revealed that a military coup has taken place in New New Arbor, with Lord of Advancement Calmera Windrider seizing power with a personal army of Warforged. Warned the party they are being watched by the new regime and, now a fugitive himself, urged them to abandon their mission and return. Displayed comical ignorance of the werewolf pups that started the war. *(Not encountered Session 30-35)*.
+
+*   **Cletus Cobbington** *Race/Class:* Firbolg Druid / Cleric
+    *   Current Level: 10
+    *   Key Items:
+        *   Starting equipment
+        *   Staff of the Woodlands: A gnarled wooden staff with a green orb, gifted by Cornelius. Allows creating a magical healing bond with an ally and conjuring a protective willow tree that functions as a Tiny Hut. (Attuned Session 25).
+        *   The Embered Mane: (Legendary Relic, Attuned) A magical cloak of brilliant orange, black, and red-yellow flaming feathers. Grants fire resistance, advantage on saves vs. fire spells, and allows the wearer to transform into a Fire Elemental by expending both Wild Shape uses. (Gifted by Zariel and attuned in Session 32).
+        *   Psychically-Resistant Plate Armor: A suit of unenchanted plate armor found in Moonhaven, custom-finished by Leopold and Kaladen. Imbued with an elder brain's soul, granting psychic damage resistance and advantage on saves vs. mind control. A spell-storing `Ring of Holding` is welded to the chest, containing `Shield` and `Fireball`. (Obtained and enchanted Session 33).
+        *   Squirrel companion "Chip"
+        *   Numbered Orbs (#5, #6, #8): Stone keys collected from the Vault of the Wildfolk (Session 20).
+        *   Blessing of the Gemstone Drakes: Magical boon gained from freeing an amethyst dragon statue. Once per day, as a reaction, can cast the *Shield* spell. (Obtained Session 27).
+        *   Goodberry-Almonds: A handful of almonds dipped in the essence of the Moonhaven Wellspring, each functioning as a Goodberry. (Created Session 32).
+        *   Vial of Wellspring Water (Obtained from the Baba Yaga, Session 35).
+        *   Scroll of Questioning (Obtained from the Baba Yaga, Session 35): A magical scroll that allows the user to ask one question of their choice at a later time.
+    *   Notable Traits & Events:
+        *   An almond milk farmer from the Amberfields district of New New Arbor, afflicted with an Isoptic Curse that gives him a bovine, cow-like appearance with hooved feet. Has a close, if exasperated, relationship with his farmhand, Cyrus Schwert. Accompanied by his "rabid" squirrel companion, Chip.
+        *   (Previous history summarized)...
+        *   Nature's Detective (Session 34): Used `Locate Plants` on the party's fey-touched items to successfully track down the missing Leopold and Zariel. Dealt consistent damage with `Moonbeam` and `Guiding Bolt` against the False Hydra before being stunned by its psychic scream. After the battle, he cast `Speak with Plants` and successfully interrogated a gruff, poison-ivy vine named Ricky to learn the location of the hidden teleportation cathedral, securing the party's path out of Moonhaven.
+        *   Revealed Destiny (Session 35): While under the protection of his staff's willow tree, the party encountered the Baba Yaga. During the subsequent revelations, it was discovered that he and Cyrus are "twin souls," fey-touched beings whose destinies were manipulated by Tentherian to make them potential candidates to rule the Feywild. He was granted a magical scroll by the hag, allowing him to ask a question of his choice later. Was saved from a fatal fall by Cyrus.
+
+*   **Cyrus Schwert** *Race/Class:* Half-Elf Bard (College of Swords)
+    *   Current Level: 10
+    *   Key Items:
+        *   Starting equipment (Scimitar, damaged)
+        *   "Peacemaker" Sword: A silvered +1 Longsword found in the Vault of the Wildfolk. Inscribed "Peacemaker" in Sylvan. Can cast *Calm Emotions* (used Session 22). (Attunement required for full abilities).
+        *   The Marble Eye: (Legendary Wondrous Item, Attuned) A grapefruit-sized, marble-black eye, the last remnant of the Spider Queen. Grants +2 AC, advantage on all spell saving throws, and allows casting *Counterspell* or *Dispel Magic* (3rd level) once per day. It has a powerful "Nullifying Gaze" that can create an anti-magic cone, and a one-time "Mythic Emergence" ability that can prevent the wielder's death. (Recovered Session 31, Identified and Attuned Session 32).
+        *   Thieves' Tools (crafted by Leopold).
+        *   Numbered Orbs (#9, #4): Stone keys collected from the Vault of the Wildfolk (Session 20).
+        *   Psionic Aegis: (Legendary Wondrous Item, Attuned) A sleek, iridescent metal circlet with an opalescent gem. Grants resistance to psychic damage, shields the wearer's mind from psychic intrusion, and allows for a telekinetic shove ability. Claimed after defeating the guardian of the Vault of the Wildfolk. Its aura of psionic invisibility was crucial for infiltrating the Mind Flayer lair (Session 22).
+        *   Vegan Leather Sidebag (Purchased Session 23).
+        *   Blessing of the Gemstone Drakes: Magical boon gained from freeing an amethyst dragon statue. Once per day, as a reaction, can cast the *Shield* spell. (Obtained Session 27, used via retcon in Session 28, used in Session 31).
+        *   Vial of Wellspring Water (Obtained from the Baba Yaga, Session 35).
+    *   Notable Traits & Events:
+        *   A lanky, seemingly inept farmhand working for Cletus Cobbington. Discovered he grew up in the same Sweets District of New New Arbor as Kaladen.
+        *   (Previous history summarized)...
+        *   The Hero of the Amphitheater (Session 34): Had his mind wiped by the False Hydra's song, temporarily forgetting the creature existed. Upon seeing his friends swallowed, he snapped back into a heroic rage, unleashing an incredible 111 points of damage with Divine Smites and a critical hit. This assault severed two of the creature's heads and forced it to vomit up Leopold, single-handedly turning the tide of the battle. He was later stunned by the monster's psychic scream. This moment marked a pinnacle of his growth into a true hero.
+        *   Bargains and Heroics (Session 35): Bravely led the party to the Baba Yaga's hut and initiated conversation. Made a deal to surrender his body to the hag upon his final death in exchange for a vial of Wellspring water for the party. Learned that his meeting the party was no accident, but part of Tentherian's manipulations, and that he and Cletus are "twin souls," making them potential candidates for the Fae throne. Used his first Stress Point to cast a clutch, two-target *Enhance Ability*, saving both Cletus and Leopold from a fatal fall.
+
+---
+
+## Key NPCs
+
+*   **The Baba Yaga:** An ancient, powerful, and bizarre primordial being who acts as a keeper of forgotten lore and a master of bargains. She is an eight-foot-tall, hunched figure with long, spindly limbs, pale skin stained black around the mouth, and a face of deep, brain-like wrinkles. Her form is fluid, subtly shifting between masculine and feminine features.
+    *   **(Session 35 Revelation):** Encountered the party in the Ashen Grove. Revealed she was the true creator of the Isoptic Curse, having tricked the Cursed King Tentherian. She traded vast amounts of information in exchange for Zariel's Warforged body, Kaladen's finger, and Cyrus's future corpse. She orchestrated Zariel's "death" and rebirth as a Half-Orc and revealed the full scope of Tentherian's plan and the party's destinies. She exists as a powerful, amoral agent of fate.
+    *   *(Status: Active. Has provided the party with critical information and items, and holds binding pacts with several members.)*
+*   **Tentherian (The Cursed King / Kaladen's "Fun Uncle"):** The powerful figure from the West Dome (Isoptera) whose actions caused the Cursed War 400 years ago. He commanded an army of monstrous generals, including the Fire Spirit, the Spider Queen, and the mutated High Council of Moonhaven.
+    *   **(Session 35 Revelation):** Revealed by the Baba Yaga to be Kaladen's ancient fey-elf relative ("uncle"). He is the true mastermind behind the campaign's events, having orchestrated the party's meeting over centuries to gather multiple candidates for the Fae King prophecy. He created Zariel as an "artificial fey" backup for the prophecy. He was tricked by the Baba Yaga, who was the true creator of the Isoptic Curse he wielded. He was banished to the Astral Sea in the trap at Moonhaven.
+    *   *(Status: Primary Antagonist. Banished to the Astral Sea, but his ancient plans continue to drive the main plot. His motives are to guide/manipulate Kaladen and the party towards fulfilling the Fae King prophecy for his own unknown ends.)*
+*   **Captain Levi Sanchez:** Formerly a casual but authoritative Stonewall Legionnaire officer and the party's primary quest-giver.
+    *   **(Session 33 Revelation):** Revealed via `Scrying` to be a traitor. He has sided with Calmera Windrider's new regime, sports a superior uniform and a pair of advanced, revolver-like crossbows. He was seen taunting the imprisoned, werewolf-form Lord Marshall Thurr, acting as his warden. His allegiance has shifted, and he is now a direct antagonist to the party and a key figure in the military coup.
+    *   *(Status: Antagonist. A high-ranking officer in Calmera Windrider's military regime, enforcing the new order in New New Arbor.)*
+*   **Lord Marshall Thurr (The Male Alpha Werewolf):** Former high-ranking Stonewall Legionnaire leader who recruited the party.
+    *   **(Session 22 Revelation):** Revealed to be the male Alpha Werewolf, mate to the female Alpha the party killed. He launched a full-scale werewolf assault on New New Arbor, starting a civil war.
+    *   **(Session 33 Revelation):** The civil war has ended with his defeat. He is now a prisoner of Calmera Windrider's new regime. A `Scrying` spell revealed him chained by a large collar in his werewolf form, sedated or exhausted, in a dungeon beneath New New Arbor. A doppelganger or illusion is apparently being used to impersonate him publicly.
+    *   *(Status: Prisoner. Defeated and imprisoned by the new regime. His fate is a potential motivator for the party.)*
+*   **Hamhawk:** Ogre-like female humanoid smithy for the Legionnaires. Gruff, efficient, protective of her advanced forge (Storm District). *(Status: Unknown. Her fate following the military coup led by Calmera Windrider is unconfirmed.)*
+*   **Zariel's Elven Master / Leopold's Mentor:** Powerful high elf mage with shoulder-length, curly orange hair and vibrant blue eyes. He was Zariel's creator/commander and Leopold's harsh, abusive mentor.
+    *   **(Session 26 Revelation):** A dream from Zariel confirmed this individual was his commander in the West Dome city of Isoptera around the year 222 PDC. The master was engaged in clandestine activities, ordering Zariel ("Commander Zero") to lie and provide an alibi that he was visiting a "Lord Kalmara in Philantera."
+    *   *(Status: Historical figure from Zariel's and Leopold's past, last seen in a dream memory leaving the West Dome on a secret mission. Current whereabouts and status unknown.)*
+*   **Selena Sal:** Eccentric, seemingly ancient potion shop owner (Storm District). Her shop contains the hidden entrance to the Fungal Tunnels. *(Not encountered Session 2-35)*.
+*   **Lancex the Fungal Guardian:** Former Stonewall Legionnaire assimilated and mutated into a powerful Myconid Sovereign variant. *(Status: Deceased/Destroyed)*
+*   **Mysterious Woman on Altar / Faye Lara:** Young, fair-skinned woman with dirty brown hair. Her life-sustaining glass mask ("Breath of the Feywild") was stolen by Cedric (Session 10), causing her to turn to stone.
+    *   **(Session 35 Revelation):** Revealed by the Baba Yaga to be alive and waiting in the Feywild. She is now a battle-hardened warrior leading a group of allies, ready to assist the party once they arrive.
+    *   *(Status: Physical body petrified in New New Arbor. Spirit/true self is active in the Feywild, preparing for the party's arrival.)*
+*   **Blackguard Knight (Deactivated Warforged):** Extremely imposing figure in sleek, all-black armor with an enormous greatsword. *(Status: Deactivated. Body (missing one power core, which is with Leopold) and greatsword recovered by party. Likely defeated by werewolf. Linked to Calmera Windrider and Leopold's brother Victor.)*
+*   **High Cleric Father Kallor / The Reverend:** Formerly High Cleric of the Court of Viteo. Revealed as "The Reverend," leader of the "Hand of God" cult. *(Status: Deceased.)*
+*   **Lord of Advancement Calmera Windrider (KW):** Elven male, former member of the High Council. Has seized control of New New Arbor in a military coup.
+    *   **(Session 35 Revelation):** His connection to Leopold was fully revealed. He adopted Leopold and his brother Victor, subjecting them to abusive training. After Leopold died, Calmera performed a necromantic ritual and accidentally placed Leopold's soul into the "Bone Crusher" Warforged body that was intended for Victor.
+    *   *(Status: Primary Antagonist. De facto ruler of New New Arbor following his military coup. He is the direct cause of Leopold's current state and holds a deep, personal connection to his past.)*
+*   **Leora Wagnar (Omen Knight Commander):** Human female, cursed as a were-panther. The former Commanding Officer for the Omen Knights. *(Status: Unknown. Her fate following the military coup led by Calmera Windrider is unconfirmed.)*
+*   **Alpha Werewolf (Female):** Enormous, bipedal lycanthrope. Was the mate of Lord Marshall Thurr. *(Status: Deceased. Her death directly caused Lord Marshall Thurr to launch a civil war against New New Arbor.)*
+*   **Wesley (Harengon Rogue/Psionicist):** Harengon (rabbit-folk) male from the outpost of Cottonwood. *(Status: Alive, rescued from Mind Flayer captivity. Grieving the loss of his friends. Currently acting as an allied guide for the party in and around his home village of Cottonwood.)*
+*   **The Elder Brain:** The hive mind and leader of the Mind Flayer colony in the ancient northern ruins. *(Status: Deceased. Killed by Leopold in Session 22.)*
+*   **Cornelius Rattleback (Tortle Shaman):** A very old, heavy-set Tortle shaman, founder and leader of the village of Cottonwood. *(Status: Active, in Cottonwood. Quest-giver and ally to the party.)*
+*   **The Fire Spirit (Phoenix General of the Cursed):** A massive, avian creature that was a once-benevolent nature spirit corrupted by fanatics. One of six generals for the Cursed King "Tentherian." *(Status: Deceased. Killed by Kaladen in a mercy-killing during a climactic battle at its lair in Session 24.)*
+*   **The Spider Queen (Arachnid General of the Cursed):** The telepathic ruler of the Moonhaven spider hive. The "second Great General of the Cursed Army" under the Cursed King "Tentherian." *(Status: Deceased. Killed by Leopold in a climactic battle in her lair in Session 31.)*
+*   **The False Hydra (The Mutated High Council of Moonhaven):** A horrific aberration with a serpentine body and five long necks ending in monstrously warped elven faces. Revealed to be the mutated forms of Moonhaven's former High Council, twisted by the Cursed King. *(Status: Deceased. Killed by the party in a brutal battle in the Alarian District's amphitheater in Session 34.)*
+
+---
+
+## Minor NPCs
+
+*   **Billy:** Zariel's former coworker in the underpassage tunnels.
+*   **Unimportant NPCs from New New Arbor...** *(Numerous minor characters such as guards, vendors, and pit fighters whose status is unknown following the coup)*
+*   **Victor (Leopold's Brother):** Leopold's older brother, a lean, muscular, and scarred young elf with yellow-red, ember-like eyes. A violent and powerful physical combatant who was the intended recipient of the "Bone Crusher" Warforged body. *(Status: Historical figure from Leopold's past, current whereabouts and status unknown.)*
+*   **Mind Flayer Colony (Northern Ruins):** A colony of Illithids residing in the ancient northern ruins. *(Status: Colony destroyed by the party in Session 22.)*
+*   **Chip (Squirrel):** Cletus Cobbington's "rabid" squirrel companion.
+*   **Adult Black Dragon:** A powerful, winged dragon encountered in the Chiari Rung Forest. *(Status: Deceased, killed by Cletus (as a Giant Ape) in Session 26.)*
+*   **Emory Razorback:** An enlarged, intelligent Gnoll general who led the "cult of fanatics" that corrupted the Fire Spirit. *(Status: Deceased, killed by Leopold in Session 27.)*
+*   **Snowball and Cocoa (Werewolf Pups):** The two werewolf pups adopted by Zariel. Left in a safe, magically-fed kennel in the Chiari Rung Forest before the party entered Moonhaven. Their fate is currently unknown.
+*   **Guardian Naga:** A powerful magical serpent summoned as a guardian in the Moonhaven Core Tower. *(Status: Deceased, killed by the party in Session 33)*
+*   **Ricky the Vine:** A sentient, gruff, mobster-like poison ivy vine in Moonhaven's Alarian district. *(Encountered Session 34)*
+*   **Cindered Guardian:** A massive, flaming, sentient tree-creature that guards the entrance to the Tree of Death within the Cindered Cradle. *(Encountered Session 35)*
+*   **Rhiannon (Devil):** A devil who, in ancient times, attempted to use the Tree of Death as an escape route from the Hells, causing it to burn with eternal hellfire. *(Status: Historical figure, whereabouts unknown.)*
+
+---
+
+## Important Events So Far
+
+*   **Induction into the Stonewall Legionnaires:** The party joined the Legionnaires, revealing their potent 'Isoptic Curse' abilities.
+*   **Revelation and Defeat of 'The Reverend' & City-Wide Cult Uprising (Session 9 & 10):** The party defeated the "Hand of God" cult leader as the cult launched a massive city-wide attack.
+*   **Pursuit of Cedric, Mask Recovery, and Emergence from the Dome (Session 11):** The party defeated a transformed cultist, recovered the stolen "Breath of the Feywild" mask, and emerged into the natural world outside New New Arbor's Southern Dome.
+*   **Discovery of a Mana Wellspring and Defeat of its Dragon Guardian (Session 13):** The party defeated a dragon, discovered a powerful Mana Wellspring, and were transformed by its power.
+*   **Return to HQ, Omen Knight Promotions, and Ominous Revelations (Session 14):** The party was promoted to Omen Knight rank, while unsettling connections between Lord of Advancement Calmera Windrider and Leopold's past were revealed.
+*   **Defeat of the Storm District Alpha Werewolf & Kaladen's Transformation (Session 16):** The party defeated a powerful Alpha Werewolf. Kaladen was infected with lycanthropy, forcing him to self-amputate his arm and grow a new one from Soulwood.
+*   **Civil War and Military Coup in New New Arbor (Revealed Session 22, 27, 29 & 33):** In the party's absence, a werewolf civil war erupted, culminating in Lord of Advancement Calmera Windrider staging a military coup, imprisoning Lord Marshall Thurr, and seizing control of the city with a personal Warforged army.
+*   **Defeat of the Elder Brain (Session 22):** The party located and destroyed the leader of a Mind Flayer colony in ancient northern ruins, neutralizing the Illithid threat in the region.
+*   **Mercy for a Corrupted God & Defense of Cottonwood (Session 24):** The party defeated a corrupted Fire Spirit, an act of mercy that saved the nearby village of Cottonwood from a Gnoll army.
+*   **Infiltration of the Shattered City of Moonhaven (Session 28-29):** The party infiltrated the submerged, ruined city of Moonhaven, discovering a prophetic mural that revealed a destiny for Kaladen to become a Fae King.
+*   **Defeat of the Spider Queen (Session 30-31):** The party battled and vanquished the mythic Spider Queen, one of the Cursed King's generals, in her lair deep within Moonhaven.
+*   **Reawakening the Moonhaven Wellspring (Session 32):** The party disabled an ancient trap, reawakening Moonhaven's Wellspring and allowing Kaladen to complete the first step of his Fae King prophecy.
+*   **Moonhaven's Secrets and the New Regime's Betrayal (Session 33):** The party uncovered vital lore in Moonhaven's Core Tower, culminating in a `Scrying` spell that revealed their former ally Captain Levi had betrayed them and was now a warden for the imprisoned Lord Marshall Thurr.
+*   **Defeat of the False Hydra and Arrival at the Ashen Grove (Session 34):** The party defeated a monstrous False Hydra—the mutated former High Council of Moonhaven—and activated a hidden portal, transporting them to the desolate Ashen Grove, at the foot of the Tree of Death.
+*   **Encounter with the Baba Yaga and the Grand Revelation (Session 35):** The party made a series of high-stakes bargains with the mythical hag, Baba Yaga. In exchange for pieces of themselves, they learned the entire secret history of the campaign: the Cursed King Tentherian is Kaladen's uncle who orchestrated their meeting; the Baba Yaga herself created the Isoptic Curse; and Zariel was an "artificial fey" created as a backup for the Fae King prophecy. The encounter culminated in the resolution of Leopold's amnesia and the "death" and dramatic rebirth of Zariel as a Half-Orc.
+
+---
+
+## Locations of Interest
+
+*   **New New Arbor:** Large, domed city with advanced arcane tech. *(Status as of Session 33: Under the control of Lord of Advancement Calmera Windrider, who has staged a military coup and instated martial law with an army of Warforged.)*
+*   **Outside the Arcane Dome (Explored):** A lush, natural environment with blue sky, pleasant weather, and fauna. Legionnaire technology non-functional here.
+*   **Zariel's Pocket Workshop (Extradimensional Space):** Battered red toolbox opening to 30 sq ft space. Used for rests, storage, and crafting.
+*   **Unnamed Wilderness (Plains of Fate / Edge of Chiari Forest):** A remote wilderness region far north of New New Arbor. The party has successfully traversed this region.
+*   **Ancient Stone Ruins (Northern Wilderness):** Overgrown, dilapidated stone structures. Site of a Mind Flayer colony (cleared Session 22) and the "Vault of the Wildfolk" (cleared Session 21).
+*   **Cottonwood:** A small, idyllic settlement of various animal-folk at the edge of the Chiari Forest.
+*   **The Astral Sea (Dreamscape/Visited Plane):** An infinite, empty void space. Serves as the prison/domain of the Cursed King Tentherian.
+*   **The Shattered City of Moonhaven (North Dome):** A massive, domed elven and fey city, now a submerged ruin. *(Status: Explored and departed in Session 34.)*
+*   **The Ashen Grove:** A massive, bowl-shaped basin eternally dusted by a ceaseless fall of fine gray ash and white snow. The air has a metallic tang and the landscape is scattered with dead, gnarled trees.
+    *   **Baba Yaga's Hut:** The mobile home and workshop of the Baba Yaga. A magical space, larger on the inside, filled with eldritch objects, bizarre smells (herbs, spices, burning hair, blood), and the sound of sobbing floorboards. It is a place of immense power where reality can be altered.
+    *   **Emberwake Crossing:** A massive, treacherous root from the Tree of Death that forms a narrow bridge across a deep chasm. It is haunted by spectral forms that attempt to push travelers off.
+    *   **The Tree of Death:** A colossal, world-spanning tree at the center of the grove. It burns with eternal hellfire, a consequence of a devil named Rhiannon attempting to use it as an escape route from the Hells. It is the party's primary objective, acting as a gateway to the Feywild.
+    *   **The Cindered Cradle:** A fiery chamber directly beneath the Tree of Death, encased in perpetually burning roots. It serves as the final arena before the Feywild portal and is the lair of the Cindered Guardian.
+
+---
+
+## Ongoing Mysteries & Goals
+
+*   What is the full nature, origin, and range of effects of the Isoptic Curse? (Updated Session 35: The curse was created by the Baba Yaga, who tricked the Cursed King Tentherian into using it. She sees it as a positive force, returning power to nature. It is a tool of a primordial being.)
+*   What are the potential consequences or drawbacks of using Stress Points? (Note: Kaladin 6 used, Leopold 5 used, Zariel 8 used, Cletus 1 used, Cyrus 1 used. Has caused physical manifestations of power/curse.)
+*   What is the significance of Zariel's red-tipped orchid?
+*   What is the true power structure of New New Arbor? (Updated Session 33: Completely collapsed. Calmera Windrider has seized power with a Warforged army. Lord Marshall Thurr is a prisoner. Captain Levi is a traitor. Ratshit is a fugitive.)
+*   What is the significance of the small film reel Leopold received?
+*   Is Selena Sal involved with, complicit in, or ignorant of the activity beneath her shop?
+*   What is the full extent of Harengon society and other sentient animal-folk civilizations in Avarias?
+*   What is the story behind Cletus's curse and his relationship with Cyrus's father?
+*   Who is the Baba Yaga, the powerful hag Cornelius met? (Updated Session 35: The party has met her. She is a primordial being, creator of the Isoptic Curse, and a keeper of cosmic secrets who trades knowledge for a price.)
+*   What is the "one goal" that Leopold and Zariel's shared mentor was training them and Victor for?
+*   Who is Lord Kalmara of Philantera, and why did Zariel's master use him as an alibi?
+*   Who or what was the "First Council" that banished Kaladen's uncle, and what became of them?
+*   What will become of Snowball and Cocoa, the werewolf pups left behind in the forest?
+*   What is on the waterlogged magic scroll Leopold found?
+*   What caused the mysterious six-hour time jump the party experienced in Moonhaven?
+*   What is the "light-bending distortion" Zariel saw in the Astral Sea?
+*   What is the nature of the ghostly Bone Crusher apparition that appeared to Leopold?
+*   What is "Project Armored Immortality," the label on the empty monster cage in Moonhaven's Core Tower?
+*   What is the full scope of Tentherian's plan, and what does he hope to achieve by installing a new Fae King?
+*   What awaits the party in the Feywild, and what role will Fae Lara and her allies play?
+*   What question will Cletus ask the Baba Yaga with the scroll she gave him?
+*   How will Zariel adapt to his new, mortal Half-Orc body?
+*   How will Leopold process the trauma of his newly-revealed past and his relationship with Calmera Windrider?
+*   What happened during Leopold's past? (Resolved in Session 35)
+*   What are the details surrounding Zariel's memory loss and 'accident'? (Resolved in Session 35)
+*   Who is the Mysterious Entity that spoke to Kaladin? What is its true nature, history, and ultimate goals? (Resolved in Session 35)
+*   What is the meaning of the "far north," "to the tree," and the "copper city" from Zariel's visions? (Resolved in Session 35)
+*   How can the Fey Woman (Faye Lara) be restored from her petrified state? (Resolved in Session 35)
+*   What is the unexplained connection that allowed Kaladen to be present in Cyrus's dream? (Resolved in Session 35)
+*   **Goal: Defeat the Cindered Guardian.** *(New - Session 35)*
+*   **Goal: Enter the Tree of Death and travel to the Feywild.** *(New - Session 35)*
+*   **Goal: Deal with the traitor Captain Levi and the political fallout of the military coup in New New Arbor.**
+*   **Goal: Decide whether to rescue the imprisoned Lord Marshall Thurr.**
+*   **Goal (Kaladen): Fulfill the prophecy of the Fae King.** *(Ongoing, new details revealed in Session 35)*
+*   **Goal (Leopold): Uncover the truth of his elven past and the fate of his brother, Victor.** *(Ongoing, core mystery resolved but personal journey remains)*
+*   **Goal (Leopold/Cletus): Design and build an almond-exploding rifle for Chip the squirrel.** *(Ongoing)*

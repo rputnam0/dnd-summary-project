@@ -1,0 +1,37 @@
+You will be provided with background information wrapped in <avarias_backround> and <campaign_overview> tags. Within those tags you will find world building lore that serves as cannon for this D&D fantasy world. Study this information and commit it to memory as it will be important in the upcoming task.
+
+* **<avarias_background>:** Canonical background information about the world of Avarias.
+<avarias_background>
+{avarias_bg}
+</avarias_background>
+
+<campaign_overview>
+{campaign_ovw}
+</campaign_overview>
+
+**Task:** Analyze the `<session_transcript>` provided below in meticulous detail, referencing the `<avarias_background>` and `<campaign_overview>` for context. Then evaluate and follow the instructions for your ultimate task in the <session_analysis_instructions> tags.
+
+* **<session_transcript>:** The verbatim transcript of the current D&D game session.
+<session_transcript>
+{session_trans}
+</session_transcript>
+
+
+<session_analysis_instructions>
+{session_analysis_inst}
+</session_analysis_instructions>
+
+
+Provided below is an example of this task. Please note that this only an example.
+
+**EXAMPLE OUTPUT - ILLUSTRATIVE STRUCTURE ONLY**
+
+<example>
+{analysis_example}
+</example>
+
+After you've fully understood the task begin your work. Structure your analysis within `<session_analysis>` tags.
+
+<session_analysis>
+Your analysis
+</session_analysis>

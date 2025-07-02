@@ -1,0 +1,256 @@
+# Campaign Overview: Previously in Avarias
+
+Below is an overview of the events, characters, locations, and ongoing mysteries from our campaign in Avarias. This document will be updated after each session based on the session analysis.
+
+---
+
+## Player Characters known as the O’dears
+
+*   **Kaladen Shash** *Race/Class:* High Elf Wizard
+    *   Current Level: 3
+    *   Key Items:
+        *   Starting equipment
+        *   Legionnaire Gear: Half-armor/half-robe (blue accents), Quarterstaff (versatile, focus, modified - see below), Minor Heal (1/fight), Comms.
+        *   Modified Mycelium Spear-Staff: Original quarterstaff magically enhanced by Hamhawk using Lancex's club. Has a black, mycelium-like appearance. Transforms between staff and spear length. (Full abilities TBD).
+        *   Ring of the Grammarian: Legendary magic ring (attuned). Allows altering one letter in a spell's name 1/day for a new effect (DM discretion).
+    *   Notable Traits & Events:
+        *   Motivated by recent vivid dreams of the Feywild and a past life/another person to seek change/experience.
+        *   Attended Stonewall Legionnaire tryouts in New New Arbor.
+        *   Passed initial tests; revealed potent spellcasting (Shocking Grasp, Thunder Wave) during combat trial.
+        *   Revealed to possess the 'Isoptic Curse'.
+        *   Attracted the attention of Captain Levi and Lord Marshall Thurr. Accepted offer to join the Legionnaires.
+        *   Landed the killing blow on a Cursed Fire Elemental using Chromatic Orb, boosted by a Stress Point.
+        *   Briefly glimpsed a figure watching him in an alley before the tryouts.
+        *   Moved into the Legionnaire Barracks.
+        *   Experienced a magical jolt/vision of lush forests upon shaking Zariel's hand.
+        *   Received custom gear from Hamhawk via Ratshit.
+        *   Participated in the first mission: investigating disappearances in the Storm District (Case 22391).
+        *   Led investigation efforts, questioning locals and Selena Sal.
+        *   Fought Myconids in the Fungal Tunnels, using Firebolt, Chromatic Orb, and Burning Hands effectively (secured multiple kills, including the Sovereign).
+        *   Assisted Leopold's investigation of tunnel forks with Perception (Nat 20).
+        *   Fought the mutated Myconid Sovereign Lancex, using Firebolt (including a Nat 20) and Burning Hands.
+        *   Used Identify ritual to determine the mask on the mysterious woman emanated powerful, chaotic Fey magic that seemed helpful to her. Feels a lingering connection to the mask.
+        *   Participated in the decision (via written notes) to hide the woman.
+        *   Attempted to assert rank over an Omen Knight (failed Persuasion).
+        *   Received summons back to HQ from Ratshit/Captain Levi.
+        *   **Briefed by Lord Marshall Thurr:** Learned Thurr knew about the hidden woman via scrying and an Omen Knight report. Thurr revealed Lancex was intentionally sent as a test for the party's Isoptic Curse abilities. Was offered a choice: bring the woman to Legionnaire facilities or handle the situation independently, with Thurr overlooking the initial transgression. Relayed this information to the party.
+        *   **Won Ring of the Grammarian:** Chose the lottery reward option and won a legendary magic ring from the HQ lottery machine (rolled 69).
+        *   **Weapon Upgraded:** Took Lancex's club to Hamhawk (per Thurr's instruction via Ratshit) and had its magic transferred into his quarterstaff, creating a transforming mycelium spear-staff.
+        *   **Checked on Hidden Woman:** Returned to the hidden tunnel. Touched the woman and experienced a vision of running through a field with her, recognizing it wasn't the Amberfields, suggesting she's from outside the dome. Argued for research before removing the mask.
+        *   **Led Shopping Trip:** Guided the party during downtime shopping for Hamhawk's project materials in the Market District. Successfully negotiated a deal with Philindra Sprawlweaver at Mystical Scripts Scroll, securing bonus items (Scroll of Fireball).
+        *   **Researched Feywild:** Visited the Core Library during downtime. Searched for a Scatter scroll (found it chained). Questioned Grand Historian Garris about the Feywild, learning about Jeya hiding there, the subsequent planar binding/sealing, and its eventual release.
+        *   **Experienced Disturbing Dream:** Had a vivid nightmare involving a monstrous, spider-like creature, the repeated phrase "He's coming for her," and another vision of the woman in the field. Completed a long rest.
+
+*   **Leopold Magnus** *Race/Class:* Warforged Artificer (Battle Smith)
+    *   Current Level: 3
+    *   Key Items:
+        *   Starting equipment
+        *   Self-repairing armor plating (innate)
+        *   "Bone Grinder" Emblem (Iron gauntlet crushing skull, on back plate)
+        *   Legionnaire Gear: Deployable Shield (magnet), Deployable Hand Crossbow (magnet), Schematics from Hamhawk, Minor Heal (1/fight), Comms.
+        *   Potion of Animal Friendship (Rhino Powder)
+        *   Small film reel with an animal image (from Dwarven Woman).
+        *   Steel Defender (Summoned via abilities)
+        *   All or Nothing Coin: Rare magic coin. Allows replacing one d20 roll/day with a coin flip (Heads=20, Tails=1). Stored in helmet (causes rattling).
+        *   Project Splitter Blueprint: Schematic from Hamhawk detailing materials for a dome-opening device.
+    *   Notable Traits & Events:
+        *   Introduced slumped in the underpassage tunnels, memories unclear, body unfamiliar (~1 year since reactivation). Expresses feeling like he was "somebody else" before. Hints dropped about remembering a palace and a brother named Victor, but claims no clear memory.
+        *   Found and repaired/befriended by Zariel prior to Session 1.
+        *   Possesses botanical knowledge. Persuaded by Zariel to attend Legionnaire tryouts.
+        *   Impressed onlookers during initial tests. Fought defensively against 'Titan' in combat trial, revealing innate magic (Grease, Absorb Elements), resilience, and propulsion jets.
+        *   Revealed to possess the 'Isoptic Curse'. Attracted the attention of Captain Levi and Lord Marshall Thurr.
+        *   Bonded with Kaladin and Zariel; accepted Legionnaire offer.
+        *   Used Faerie Fire and Magic Stone against the Cursed Fire Elemental.
+        *   Expressed interest in finding a library; subjected to rookie hazing.
+        *   Moved into the Legionnaire Barracks, damaging a doorframe.
+        *   Experienced a disturbing dream/memory fragment (cloaked figure, blood, stitches, called a "weapon").
+        *   Stated belief his brother was an Omen Knight.
+        *   Investigated Hamhawk's forge. Received unique magnetic shield/crossbow gear.
+        *   Revealed the violent "Bone Grinder" emblem. Engaged in bizarre conversation with Selena Sal and Marcel; received a Potion of Animal Friendship. Briefly pulled into an underground bar.
+        *   Fought Myconids in the Fungal Tunnels (Session 2), using Magic Stone and Grease. Required arm detachment.
+        *   Took short rest in tunnels. Investigated branching tunnels (Nat 20 Investigation revealing layout).
+        *   Defeated an ambushing Myconid Sprout solo using Magic Stone after a panicked retreat.
+        *   Investigated tunnel sections, realizing inability to test mist toxicity for others. Failed Insight on Zariel's prank, dragging him from harmless mist.
+        *   Identified dangerous Deathcap mushrooms near final chamber via Nature check (Nat 20), triggering a memory flash ("Very good, Leopold... You're going to be excellent at making potions... Try this one. It has Deathcap in it.").
+        *   Fought Lancex using Magic Stone (multiple hits, max damage) and Hand Crossbow (multiple misses, Nat 1s, causing frustration).
+        *   Knocked unconscious by Lancex's spores; activated a Stress Point, causing his suit's self-preservation to take over, triggering an immediate Level Up (to 3) and providing the benefits of a long rest. Summoned his Steel Defender.
+        *   Successfully Shoved Lancex.
+        *   Attempted History check on Omen Knight symbol (recognized Legionnaire affiliation, but type unknown).
+        *   Participated in decision to hide the woman. Took lead in addressing the Omen Knight.
+        *   Received summons back to HQ from Ratshit/Captain Levi. Failed luck check for hiding spot chosen for the woman.
+        *   **Briefed by Ratshit & Pranked Him:** Was interrogated by Ratshit about the woman. Used Magical Tinkering to enchant Ratshit's chair ("Duty Maker"), causing fart sounds/smells. Successfully deceived Ratshit (with aid of the prank) into believing he knew nothing about the woman. Confidently (and incorrectly) reported Ratshit knew nothing.
+        *   **Won All or Nothing Coin:** Chose the lottery reward option and won a rare magic coin from the HQ lottery machine (rolled 82). Keeps coins in his helmet, causing rattling sounds.
+        *   **Tasked by Hamhawk (Project Splitter):** Visited Hamhawk and expressed interest in her work. Was offered the chance to help gather materials for "Project Splitter," receiving the blueprint and payment authorization. Insists on being her apprentice despite her denials (running gag).
+        *   **Checked on Hidden Woman:** Returned to the hidden tunnel. Investigated the mask, noting the plants didn't block airways but the air seemed unnatural. Argued against removing the mask due to risk.
+        *   **Assisted Shopping:** Participated in shopping trip. Identified overcharging merchant using Insight (DM assist). Used Jeweler's Tools proficiency to grind diamond dust, saving costs. Received Scroll of Magic Missile from Philindra.
+        *   **Assisted Hamhawk:** Spent downtime helping Hamhawk construct Project Splitter, repeatedly casting Dispel Magic. Learned the project's goal (opening the dome for Omen Knight mission to Moonhaven) and about the upcoming festival/send-off from Hamhawk. Tasked with getting a final binding spell from the library binder. Gained general Artificing knowledge. Declined to use a stress point equivalent to shortcut learning.
+        *   **Researched City History:** Visited the Core Library during downtime. Found general information on past city incidents (e.g., lycanthropy) and the first recorded Isoptic Curse case, but no major revelations. Completed a long rest.
+
+*   **Zariel Torgan** *Race/Class:* Wood Elf Druid (Circle of the Moon) / Warforged (Implicit)
+    *   Current Level: 3
+    *   Key Items:
+        *   Starting equipment
+        *   Red-Tipped Orchid (found in tunnels near Emerald Grove section, kept safe)
+        *   Legionnaire Gear: Custom Wood Armor (Druid-friendly, red flower emblem), Wooden Scimitar, Wooden Staff (arcane runes), Minor Heal (1/fight), Comms.
+        *   Myconid Sovereign Head (Specimen)
+        *   Ring of the Giant Slayer: Uncommon magic ring. Grants +1 AC/Attack vs Large+, +2 vs Giants.
+        *   Standard Shield (Purchased)
+    *   Notable Traits & Events:
+        *   Works as a maintenance worker in the underpassage tunnels; suffers from memory loss (told he had an accident).
+        *   Found and befriended Leopold prior to Session 1.
+        *   Motivated by coworker Billy and intuition to try out for Legionnaires, persuading Leopold to join.
+        *   Possesses a strong connection to nature. Excelled in intelligence test (Faerie Fire). Instinctively used Thorn Whip (Nat 20) in combat trial.
+        *   Revealed to possess the 'Isoptic Curse'. Gained insight (Nat 20) into Legionnaires' motives. Accepted Legionnaire offer.
+        *   Fought the Cursed Fire Elemental using Wild Shape (Dire Wolf). Moved into Barracks.
+        *   Using high perception (Nat 20), observed Captain Levi discussing another dome, missing persons, undead, Omen Knights, and Alabaster Lords.
+        *   Initiated handshake with Kaladen that triggered Kaladen's vision.
+        *   Experienced a dream/memory fragment of being in stasis ("He's waking up. Put him under.").
+        *   Received unique wooden gear from Hamhawk via Ratshit.
+        *   Participated in the first mission (Case 22391). Expressed suspicion about Selena Sal. Witnessed Myconid abduction.
+        *   Tracked Myconids into Fungal Tunnel entrance using Wild Shape (Dire Wolf, Nat 20 Perception).
+        *   Fought Myconids (Session 2), using Thorn Whip (Nat 20 crit kill). Took heavy damage from Sovereign, stunned, critically hit, downed (reverting from Wild Shape).
+        *   Took short rest, recovering Wild Shape. Collected Myconid head as proof.
+        *   Used Perception (24) to find drag marks leading deeper into tunnels.
+        *   Faked choking in mist (Performance 17) as a prank on Leopold.
+        *   Identified Albatross blood drawing (Nature 18). Located discolored mycelium patch (Investigation 23). Sneezed loudly, alerting Lancex.
+        *   Fought Lancex: used Thorn Whip, Wild Shaped into Dire Wolf (hit, Nat 20 crit causing prone), took heavy damage, repeatedly stunned/poisoned by spores (failed multiple Con saves), reverted from Wild Shape.
+        *   Knocked unconscious by Lancex; activated a Stress Point, triggering an immediate Level Up (to 3) and providing benefits of a long rest. A metallic sheen was observed on his skin during a hit just prior.
+        *   Continued fighting in Wolf Form, then used Flame Blade (missed). Flanked Lancex. Landed killing blow.
+        *   Received Lancex's final words mentally: "He's coming for her."
+        *   Used Perception (Nat 20) to notice glow beyond mist waterfall, discovering the woman on the altar.
+        *   Relayed Lancex's words. Participated in decision to hide the woman, suggesting an unused tunnel near Emerald Grove.
+        *   Found exit tunnel leading to Emerald Grove (Investigation 17). Recognized the location.
+        *   Covered the woman with his jacket. Successfully avoided patrols (Luck check).
+        *   Received summons back to HQ from Ratshit/Captain Levi.
+        *   **Briefed by Captain Levi:** Faced Levi's silent interrogation tactics. Stuck to the party's plan, omitting mention of the woman. Used high Insight (Nat 20) to discern Levi knew about the woman but chose not to press, seemingly satisfied by the omission and deciding on a course of action based on it. Observed Levi using a high-tech bracelet. Reported Levi's awareness to the party. Advocated for coming clean.
+        *   **Detected Surveillance:** Cast Faerie Fire in the HQ hallway, revealing hidden scrying orbs. Suggested discussing sensitive matters elsewhere.
+        *   **Won Ring of the Giant Slayer:** Chose the lottery reward option and won an uncommon magic ring from the HQ lottery machine (rolled 41).
+        *   **Denied Shield by Hamhawk:** Visited Hamhawk and requested a shield or defensive item, but was politely refused (Hamhawk only does initial gear or special commissions, not retail). Playfully ribbed Leopold about his 'apprenticeship'.
+        *   **Checked on Hidden Woman:** Returned to the hidden tunnel. Cast Faerie Fire for privacy. Cast Lesser Restoration on the woman (no effect). Carefully peeled back the mask's edge (Sleight of Hand 12), smelling fresh air/nature scents but noticing the woman's skin blanching where exposed. Concluded the mask was vital and removing it likely fatal. Initially willing to risk removal but deferred to group consensus for research.
+        *   **Assisted Shopping:** Participated in shopping trip. Suggested leveraging Legionnaire expense account (shot down). Provided Guidance to Kaladin during negotiation. Received Scroll of Shield from Philindra. Tested merchant's "Necklace of Whispers" (failed to contact woman, succeeded one-way with Leopold). Purchased a standard shield.
+        *   **Market Familiarization:** Spent downtime learning the layout of the Market District. Completed a long rest.
+
+*   **Cletus Cobbington** *Race/Class:* [Race/Class TBD - Update after Session 1]
+    *   Current Level: 1
+    *   Key Items:
+        *   Starting equipment
+    *   Notable Traits & Events:
+        *   Not present in Sessions 1-4.
+
+*   **Cyrus Schwert** *Race/Class:* [Race/Class TBD - Update after Session 1]
+    *   Current Level: 1
+    *   Key Items:
+        *   Starting equipment
+    *   Notable Traits & Events:
+        *   Not present in Sessions 1-4.
+
+---
+
+## Key NPCs
+
+*   **Captain Levi:** Stonewall Legionnaire officer. Wears distinctive 'bucket' hat and vest, wields advanced hand crossbows. Oversees Legionnaire tryouts. Identified the PCs' 'Isoptic Curse' potential, recruited them. Directed the party to Hamhock. Casual but authoritative. Observed by Zariel discussing another dome, missing persons, etc. Personally assigned Case 22391. Summoned the party back to HQ via Ratshit after their tunnel investigation. **Conducted Zariel's post-mission briefing:** Used silence and indirect questioning. Discerned via Zariel's high Insight that Levi knew about the hidden woman but chose not to press when Zariel omitted her, seemingly satisfied and deciding a course based on this. Observed using a high-tech runic bracelet.
+*   **Lord Marshall Thurr:** High-ranking Stonewall Legionnaire leader. 'Bear of a man', beard, scar, cob pipe. Observed tryouts. Confirmed Legionnaire interest in Isoptic Curse. Endorsed Levi's offer. Fought alongside party against Cursed Fire Elemental. Initiated the cursed soldier program. **Conducted Kaladin's post-mission briefing:** Revealed he knew about the hidden woman (via scrying triggered by vitals dropping and Omen Knight report). Confirmed he intentionally sent Lancex into the tunnels as a test for the party's Isoptic Curse abilities and witnessed his fall via scrying. Offered the party a choice: bring the woman to Legionnaire facilities for study/help, or handle the situation themselves unsupervised, stating he would overlook their initial transgression. Instructed Ratshit to have Kaladin take Lancex's club to Hamhawk.
+*   **Hamhawk:** Ogre-like female humanoid smithy for the Legionnaires. Gruff, efficient, protective of her advanced forge (Storm District). Underbite, sharp canines, glasses, blonde pigtail. Crafted party's custom gear. Expressed interest in Zariel's nature magic. Provided Leopold schematics. **Tasked Leopold with gathering materials for "Project Splitter,"** providing him the blueprint and payment authorization. Insists Leopold is not her apprentice. Refused Zariel's request for a standard shield (only initial gear/special commissions). **Upgraded Kaladin's weapon** by transferring magic from Lancex's club. Revealed Project Splitter is intended to create a stable opening in the Arcane Dome for an upcoming **Omen Knight mission to Moonhaven** (which recently went silent), coinciding with a planned festival/send-off. Tasked Leopold with finding a library binder for the final spell component.
+*   **Donnie Farsight (aka Ratshit):** Malnourished-looking half-orc handler for the party. Cynical, fast-talking. Explained barracks procedures, gear, pay/lottery. Delivered gear and first mission folder. Relayed Captain Levi's summons to the party via comms after their tunnel mission. **Facilitated return to HQ and individual briefings.** Briefed Leopold, asking directly about the woman, but was successfully deceived after being distracted by Leopold's "Duty Maker" fart prank. Showed genuine interest in Leopold's mission debrief details. **Explained reward options (pay vs. lottery) and processed the party's lottery wins.** Conveyed Thurr's instruction about the club to Kaladin. Assigned the party downtime.
+*   **Selena Sal:** Eccentric, seemingly ancient potion shop owner (Storm District). Huge goggles, messy bun, patchwork muumuu. Potentially senile or feigning it. Has a talking hermit crab, Marcel. Her shop contains the hidden entrance to the Fungal Tunnels, which are now known to be extensive, dangerous, and connected to Fey magic and transformations. Her involvement/awareness remains unknown. *(Not encountered this session)*.
+*   **Lancex the Fungal Guardian:** Former Stonewall Legionnaire assimilated and mutated into a powerful Myconid Sovereign variant. Encountered as the guardian of the final chamber in the Fungal Tunnels. Hulking, grotesque form incorporating broken Legionnaire armor pieces onto a fungal body with large caps, purple spores, and wielding a root club. Fought the party fiercely using spore attacks (poison, stun, unconsciousness) and club blows. Focused attacks on Zariel. Possessed Lair Actions. Defeated by the party after Zariel and Leopold activated Stress Points. His final mental words to Zariel were "He's coming for her." Identified via nameplate on armor fragment, confirming him as the missing person from Case 22391. Revealed by Thurr to have been intentionally sent into the tunnels as part of a test for the party. His club's magic was transferred to Kaladin's weapon. *(Status: Deceased/Destroyed)*
+*   **Mysterious Woman on Altar:** Young, fair-skinned woman with dirty brown hair found unconscious on a stone altar deep within the Fungal Tunnels, behind a mist waterfall in Lancex's chamber. Wears a well-crafted glass mask filled with living plants, held by leather straps. Mask emits powerful, chaotic Fey magic that seems to be helping her sustain herself. Breathing but unresponsive. Guarded by Lancex. The party decided to hide her in a secret tunnel near the Emerald Grove rather than report her immediately. Likely the "her" mentioned in Lancex's final warning and Kaladin's dream. **Leadership (Thurr/Levi) confirmed aware of her existence.** Attempted Lesser Restoration had no effect. Mask emits nature scents; partially lifting it caused her skin to blanch, suggesting it is vital for survival in the current environment. Kaladin experienced a vision suggesting she is from outside the dome. *(Status: Unconscious, Hidden, under Legionnaire observation/awareness)*
+*   **Omen Knight (Unnamed):** Extremely imposing (~1.5 ft taller than Leopold) figure encountered near the Emerald Grove exit of the Fungal Tunnels. Wears sleek, all-black armor with jagged pauldrons, no visible skin (dark material between plates), helmet with empty black visor slits. Wields an enormous, wicked-looking greatsword stored magnetically. Bears standard Legionnaire symbol and an unknown etched helmet insignia. Moves with crushing weight. Silent. Witnessed killing another bladed monster before confronting the party, observing the carried woman. Disregarded Kaladin's attempt to assert rank. Disengaged upon Ratshit's comms call. Confirmed as one of the elite warrior types Zariel previously overheard about (Omen Knights/Alabaster Lords). **Confirmed to have reported seeing the party with the woman to Lord Marshall Thurr.** Omen Knights are planned to be sent on a mission to Moonhaven soon. *(Status: Active, Location Unknown)*
+*   **Unnamed Posh Nobleman:** Arrogant participant in Legionnaire tryouts; Kaladin's opponent. Revealed he was cursed, transformed into a Fire Elemental. *(Status: Deceased/Destroyed as Fire Elemental)*
+*   **Philindra Sprawlweaver:** *(New Key NPC, Promoted from Minor)* Owner of the "Mystical Scripts Scroll" shop in the Market District. Professional, friendly woman running a well-organized, magically enhanced shop. Uses a high-tech wristband tome. Recognized Hamhawk's request. Negotiated a deal with the party (Persuasion 19+Guidance) for bonus scrolls (Fireball, Shield, Magic Missile) on their current order in exchange for potential future Legionnaire business. Playfully imprinted her shop's logo on the party's armor. Directed them to find diamond dust elsewhere. *(Status: Active, Market District)*
+
+---
+
+## Minor NPCs
+
+*   **Billy:** Zariel's former coworker in the underpassage tunnels. Encouraged Zariel to try out.
+*   **Titan:** Large Legionnaire soldier who fought Leopold in the combat trial.
+*   **Unnamed Scrawny Spellcaster:** Zariel's opponent in the combat trial.
+*   **Corps Medics:** Healed the party after tryouts.
+*   **Cor:** Arrogant Legionnaire guard at Hamhawk's forge.
+*   **Billy (Legionnaire Bully):** Hazed Leopold in the barracks.
+*   **Marcel the Hermit Crab:** Talking hermit crab companion to Selena Sal. Sassy. Potential "date" for Leopold.
+*   **Bald Man with Beard:** Civilian outside underground bar who directed party to Selena's shop.
+*   **Bouncer at Underground Bar:** Guard who mentioned creature sightings and marginalized victims near Selena's shop.
+*   **Dwarven Woman with Fangs:** Flirtatious woman in bar line who gave Zariel a hint and Leopold a film reel.
+*   **Myconid Sprouts:** Small, quadrupedal fungal creatures. Seen abducting someone. Several defeated in initial tunnel encounters. One ambushed the party after their short rest and was defeated by Leopold. *(Status: Multiple defeated)*
+*   **Myconid Sovereign (Generic):** Large, bipedal warrior Myconid encountered in first tunnel fight. Used spores. *(Status: Defeated)* (Note: Lancex was a unique, mutated variant).
+*   **Bladed Monster:** Unidentified monster with blades, quickly dispatched by the Omen Knight near the Emerald Grove exit. *(Status: Deceased)*
+*   **Nerman:** *(New Minor NPC)* Frail, hunchbacked elderly man running the "Feathered Quill" scroll shop in the Market District. Offered basic scrolls but lacked components needed by the party and reacted poorly to negotiation. *(Status: Active, Market District)*
+*   **Unnamed Merchant at "Curious and Wonders":** *(New Minor NPC)* Stall owner in the Market District selling gems and curios. Sold the party diamond dust. Tried to upsell a Ring of Warmth and a Necklace of Whispers (Sending Stone equivalent, tested by Zariel). *(Status: Active, Market District)*
+*   **Grand Historian Garris:** *(New Minor NPC)* Elderly, annoyed head librarian at the Core Library. Assisted Kaladin's research on the Feywild, providing information about Jeya and planar binding/sealing history. *(Status: Active, Core Library)*
+
+---
+
+## Important Events So Far
+
+*   **Induction into the Stonewall Legionnaires:** Kaladin, Leopold, and Zariel attended Legionnaire tryouts, revealed potent 'Isoptic Curse' abilities, attracted high-level interest, collectively defeated a cursed Fire Elemental, and accepted offers to join the Legionnaires.
+
+*(No new major campaign milestone reached this session. Focus was on aftermath, investigation, revelations, and downtime setup.)*
+
+---
+
+## Locations of Interest
+
+*   **Avarias:** The campaign world/region.
+*   **New New Arbor:** Large, domed city with advanced arcane tech. Districts include Market, Dawn (undead reports), Sweets, Amberfields (farmland), Emerald Grove (forested), Storm (industrial/Dwarven), and The Core (Legionnaire HQ/Barracks). Travel requires permission/status.
+    *   **Emerald Grove:** Forested district. Zariel found his orchid nearby. Contains a secret tunnel exit connecting to the Fungal Tunnels beneath the Storm District.
+    *   **Storm District:** Overcast, rainy district. Location of Hamhawk's Forge, Selena Sal's Potion Shop, underground bar, and disappearances. Contains entrance to the Fungal Tunnels.
+    *   **Market District:** *(New Location)* District for commerce. Contains various shops and stalls including the "Feathered Quill" (Nerman), "Mystical Scripts Scroll" (Philindra), and "Curious and Wonders" stall visited by the party. Site of party's downtime shopping.
+    *   **Core District:** Central hub containing Legionnaire HQ/Barracks/Training Grounds.
+        *   **Stonewall Legionnaire HQ:** Functional, institutional building. Contains barracks, hallways (confirmed monitored by scrying orbs), briefing rooms (used by Levi, Ratshit), Lord Marshall Thurr's imposing office, and a mess hall/common area with a bar and the **Lottery Machine** (large cylindrical device dispensing random confiscated magic items). Site of briefings, reward distribution, and downtime assignments.
+        *   **Core Library:** *(New Location)* Large library within the Core District. Contains vast collection of tomes/scrolls/books and modern tech interfaces. Different levels, Headmaster's office (Garris). Site of Kaladin's Feywild research and Leopold's city history research. Some items (e.g., Scatter scroll) are magically chained/protected. Location of the binder needed for Hamhawk's project.
+*   **Underpassage Tunnel System (Beneath Core District):** Dark maintenance tunnels with arcane energy pipes. Zariel's former workplace; Leopold's reactivation site.
+*   **Stonewall Legionnaire Training Grounds / Combat Arena (Core District):** Site of the Legionnaire tryouts.
+*   **Stonewall Legionnaire Barracks (Core District):** Living quarters and operational hub. Party's current residence. Surveillance present in common areas.
+*   **Hamhawk's Forge (Storm District):** Advanced smithy where party commissioned gear. Contains arcane tools and currently houses the frame for "Project Splitter". Site of Kaladin's weapon upgrade and Leopold receiving his task.
+*   **Selena Sal's Potion Shop (Storm District, SE):** Cluttered shop run by eccentric Selena Sal. Contains hidden entrance to the Fungal Tunnels. The tunnels beneath are now known to be far more extensive and dangerous, housing mutated creatures (Lancex), potent Fey magic, and a mysterious captive woman.
+*   **Underground Bar (Storm District):** Subterranean rave-like bar.
+*   **Fungal Tunnels (Beneath Selena's Shop, Storm District):** Network of tunnels extending deep beneath the Storm District. Initial sections are narrow earth/stone with some fungi. Deeper levels become densely coated in moist, bioluminescent (blue, green, purple) mycelium, hanging fungal tendrils, thick mist, and a pulsating floor. Environment smells of decay, fertilizer, and rot. Inhabited by Myconid Sprouts and Sovereigns, including the powerful mutated former Legionnaire, Lancex (now destroyed). Contains a hidden chamber linked to potent Fey magic and an unconscious woman. A secret exit passage leads to the Emerald Grove district.
+*   **Lancex's Chamber / Altar Room (Within Fungal Tunnels):** Large cavern deep in the Fungal Tunnels. Dominated by large purple mushrooms, roots, and a central mound where Lancex resided. Features a mist waterfall concealing a stone altar where the mysterious woman was found. Site of the boss battle with Lancex. Served as his lair and the woman's sanctuary/prison. Contains the passage to the Emerald Grove exit.
+*   **Hidden Tunnel (Near Emerald Grove / Dawn District Border):** *(Formerly Emerald Grove Exit Point)* A specific, secluded tunnel passage accessible from Lancex's chamber (via stream path) and emerging near the Emerald Grove/Dawn district border. Used by the party to hide the unconscious woman. Its secrecy is compromised, as Legionnaire command is aware of the woman's general situation.
+
+---
+
+## Ongoing Mysteries & Goals
+
+*   What is the full nature, origin, and range of effects of the Isoptic Curse? (Note: Stress Point activation observed. Thurr confirmed he is testing recruits with the curse. Metallic sheen seen on Zariel. Cost/drawbacks still unknown.)
+*   What are the details surrounding Zariel's memory loss and 'accident'? What is the significance of his dream of stasis/medical care? (Note: Metallic sheen might relate to implicit Warforged nature. Fey magic discovery may connect.)
+*   What happened during Leopold's past (deactivation, memory issues)? What is the story behind his "Bone Grinder" emblem? Was his brother truly an Omen Knight? What did his dream signify? (Note: Memory flash confirmed past connection to potion-making/Deathcap. Mentioned fragments of memory involving a palace and brother "Victor." Library research yielded little.)
+*   What were Kaladin's specific dreams motivating him? What is the nature of his connection to the Feywild/past lives hinted at in dreams/vision? (Note: Discovery of potent Fey magic in tunnels relevant. Researched Feywild history - Jeya, planar binding. Experienced new vision connecting him to the woman and suggesting she's from outside the dome. Had new disturbing dream.)
+*   What are the potential consequences or drawbacks of using Stress Points? (Note: Power demonstrated, cost remains unknown.)
+*   Who was the figure Kaladin saw watching him before the tryouts?
+*   What is the significance of Zariel's red-tipped orchid?
+*   How common is the Isoptic Curse? How is it perceived? (Note: Thurr actively recruiting/testing those with it. First case recorded in library.)
+*   What is the full power structure of the Stonewall Legionnaires and New New Arbor? What is the significance of the Omen Knights and Alabaster Lords? (Note: Omen Knights confirmed as elite, powerful Legionnaire affiliates; one reported to Thurr. Omen Knight squad being sent to Moonhaven.)
+*   What is the significance of Captain Levi's meeting regarding another domed city? (Note: Related to Moonhaven, which has gone silent. Omen Knight mission planned.)
+*   What is the nature and origin of the Myconids in the Fungal Tunnels? What is their goal? (Note: Confirmed they assimilate victims like Lancex, guarded a Fey presence/woman. Lancex was a test subject placed by Thurr. Source/full motive still unknown.)
+*   Where are the missing people from the Storm District? (Note: Legionnaire Lancex found transformed/killed. Fate of person abducted in Session 2 unknown. Mysterious woman found captive.)
+*   Is Selena Sal involved with, complicit in, or ignorant of the Myconid/Fey activity beneath her shop? What is the deal with Marcel the talking crab?
+*   What is the significance of the small film reel Leopold received?
+*   What will happen on Leopold's arranged "date" with Marcel the Hermit Crab?
+*   Who/what is the mysterious woman found on the altar? What is the purpose/nature of her plant-filled mask and connection to Fey magic? (Note: Mask seems vital for her survival, emits nature scents. She reacts negatively to its seal being broken. Kaladin's vision suggests she is from outside the dome. Leadership is aware of her. Kaladin feels a connection.)
+*   Who is the "he" that Lancex warned is "coming for her"? (Note: Phrase repeated in Kaladin's nightmare, associated with a monstrous creature vision.)
+*   What is the full extent and origin of the Fey magic presence in the Fungal Tunnels? Is it related to the Myconids? (Note: Potent Fey magic confirmed on mask. Kaladin researched related planar history.)
+*   What are the Omen Knights' specific roles, powers, and allegiances? Why did the encountered Knight observe the party/woman and then leave? (Note: Confirmed they report to Thurr. Squad being sent on mission to Moonhaven via Project Splitter opening.)
+*   Will the party face consequences for hiding the woman from the Legionnaires? Is the chosen hiding spot secure? (Note: Leadership knows. Thurr offered a choice: cooperate or handle alone. Surveillance confirmed in HQ. Hiding spot location potentially compromised if Thurr knows details.)
+*   What was the significance of the Albatross blood drawing ("one for sorrow") found in the tunnels?
+*   What is the creature from Kaladin's dream? *(New)*
+*   What truly happened to Moonhaven to cause its silence? *(New)*
+*   What is the purpose of the upcoming festival mentioned by Hamhawk? *(New)*
+*   What are the full capabilities and implications of Project Splitter? *(New)*
+*   **Goal:** Report to Hamhock the smithy in the Storm District for gear, as instructed by Captain Levi. `(Resolved in Session 4)`
+*   **Goal:** Begin service and fulfill duties as new Stonewall Legionnaires. (In Progress - Completed briefings, received rewards, assigned downtime and tasks)
+*   **Goal:** Investigate the full extent of the Fungal Tunnels beneath Selena Sal's shop to understand the Myconid threat, the Fey presence, rescue missing persons, and determine the source. (Partially Complete - Lancex defeated, woman found, key findings revealed/known by command.)
+*   **Goal:** Formally conclude Case 22391 investigation with Legionnaire Command. (In Progress - Briefings held, but woman's status and party's decision unresolved.)
+*   **Goal:** Protect the mysterious Fey woman and uncover her identity/purpose. (In Progress - Checked on her, confirmed mask is vital, gained clues to origin, deferred decision on revealing her.)
+*   **Goal:** Discover the nature and cost of Stress Points / Isoptic Curse activation. (In Progress - Still Unknown)
+*   **Goal:** Find out who "he" is that Lancex warned about. (In Progress - Warning reinforced by Kaladin's dream.)
+*   **Goal:** Report back to Legionnaire HQ as summoned by Captain Levi. `(Resolved in Session 4)`
+*   **Goal:** Decide whether to accept Thurr's offer (bring woman in) or handle her situation independently. *(New, Immediate)*
+*   **Goal:** Gather materials for Hamhawk's Project Splitter (Anti-Magic Field source, library binder spell). *(New)*
+*   **Goal:** Assist Hamhawk with Project Splitter construction. *(New, In Progress)*
+*   **Goal:** Learn more about Moonhaven's status and the planned Omen Knight mission. *(New)*
+*   **Goal:** Further investigate Kaladin's connection to the Feywild/woman/dreams. *(New)*
+
+---
