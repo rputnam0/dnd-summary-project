@@ -1,6 +1,8 @@
 # D&D Session Summary Generator
 
-This project automatically generates summaries of D&D sessions using the Google Gemini API.
+This project processes raw Dungeons & Dragons session transcripts and produces structured
+analysis artifacts plus natural-language summaries. The existing Gemini-based pipeline lives in
+`src/dnd_summary`, while the new modular **DSPy** tooling is available under `src/dspy_dnd`.
 
 ## Setup
 
@@ -17,23 +19,50 @@ This project automatically generates summaries of D&D sessions using the Google 
     pip install -r requirements.txt
     ```
 
-3.  **Set up your API key:**
-    -   Rename the `.env.example` file to `.env`.
-    -   Open the `.env` file and add your Google API key:
-        ```
-        GOOGLE_API_KEY="YOUR_API_KEY"
-        ```
+3.  **Configure API keys:**
+    -   Copy `.env.example` to `.env` and add the credentials required for your chosen LLM
+        provider (Google for the legacy pipeline, OpenAI/Anthropic/etc. for DSPy experiments).
 
-## Usage
+## Legacy Gemini Pipeline
 
-To generate a summary for a specific session, run the following command:
-
-```bash
-python -m src.scripts.run_summary [session_number]
-```
-
-For example, to generate a summary for session 32, you would run:
+To generate a narrative summary for a specific session using the original Gemini workflow, run:
 
 ```bash
 python -m src.scripts.run_summary 32
+```
+
+Replace `32` with the desired session number.
+
+## DSPy Modular Analysis
+
+The `dspy_dnd` package exposes a structured analysis pipeline that outputs a single JSON artifact.
+
+```bash
+# Generate heuristic silver labels (placeholder heuristics)
+python -m src.dspy_dnd.labeling.silver_labels --in transcripts --out data/silver
+
+# (Optional) compile prompts with DSPy teleprompting
+python -m src.dspy_dnd.compile --train data/silver/silver.jsonl
+
+# Run the analyzer on an example transcript/background/overview trio
+python -m src.dspy_dnd.run \
+  --transcript examples/minimal_transcript.txt \
+  --background examples/avarias_background.txt \
+  --overview examples/campaign_overview.txt \
+  --out out/example.analysis.json
+
+# Evaluate predictions against silver labels
+python -m src.dspy_dnd.eval.run --pred out/preds.jsonl --gold data/silver/silver.jsonl
+```
+
+The output schema is defined in `src/dspy_dnd/types.py` via Pydantic models. The orchestrating
+`SessionAnalyzer` module in `src/dspy_dnd/program.py` composes DSPy sub-modules for NPCs, timeline,
+dialogue, mechanics, and more, producing a DB-ready artifact.
+
+## Testing
+
+Run the full test suite before committing changes:
+
+```bash
+pytest
 ```
